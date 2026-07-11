@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057484933799759872"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2057484940141642090",
+    "created_at": "2026-05-21T15:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057484940141642090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VX9dufiLpE",
+          "end": 42,
+          "expanded_url": "https://x.com/Dodioibs/status/2057484940141642090/photo/1",
+          "media_key": "3_2057484933799759872",
+          "start": 19,
+          "url": "https://t.co/VX9dufiLpE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057484940141642090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个是我爱了五年的老公之一。哦吼吼吼 https://t.co/VX9dufiLpE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 483,
+        "media_key": "3_2057484933799759872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2npXHaUAAMRxR.jpg",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057484933799759872"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2057484940141642090",
+        "created_at": "2026-05-21T15:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057484940141642090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VX9dufiLpE",
+              "end": 42,
+              "expanded_url": "https://x.com/Dodioibs/status/2057484940141642090/photo/1",
+              "media_key": "3_2057484933799759872",
+              "start": 19,
+              "url": "https://t.co/VX9dufiLpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057484940141642090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个是我爱了五年的老公之一。哦吼吼吼 https://t.co/VX9dufiLpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 144,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 454
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

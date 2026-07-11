@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067596095501615104"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2067596101780484401",
+    "created_at": "2026-06-18T13:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T14:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067596101780484401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AGZnPaPhhL",
+          "end": 30,
+          "expanded_url": "https://x.com/Dodioibs/status/2067596101780484401/photo/1",
+          "media_key": "3_2067596095501615104",
+          "start": 7,
+          "url": "https://t.co/AGZnPaPhhL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067596101780484401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是个什么鬼 https://t.co/AGZnPaPhhL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 347,
+        "media_key": "3_2067596095501615104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGTsbtbwAAkvwK.jpg",
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067596095501615104"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2067596101780484401",
+        "created_at": "2026-06-18T13:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067596101780484401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGZnPaPhhL",
+              "end": 30,
+              "expanded_url": "https://x.com/Dodioibs/status/2067596101780484401/photo/1",
+              "media_key": "3_2067596095501615104",
+              "start": 7,
+              "url": "https://t.co/AGZnPaPhhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067596101780484401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是个什么鬼 https://t.co/AGZnPaPhhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2066254611145691260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 913
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

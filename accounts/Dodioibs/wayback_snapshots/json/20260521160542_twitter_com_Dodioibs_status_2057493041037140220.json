@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057493033567072256",
+        "3_2057493033583796224",
+        "3_2057493033600663552"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2057493041037140220",
+    "created_at": "2026-05-21T16:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057493041037140220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wNYXq7TcL5",
+          "end": 53,
+          "expanded_url": "https://x.com/Dodioibs/status/2057493041037140220/photo/1",
+          "media_key": "3_2057493033567072256",
+          "start": 30,
+          "url": "https://t.co/wNYXq7TcL5"
+        },
+        {
+          "display_url": "pic.x.com/wNYXq7TcL5",
+          "end": 53,
+          "expanded_url": "https://x.com/Dodioibs/status/2057493041037140220/photo/1",
+          "media_key": "3_2057493033583796224",
+          "start": 30,
+          "url": "https://t.co/wNYXq7TcL5"
+        },
+        {
+          "display_url": "pic.x.com/wNYXq7TcL5",
+          "end": 53,
+          "expanded_url": "https://x.com/Dodioibs/status/2057493041037140220/photo/1",
+          "media_key": "3_2057493033600663552",
+          "start": 30,
+          "url": "https://t.co/wNYXq7TcL5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057493041037140220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上上上很久之前的一次经历  喜欢。我很喜欢意识不清醒的状态 https://t.co/wNYXq7TcL5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057493033567072256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2vA1GbMAAK6Mc.jpg",
+        "width": 996
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057493033583796224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2vA1KaYAA_PbG.jpg",
+        "width": 1016
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057493033600663552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2vA1ObwAA2O5H.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057493033567072256",
+            "3_2057493033583796224",
+            "3_2057493033600663552"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2057493041037140220",
+        "created_at": "2026-05-21T16:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057493041037140220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNYXq7TcL5",
+              "end": 53,
+              "expanded_url": "https://x.com/Dodioibs/status/2057493041037140220/photo/1",
+              "media_key": "3_2057493033567072256",
+              "start": 30,
+              "url": "https://t.co/wNYXq7TcL5"
+            },
+            {
+              "display_url": "pic.x.com/wNYXq7TcL5",
+              "end": 53,
+              "expanded_url": "https://x.com/Dodioibs/status/2057493041037140220/photo/1",
+              "media_key": "3_2057493033583796224",
+              "start": 30,
+              "url": "https://t.co/wNYXq7TcL5"
+            },
+            {
+              "display_url": "pic.x.com/wNYXq7TcL5",
+              "end": 53,
+              "expanded_url": "https://x.com/Dodioibs/status/2057493041037140220/photo/1",
+              "media_key": "3_2057493033600663552",
+              "start": 30,
+              "url": "https://t.co/wNYXq7TcL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057493041037140220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上上上很久之前的一次经历  喜欢。我很喜欢意识不清醒的状态 https://t.co/wNYXq7TcL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 144,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 460
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

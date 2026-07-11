@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056957916213899264"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056957923289633119",
+    "created_at": "2026-05-20T04:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056957923289633119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3KCSS9NT5a",
+          "end": 91,
+          "expanded_url": "https://x.com/Dodioibs/status/2056957923289633119/photo/1",
+          "media_key": "3_2056957916213899264",
+          "start": 68,
+          "url": "https://t.co/3KCSS9NT5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056957923289633119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不私聊哈小美女，不好意思，我是一个有家庭有恋人孩子的人，我平时在抖音发发视频已经是最大的尺度了，希望你理解，但转账我能接受，多大都能。 https://t.co/3KCSS9NT5a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2056957916213899264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvIU5nbcAAYCMD.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056957916213899264"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056957923289633119",
+        "created_at": "2026-05-20T04:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056957923289633119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3KCSS9NT5a",
+              "end": 91,
+              "expanded_url": "https://x.com/Dodioibs/status/2056957923289633119/photo/1",
+              "media_key": "3_2056957916213899264",
+              "start": 68,
+              "url": "https://t.co/3KCSS9NT5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056957923289633119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不私聊哈小美女，不好意思，我是一个有家庭有恋人孩子的人，我平时在抖音发发视频已经是最大的尺度了，希望你理解，但转账我能接受，多大都能。 https://t.co/3KCSS9NT5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 130,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 387
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

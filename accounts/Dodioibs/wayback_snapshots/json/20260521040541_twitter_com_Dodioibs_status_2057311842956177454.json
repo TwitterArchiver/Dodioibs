@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2057311842956177454",
+    "created_at": "2026-05-21T04:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057311842956177454"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057311842956177454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和你们讲之前有人说我比起来蕾系 更像是量产型，但是我就很疑惑，我不是地雷女吗 怎么还分这么细哈哈哈哈哈哈 我以为现在抖音上的所有标签都是地雷女的别称"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2057311842956177454",
+        "created_at": "2026-05-21T04:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057311842956177454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057311842956177454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和你们讲之前有人说我比起来蕾系 更像是量产型，但是我就很疑惑，我不是地雷女吗 怎么还分这么细哈哈哈哈哈哈 我以为现在抖音上的所有标签都是地雷女的别称"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 137,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 425
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

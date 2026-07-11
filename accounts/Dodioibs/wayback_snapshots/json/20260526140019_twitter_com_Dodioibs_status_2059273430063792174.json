@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059175751891791872"
+      ],
+      "media_source_tweet_id": [
+        "2059175757990223921"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2059273430063792174",
+    "created_at": "2026-05-26T14:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059273430063792174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058743029595516928",
+          "start": 3,
+          "username": "Yun6lyr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ozMabAKc9H",
+          "end": 83,
+          "expanded_url": "https://x.com/Yun6lyr/status/2059175757990223921/photo/1",
+          "media_key": "3_2059175751891791872",
+          "start": 60,
+          "url": "https://t.co/ozMabAKc9H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059273430063792174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059175757990223921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yun6lyr: 你好我是芙苏莉尔ovo\n新号不是晶 二代目秽土转生\n欢迎同类互转互fo 互关可以加我QQ玩喵 https://t.co/ozMabAKc9H"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059273430063792174].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059273430063792174",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059273430063792174"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059175751891791872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOpb7WbsAAv-zI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059175751891791872"
+          ]
+        },
+        "author_id": "2058743029595516928",
+        "conversation_id": "2059175757990223921",
+        "created_at": "2026-05-26T07:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059175757990223921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozMabAKc9H",
+              "end": 70,
+              "expanded_url": "https://x.com/Yun6lyr/status/2059175757990223921/photo/1",
+              "media_key": "3_2059175751891791872",
+              "start": 47,
+              "url": "https://t.co/ozMabAKc9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059175757990223921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 796,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你好我是芙苏莉尔ovo\n新号不是晶 二代目秽土转生\n欢迎同类互转互fo 互关可以加我QQ玩喵 https://t.co/ozMabAKc9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 192,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 579
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T02:56:02.000Z",
+        "description": "11年｜双向｜od｜自伤 ｜LGBTQ+友好\n欢迎同类互fo喵",
+        "id": "2058743029595516928",
+        "name": "Yun",
+        "pinned_tweet_id": "2058747350018113672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058751152540581888/Vv5daAvp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 73,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "username": "Yun6lyr",
+        "verified": false
+      }
+    ]
+  }
+}

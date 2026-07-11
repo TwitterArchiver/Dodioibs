@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2053852555906830577",
+    "created_at": "2026-05-12T13:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054193074063258023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037614188256776192",
+          "start": 0,
+          "username": "gezi_loveMomoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054193074063258023",
+    "in_reply_to_user_id": "2037614188256776192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053852555906830577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gezi_loveMomoki 强生婴幼儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2053852555906830577",
+        "created_at": "2026-05-12T13:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054193074063258023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037614188256776192",
+              "start": 0,
+              "username": "gezi_loveMomoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054193074063258023",
+        "in_reply_to_user_id": "2037614188256776192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053852555906830577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gezi_loveMomoki 强生婴幼儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037614188256776192",
+        "conversation_id": "2053852555906830577",
+        "created_at": "2026-05-11T14:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053852555906830577"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053852555906830577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 16010,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的互关们，你们用的什么沐浴露？我要和你们用同款"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 76,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 176
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T19:34:29.000Z",
+        "description": "搞同人专用（大号被封了就在这说话了）本号禁腐禁㽖",
+        "id": "2037614188256776192",
+        "location": "520",
+        "name": "鸽子",
+        "pinned_tweet_id": "2050509168910733742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037614374270255104/W_C1e1eH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 131,
+          "like_count": 1478,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 782
+        },
+        "username": "gezi_loveMomoki",
+        "verified": false
+      }
+    ]
+  }
+}

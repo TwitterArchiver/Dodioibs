@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2059010087705022856",
+    "created_at": "2026-05-25T21:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T22:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059028826739666966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046967144798121984",
+          "start": 0,
+          "username": "Cristinai1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059028826739666966",
+    "in_reply_to_user_id": "2046967144798121984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059010087705022856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cristinai1b 不去应该可以。买减张贴认真做消毒。但是我总体一个脂肪层消毒包扎就要小一百吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2059010087705022856",
+        "created_at": "2026-05-25T21:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059028826739666966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046967144798121984",
+              "start": 0,
+              "username": "Cristinai1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059028826739666966",
+        "in_reply_to_user_id": "2046967144798121984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059010087705022856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cristinai1b 不去应该可以。买减张贴认真做消毒。但是我总体一个脂肪层消毒包扎就要小一百吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046967144798121984",
+        "conversation_id": "2059010087705022856",
+        "created_at": "2026-05-25T20:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059010087705022856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059010087705022856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好崩溃啊痛醒了。我昨天割了几个脂肪层，我要去医院缝合吗……费用大概多少啊。。我好怕花钱。如果不去的话能行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 184,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 571
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T15:01:30.000Z",
+        "description": "oded餐券嗯嗯好的🚪88/152/188",
+        "id": "2046967144798121984",
+        "name": "Relythat517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046968486316978177/sxvY-Ud2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 245,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 70
+        },
+        "username": "Cristinai1b",
+        "verified": false
+      }
+    ]
+  }
+}

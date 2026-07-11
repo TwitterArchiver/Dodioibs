@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2053843050779316379",
+    "created_at": "2026-05-11T14:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053843050779316379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "ovoTvTo3o7777u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053843050779316379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053525943508168866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovoTvTo3o7777u: 有惨不卖我不白经历了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2053843050779316379",
+        "created_at": "2026-05-11T14:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053843050779316379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "ovoTvTo3o7777u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053843050779316379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053525943508168866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovoTvTo3o7777u: 有惨不卖我不白经历了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2053525943508168866",
+        "created_at": "2026-05-10T17:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T18:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053525943508168866"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053525943508168866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 18966,
+          "like_count": 717,
+          "quote_count": 14,
+          "reply_count": 37,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "有惨不卖我不白经历了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回",
+        "id": "2045598149704818688",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 46,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 135
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 67,
+          "like_count": 3110,
+          "listed_count": 4,
+          "media_count": 443,
+          "tweet_count": 5841
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "ovoTvTo3o7777u",
+        "verified": false
+      }
+    ]
+  }
+}

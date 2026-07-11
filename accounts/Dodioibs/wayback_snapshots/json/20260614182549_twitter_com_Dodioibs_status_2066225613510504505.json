@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2066089559927169141",
+    "created_at": "2026-06-14T18:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066225613510504505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1384831606276476930",
+          "start": 0,
+          "username": "Xxx_kkkl"
+        },
+        {
+          "end": 17,
+          "id": "2055236571344105472",
+          "start": 10,
+          "username": "Zi7qri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066225613510504505",
+    "in_reply_to_user_id": "1384831606276476930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066145116025389433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxx_kkkl @Zi7qri 我也想知道www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2066089559927169141",
+        "created_at": "2026-06-14T18:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066225613510504505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1384831606276476930",
+              "start": 0,
+              "username": "Xxx_kkkl"
+            },
+            {
+              "end": 17,
+              "id": "2055236571344105472",
+              "start": 10,
+              "username": "Zi7qri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066225613510504505",
+        "in_reply_to_user_id": "1384831606276476930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066145116025389433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxx_kkkl @Zi7qri 我也想知道www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1384831606276476930",
+        "conversation_id": "2066089559927169141",
+        "created_at": "2026-06-14T13:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066145116025389433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055236571344105472",
+              "start": 0,
+              "username": "Zi7qri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066145116025389433",
+        "in_reply_to_user_id": "2055236571344105472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066128739537457568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zi7qri 可以开一下私信给您介绍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 253,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 883
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "活人死的",
+        "id": "1384831606276476930",
+        "name": "Jahseh（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 52,
+          "like_count": 53,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 62
+        },
+        "username": "Xxx_kkkl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T10:40:17.000Z",
+        "description": "中文/Eng/22/药物滥用者",
+        "id": "2055236571344105472",
+        "name": "Zi",
+        "pinned_tweet_id": "2061396762863264231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057218944130523136/rhUtpq1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 316,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 36
+        },
+        "username": "Zi7qri",
+        "verified": false
+      }
+    ]
+  }
+}

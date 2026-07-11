@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2059864233324781629",
+    "created_at": "2026-05-28T05:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059868455869010223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1843325725694476288",
+          "start": 0,
+          "username": "Ba1L0veU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059868455869010223",
+    "in_reply_to_user_id": "1843325725694476288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059865589443949005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ba1L0veU 求分享！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2059864233324781629",
+        "created_at": "2026-05-28T05:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059868455869010223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1843325725694476288",
+              "start": 0,
+              "username": "Ba1L0veU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059868455869010223",
+        "in_reply_to_user_id": "1843325725694476288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059865589443949005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ba1L0veU 求分享！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843325725694476288",
+        "conversation_id": "2059864233324781629",
+        "created_at": "2026-05-28T05:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059865589443949005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059865589443949005",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059864233324781629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 我有。("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 210,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 660
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T16:21:30.000Z",
+        "description": "白白/Prs   欢迎互fo🦔                                                       蓝蝴蝶同号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ba1l0veu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ba1l0veu",
+                "start": 0,
+                "url": "https://t.co/XmXaKpvitI"
+              }
+            ]
+          }
+        },
+        "id": "1843325725694476288",
+        "location": "❤️",
+        "name": "白白🍀",
+        "pinned_tweet_id": "2040738512937652488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040822086462312448/0uUM_IQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 644,
+          "like_count": 3880,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1818
+        },
+        "url": "https://t.co/XmXaKpvitI",
+        "username": "Ba1L0veU",
+        "verified": false
+      }
+    ]
+  }
+}

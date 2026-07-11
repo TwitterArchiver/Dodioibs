@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055978351001829782",
+    "created_at": "2026-05-17T13:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056003425733927073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042615716059451399",
+          "start": 0,
+          "username": "lyxtd3s"
+        },
+        {
+          "end": 22,
+          "id": "2054771448208928768",
+          "start": 9,
+          "username": "bingkuaiy9lt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056003425733927073",
+    "in_reply_to_user_id": "2042615716059451399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055978351001829782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxtd3s @bingkuaiy9lt 我差点就吃醋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055978351001829782",
+        "created_at": "2026-05-17T13:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056003425733927073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042615716059451399",
+              "start": 0,
+              "username": "lyxtd3s"
+            },
+            {
+              "end": 22,
+              "id": "2054771448208928768",
+              "start": 9,
+              "username": "bingkuaiy9lt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056003425733927073",
+        "in_reply_to_user_id": "2042615716059451399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055978351001829782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxtd3s @bingkuaiy9lt 我差点就吃醋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042615716059451399",
+        "conversation_id": "2055978351001829782",
+        "created_at": "2026-05-17T11:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055978351001829782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2054771448208928768",
+              "start": 6,
+              "username": "bingkuaiy9lt"
+            },
+            {
+              "end": 37,
+              "id": "2054771448208928768",
+              "start": 24,
+              "username": "bingkuaiy9lt"
+            },
+            {
+              "end": 54,
+              "id": "2054771448208928768",
+              "start": 41,
+              "username": "bingkuaiy9lt"
+            },
+            {
+              "end": 73,
+              "id": "2054771448208928768",
+              "start": 60,
+              "username": "bingkuaiy9lt"
+            },
+            {
+              "end": 90,
+              "id": "2054771448208928768",
+              "start": 77,
+              "username": "bingkuaiy9lt"
+            },
+            {
+              "end": 107,
+              "id": "2054771448208928768",
+              "start": 94,
+              "username": "bingkuaiy9lt"
+            },
+            {
+              "end": 124,
+              "id": "2054771448208928768",
+              "start": 111,
+              "username": "bingkuaiy9lt"
+            },
+            {
+              "end": 143,
+              "id": "2054771448208928768",
+              "start": 130,
+              "username": "bingkuaiy9lt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055978351001829782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "官宣：\n恋人@bingkuaiy9lt \n小宝宝@bingkuaiy9lt \n家人@bingkuaiy9lt \n永远的神@bingkuaiy9lt \n爸爸@bingkuaiy9lt \n妈妈@bingkuaiy9lt \n闺蜜@bingkuaiy9lt \n最爱的人@bingkuaiy9lt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 120,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 325
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:48:57.000Z",
+        "description": "年龄未知｜双相 重抑 割手 od ｜男的加我🚪52",
+        "id": "2042615716059451399",
+        "name": "冰块🧊",
+        "pinned_tweet_id": "2055978351001829782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042616008461160450/WF5WX5Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 214,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 387
+        },
+        "username": "lyxtd3s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T03:51:47.000Z",
+        "description": "成分复杂 发点画",
+        "id": "2054771448208928768",
+        "name": "冰块wy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054771794637422592/PGsTz_Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 6,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 15
+        },
+        "username": "bingkuaiy9lt",
+        "verified": false
+      }
+    ]
+  }
+}

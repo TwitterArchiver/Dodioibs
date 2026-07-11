@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056749997354570017",
+    "created_at": "2026-05-20T12:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057074412097306923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1594676652285779969",
+          "start": 0,
+          "username": "yome_ukrina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057074412097306923",
+    "in_reply_to_user_id": "1594676652285779969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056999371045257636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yome_ukrina 我也是，如果按照医学用量的话，根本睡不着觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056749997354570017",
+        "created_at": "2026-05-20T12:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057074412097306923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1594676652285779969",
+              "start": 0,
+              "username": "yome_ukrina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057074412097306923",
+        "in_reply_to_user_id": "1594676652285779969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056999371045257636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yome_ukrina 我也是，如果按照医学用量的话，根本睡不着觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594676652285779969",
+        "conversation_id": "2056749997354570017",
+        "created_at": "2026-05-20T07:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056999371045257636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056999371045257636",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056749997354570017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 2t 没幻也睡不着 刚开的时候我还挺兴奋 现在换地西泮吃了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 134,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 406
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-21T12:59:01.000Z",
+        "description": "",
+        "id": "1594676652285779969",
+        "name": "lioko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803089761395179520/u7PHhezC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 182,
+          "like_count": 2044,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "username": "yome_ukrina",
+        "verified": false
+      }
+    ]
+  }
+}

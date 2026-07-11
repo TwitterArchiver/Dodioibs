@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056749997354570017",
+    "created_at": "2026-05-20T04:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T05:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056956135115198970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930348223283290112",
+          "start": 0,
+          "username": "nvn0207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056956135115198970",
+    "in_reply_to_user_id": "1930348223283290112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056918793662992726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvn0207 我刚吃完就睡觉了 不知道有没有幻觉或者什么，因为断片了emm 我家人说我呕吐之类的还很困"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056749997354570017",
+        "created_at": "2026-05-20T04:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056956135115198970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930348223283290112",
+              "start": 0,
+              "username": "nvn0207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056956135115198970",
+        "in_reply_to_user_id": "1930348223283290112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056918793662992726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvn0207 我刚吃完就睡觉了 不知道有没有幻觉或者什么，因为断片了emm 我家人说我呕吐之类的还很困"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930348223283290112",
+        "conversation_id": "2056749997354570017",
+        "created_at": "2026-05-20T02:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056918793662992726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056918793662992726",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056749997354570017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 我之前有次吃了1t一直睡不着，然后又加了1t，还是睡不着，给我气坏了又加了2t，所以一共4t给我干断片幻觉了。我前任说我指着衣柜问他“你朋友怎么不说话”给他吓得不行扣我嗓子催吐。我嗓子都被扣伤了也没吐出来。后来不知道怎么的就睡着了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 130,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 384
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T19:38:22.000Z",
+        "description": "可以叫我小晴^ω^丨女170cm57kg丨istp天秤丨已有对象丨BD+SD丨不爱说话不会聊天丨不od不自残不吸烟不饮酒丨Stilnox重度依赖丨\n\n一般来说看到就会回fo～😙",
+        "id": "1930348223283290112",
+        "name": "雨滴落",
+        "pinned_tweet_id": "1943251086288261565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052373551513284608/SOv4MC5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 93,
+          "like_count": 3696,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 270
+        },
+        "username": "nvn0207",
+        "verified": false
+      }
+    ]
+  }
+}

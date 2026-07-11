@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2047524785366908953",
+    "created_at": "2026-04-24T16:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047713603516850617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1952756747095220224",
+          "start": 0,
+          "username": "i3knvuu"
+        },
+        {
+          "end": 18,
+          "id": "1667129907795886081",
+          "start": 9,
+          "username": "mods999_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047713603516850617",
+    "in_reply_to_user_id": "1952756747095220224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047674600113487877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i3knvuu @mods999_ 一两天吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2047524785366908953",
+        "created_at": "2026-04-24T16:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047713603516850617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1952756747095220224",
+              "start": 0,
+              "username": "i3knvuu"
+            },
+            {
+              "end": 18,
+              "id": "1667129907795886081",
+              "start": 9,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047713603516850617",
+        "in_reply_to_user_id": "1952756747095220224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047674600113487877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i3knvuu @mods999_ 一两天吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952756747095220224",
+        "conversation_id": "2047524785366908953",
+        "created_at": "2026-04-24T13:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047674600113487877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047674600113487877",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047674023354769878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ 大概要多久啊？😢谢谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "另一个我 我忘了账号。🌚🌚",
+        "id": "2045598149704818688",
+        "name": "小酸2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 14,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 103
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T15:41:12.000Z",
+        "description": "双極性障害/統合失調症🐈‍⬛自傷🍼od🍼",
+        "id": "1952756747095220224",
+        "location": "🚪188/288/521",
+        "name": "杉2.0",
+        "pinned_tweet_id": "2000576641106677929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021040600997560328/qdRvZx0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 39,
+          "like_count": 136,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 683
+        },
+        "username": "i3knvuu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "常用id：mods999/网友夏顺亚，基本都会回fo.成分Oder/🎌，其他自行判断",
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "网友夏顺亚",
+        "pinned_tweet_id": "2037120174533579253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040975317486186496/Dx6Wt3_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 449,
+          "like_count": 36007,
+          "listed_count": 2,
+          "media_count": 1361,
+          "tweet_count": 5924
+        },
+        "username": "mods999_",
+        "verified": false
+      }
+    ]
+  }
+}

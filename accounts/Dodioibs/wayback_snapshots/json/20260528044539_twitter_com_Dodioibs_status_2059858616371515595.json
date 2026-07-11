@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059778622433705984",
+        "3_2059778708832178176"
+      ],
+      "media_source_tweet_id": [
+        "2059780458767122704",
+        "2059780458767122704"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898900390707204",
+          "name": "JRPGs"
+        }
+      }
+    ],
+    "conversation_id": "2059858616371515595",
+    "created_at": "2026-05-28T04:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059858616371515595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1703122902990958592",
+          "start": 3,
+          "username": "oseven1228"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MvQwrJV4gO",
+          "end": 127,
+          "expanded_url": "https://x.com/oseven1228/status/2059780458767122704/photo/1",
+          "media_key": "3_2059778622433705984",
+          "start": 104,
+          "url": "https://t.co/MvQwrJV4gO"
+        },
+        {
+          "display_url": "pic.x.com/MvQwrJV4gO",
+          "end": 127,
+          "expanded_url": "https://x.com/oseven1228/status/2059780458767122704/photo/1",
+          "media_key": "3_2059778708832178176",
+          "start": 104,
+          "url": "https://t.co/MvQwrJV4gO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059858616371515595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059780458767122704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oseven1228: 🔝\n偶是奥七，可以叫我虫虫🐛\n04年组装落地的县城妹\n想和善良的孩子互fo💞💞💞\n抑制剂信徒  贫乳菠萝的臣民  悲伤的欧迪区\n看一点霓虹动画片  喜欢打单机游戏以及jrpg https://t.co/MvQwrJV4gO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059858616371515595].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059858616371515595",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059858616371515595"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2059778622433705984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXNvnIawAAxxmn.jpg",
+        "width": 3072
+      },
+      {
+        "height": 487,
+        "media_key": "3_2059778708832178176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJXN0o_a0AAS7VG.jpg",
+        "width": 487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059778622433705984",
+            "3_2059778708832178176"
+          ]
+        },
+        "author_id": "1703122902990958592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898900390707204",
+              "name": "JRPGs"
+            }
+          }
+        ],
+        "conversation_id": "2059780458767122704",
+        "created_at": "2026-05-27T23:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T00:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059780458767122704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvQwrJV4gO",
+              "end": 111,
+              "expanded_url": "https://x.com/oseven1228/status/2059780458767122704/photo/1",
+              "media_key": "3_2059778622433705984",
+              "start": 88,
+              "url": "https://t.co/MvQwrJV4gO"
+            },
+            {
+              "display_url": "pic.x.com/MvQwrJV4gO",
+              "end": 111,
+              "expanded_url": "https://x.com/oseven1228/status/2059780458767122704/photo/1",
+              "media_key": "3_2059778708832178176",
+              "start": 88,
+              "url": "https://t.co/MvQwrJV4gO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059780458767122704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n偶是奥七，可以叫我虫虫🐛\n04年组装落地的县城妹\n想和善良的孩子互fo💞💞💞\n抑制剂信徒  贫乳菠萝的臣民  悲伤的欧迪区\n看一点霓虹动画片  喜欢打单机游戏以及jrpg https://t.co/MvQwrJV4gO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 209,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 656
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T19:05:25.000Z",
+        "description": "💊/🔪     同类互fo喵(:3っ )っ\n＊私信功能无法使用抱歉\n＊不回消息是号被冻结或者没了\n抑制剂崇拜者",
+        "id": "1703122902990958592",
+        "name": "O seven",
+        "pinned_tweet_id": "2059780458767122704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808398789025357825/dbxAjeJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 123,
+          "like_count": 1717,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 519
+        },
+        "username": "oseven1228",
+        "verified": false
+      }
+    ]
+  }
+}

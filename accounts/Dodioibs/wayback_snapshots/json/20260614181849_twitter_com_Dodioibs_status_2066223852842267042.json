@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2066195334401786138",
+    "created_at": "2026-06-14T18:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066223852842267042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2002460581056688128",
+          "start": 0,
+          "username": "canesalt_Oath"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066223852842267042",
+    "in_reply_to_user_id": "2002460581056688128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066195334401786138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canesalt_Oath 好萌好萌 我也想长我头像那样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2066195310972473345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyZsCsXkAEI3Aa.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2066195334401786138",
+        "created_at": "2026-06-14T18:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066223852842267042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2002460581056688128",
+              "start": 0,
+              "username": "canesalt_Oath"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066223852842267042",
+        "in_reply_to_user_id": "2002460581056688128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066195334401786138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canesalt_Oath 好萌好萌 我也想长我头像那样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066195310972473345"
+          ]
+        },
+        "author_id": "2002460581056688128",
+        "conversation_id": "2066195334401786138",
+        "created_at": "2026-06-14T16:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066195334401786138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUKzN08fih",
+              "end": 32,
+              "expanded_url": "https://x.com/canesalt_Oath/status/2066195334401786138/photo/1",
+              "media_key": "3_2066195310972473345",
+              "start": 9,
+              "url": "https://t.co/AUKzN08fih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066195334401786138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就长我头像那样 https://t.co/AUKzN08fih"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 251,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 879
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T19:27:13.000Z",
+        "description": "来自外太空的山羊，可以叫我甘蔗（甘吗？\nOD&自傷｜主页负能多请注意 欢迎互fo扩列会查成分",
+        "id": "2002460581056688128",
+        "name": "蔗盐",
+        "pinned_tweet_id": "2065825916257796182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065478157642219520/NIqsnlFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 266,
+          "like_count": 2493,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 373
+        },
+        "username": "canesalt_Oath",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055843806575219025",
+    "created_at": "2026-05-17T07:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055916797719965768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980572743230795776",
+          "start": 0,
+          "username": "zake96279450728"
+        },
+        {
+          "end": 28,
+          "id": "1772860258710622208",
+          "start": 17,
+          "username": "xxxixixmwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055916797719965768",
+    "in_reply_to_user_id": "1980572743230795776",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055893198736888062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zake96279450728 @xxxixixmwt noooooooooooo💆‍♂️💆‍♂️💆‍♂️💆‍♂️💆‍♂️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055843806575219025",
+        "created_at": "2026-05-17T07:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055916797719965768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980572743230795776",
+              "start": 0,
+              "username": "zake96279450728"
+            },
+            {
+              "end": 28,
+              "id": "1772860258710622208",
+              "start": 17,
+              "username": "xxxixixmwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055916797719965768",
+        "in_reply_to_user_id": "1980572743230795776",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055893198736888062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zake96279450728 @xxxixixmwt noooooooooooo💆‍♂️💆‍♂️💆‍♂️💆‍♂️💆‍♂️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980572743230795776",
+        "conversation_id": "2055843806575219025",
+        "created_at": "2026-05-17T06:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055893198736888062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            },
+            {
+              "end": 21,
+              "id": "1772860258710622208",
+              "start": 10,
+              "username": "xxxixixmwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055893198736888062",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055888320132231572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs @xxxixixmwt 我吃醋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 119,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 321
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T09:52:09.000Z",
+        "description": "不聊骚哈小美女，不好意思，我是一个有家庭有恋人孩子的人，我平时发发帖子已经是最大的尺度了，希望你理解，但转账我能接受，多大都能。\n𖦹无性别𖦹泛性恋𖦹不约𖦹可礼貌扩列𖦹发私信前点关注𖦹所有人来和我聊天我好不好🥺𖦹",
+        "id": "1980572743230795776",
+        "location": "-2.1km",
+        "name": "吵闹的绅士猫猫𝖓𝖔𝖎𝖘𝖊𖦹（互fo）",
+        "pinned_tweet_id": "2054117675366805531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 126,
+          "like_count": 1106,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 174
+        },
+        "username": "zake96279450728",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T05:36:52.000Z",
+        "description": "一个孤儿\n提问箱:",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miyu.link/xmimi",
+                "end": 23,
+                "expanded_url": "https://miyu.link/xmimi",
+                "start": 0,
+                "url": "https://t.co/39So8OWjYa"
+              }
+            ]
+          }
+        },
+        "id": "1772860258710622208",
+        "name": "网警",
+        "pinned_tweet_id": "2033983461887811653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 14,
+          "like_count": 1158,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/39So8OWjYa",
+        "username": "xxxixixmwt",
+        "verified": false
+      }
+    ]
+  }
+}

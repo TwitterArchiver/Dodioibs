@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2047695421129290079",
+    "created_at": "2026-04-24T18:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T19:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047746693664555291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653006407351029760",
+          "start": 0,
+          "username": "huoyong742071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047746693664555291",
+    "in_reply_to_user_id": "1653006407351029760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047741568849674284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huoyong742071 我好歹穿外套还能看到弧度 但是我想要看不出的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2047695421129290079",
+        "created_at": "2026-04-24T18:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047746693664555291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653006407351029760",
+              "start": 0,
+              "username": "huoyong742071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047746693664555291",
+        "in_reply_to_user_id": "1653006407351029760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047741568849674284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huoyong742071 我好歹穿外套还能看到弧度 但是我想要看不出的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653006407351029760",
+        "conversation_id": "2047695421129290079",
+        "created_at": "2026-04-24T18:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047741568849674284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047741568849674284",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047711176000495727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 其实，已经挺平的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "另一个我 我忘了账号。🌚🌚",
+        "id": "2045598149704818688",
+        "name": "小酸2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 13,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 118
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T12:00:22.000Z",
+        "description": "I love yoshihide……T^T",
+        "id": "1653006407351029760",
+        "name": "샌드위치 한 개",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013505726472208384/72qHbyLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 87,
+          "like_count": 967,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 550
+        },
+        "username": "huoyong742071",
+        "verified": false
+      }
+    ]
+  }
+}

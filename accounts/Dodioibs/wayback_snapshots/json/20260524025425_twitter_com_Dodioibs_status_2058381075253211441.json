@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2058184357282721879",
+    "created_at": "2026-05-24T02:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058381075253211441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2050577846280617984",
+          "start": 0,
+          "username": "XiaoQi7q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058381075253211441",
+    "in_reply_to_user_id": "2050577846280617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058218350103445938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoQi7q 我也是   因为本来就没有蕾这个词，edl事件才改了字过审核（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2058184357282721879",
+        "created_at": "2026-05-24T02:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058381075253211441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2050577846280617984",
+              "start": 0,
+              "username": "XiaoQi7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058381075253211441",
+        "in_reply_to_user_id": "2050577846280617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058218350103445938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoQi7q 我也是   因为本来就没有蕾这个词，edl事件才改了字过审核（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050577846280617984",
+        "conversation_id": "2058184357282721879",
+        "created_at": "2026-05-23T16:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058218350103445938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058218350103445938",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058184357282721879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 我之前一直觉得是韩国的芭蕾系…但是现在好都说是韩国人搞得地雷系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 174,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 521
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T14:08:56.000Z",
+        "description": "别管我皮下我们只是网友 话多慎关\n推文皆为有感而发 灵感来自我的乐子生活\n讨厌我就把我拉黑我就死了别来骂我",
+        "id": "2050577846280617984",
+        "location": "美国",
+        "name": "我们在世界的两边",
+        "pinned_tweet_id": "2051009540691464281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050583083691204608/ovFywn_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 16,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "XiaoQi7q",
+        "verified": false
+      }
+    ]
+  }
+}

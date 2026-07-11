@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056733580588675153",
+    "created_at": "2026-05-19T13:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056733580588675153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1542108779302760449",
+          "start": 3,
+          "username": "C10n3_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056733580588675153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056717018318159993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C10n3_F: 長髮男哪裡找！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056733580588675153",
+        "created_at": "2026-05-19T13:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056733580588675153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1542108779302760449",
+              "start": 3,
+              "username": "C10n3_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056733580588675153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056717018318159993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C10n3_F: 長髮男哪裡找！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542108779302760449",
+        "conversation_id": "2056717018318159993",
+        "created_at": "2026-05-19T12:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056717018318159993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056717018318159993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "長髮男哪裡找！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 127,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 364
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Cut, cut, cut me up, and fuck, fuck, fuck me up |ftx🏳️‍⚧️| his/him",
+        "id": "1542108779302760449",
+        "name": "Clone",
+        "pinned_tweet_id": "2037986045099450852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047669603997044736/-KWzIjxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 255,
+          "like_count": 8082,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1837
+        },
+        "username": "C10n3_F",
+        "verified": false
+      }
+    ]
+  }
+}

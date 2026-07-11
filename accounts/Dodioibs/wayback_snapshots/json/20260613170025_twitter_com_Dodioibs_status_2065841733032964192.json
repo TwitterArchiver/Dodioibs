@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2065335256610406784",
+    "created_at": "2026-06-13T17:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065841733032964192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780055196460048385",
+          "start": 0,
+          "username": "Lzg_Althea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065841733032964192",
+    "in_reply_to_user_id": "1780055196460048385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065335256610406784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lzg_Althea 出发保底了卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065335249777930240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmLd5EbMAAdLPS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2065335256610406784",
+        "created_at": "2026-06-13T17:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065841733032964192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "Lzg_Althea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065841733032964192",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065335256610406784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lzg_Althea 出发保底了卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065335249777930240"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2065335256610406784",
+        "created_at": "2026-06-12T07:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065335256610406784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OInfPyxmPP",
+              "end": 41,
+              "expanded_url": "https://x.com/Lzg_Althea/status/2065335256610406784/photo/1",
+              "media_key": "3_2065335249777930240",
+              "start": 18,
+              "url": "https://t.co/OInfPyxmPP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065335256610406784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6529,
+          "like_count": 96,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我找到之前被家里人没收的普瑞了 https://t.co/OInfPyxmPP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 249,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 858
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "1915163759582261466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 282,
+          "like_count": 6556,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1430
+        },
+        "username": "Lzg_Althea",
+        "verified": false
+      }
+    ]
+  }
+}

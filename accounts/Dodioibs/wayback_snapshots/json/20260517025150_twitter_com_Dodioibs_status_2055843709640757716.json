@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055843709640757716",
+    "created_at": "2026-05-17T02:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055843709640757716"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055843709640757716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的优点：拜金，自私，贪婪，虚荣，傲慢，嫉妒，懒惰，拖延，怯懦，自卑，自负，虚伪，欺骗，狡诈，阴险，刻薄，挑剔，抱怨，易怒，暴躁，冲动，莽撞，粗心，马虎，疏忽，健忘，糊涂，愚笨，迟钝，狭隘，固执，偏见，歧视，多疑，猜忌，冷漠，无情，残忍，暴力，好斗，挑衅，懦弱，逃避，依赖，软弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055843709640757716",
+        "created_at": "2026-05-17T02:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055843709640757716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055843709640757716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的优点：拜金，自私，贪婪，虚荣，傲慢，嫉妒，懒惰，拖延，怯懦，自卑，自负，虚伪，欺骗，狡诈，阴险，刻薄，挑剔，抱怨，易怒，暴躁，冲动，莽撞，粗心，马虎，疏忽，健忘，糊涂，愚笨，迟钝，狭隘，固执，偏见，歧视，多疑，猜忌，冷漠，无情，残忍，暴力，好斗，挑衅，懦弱，逃避，依赖，软弱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 118,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 283
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2066226155926213061",
+    "created_at": "2026-06-14T18:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066226155926213061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1770713435182915584",
+          "start": 3,
+          "username": "y8031040625196"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/zrDN",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/zrDN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066226155926213061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066151986249261181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @y8031040625196: 置顶 十盒包邮 \n转发 评论 抽奖1个送1盒普瑞 2个50元 5个25元开奖在7月1日\n普瑞巴林100一盒 多买优惠 150mg\n愈美片45一盒 \n有喹硫平25mg 可乐定 安非他酮75mg都是30一盒 https://t.co/zrDN…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066226155926213061].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066226155926213061",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066226155926213061"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2066150563356815360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxw_Y1bMAAoHUK.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1587,
+        "media_key": "3_2066150563772030976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxw_aYa4AADGzI.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2066150578322112513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxxAQlbgAEEqm0.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1570,
+        "media_key": "3_2066150598400237568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxxBbYbYAA6tVF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066150563356815360",
+            "3_2066150563772030976",
+            "3_2066150578322112513",
+            "3_2066150598400237568"
+          ]
+        },
+        "author_id": "1770713435182915584",
+        "conversation_id": "2066151986249261181",
+        "created_at": "2026-06-14T13:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066151986249261181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zrDNMLTeKi",
+              "end": 125,
+              "expanded_url": "https://x.com/y8031040625196/status/2066151986249261181/photo/1",
+              "media_key": "3_2066150563356815360",
+              "start": 102,
+              "url": "https://t.co/zrDNMLTeKi"
+            },
+            {
+              "display_url": "pic.x.com/zrDNMLTeKi",
+              "end": 125,
+              "expanded_url": "https://x.com/y8031040625196/status/2066151986249261181/photo/1",
+              "media_key": "3_2066150563772030976",
+              "start": 102,
+              "url": "https://t.co/zrDNMLTeKi"
+            },
+            {
+              "display_url": "pic.x.com/zrDNMLTeKi",
+              "end": 125,
+              "expanded_url": "https://x.com/y8031040625196/status/2066151986249261181/photo/1",
+              "media_key": "3_2066150578322112513",
+              "start": 102,
+              "url": "https://t.co/zrDNMLTeKi"
+            },
+            {
+              "display_url": "pic.x.com/zrDNMLTeKi",
+              "end": 125,
+              "expanded_url": "https://x.com/y8031040625196/status/2066151986249261181/photo/1",
+              "media_key": "3_2066150598400237568",
+              "start": 102,
+              "url": "https://t.co/zrDNMLTeKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066151986249261181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "置顶 十盒包邮 \n转发 评论 抽奖1个送1盒普瑞 2个50元 5个25元开奖在7月1日\n普瑞巴林100一盒 多买优惠 150mg\n愈美片45一盒 \n有喹硫平25mg 可乐定 安非他酮75mg都是30一盒 https://t.co/zrDNMLTeKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 254,
+          "like_count": 970,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 889
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T07:26:05.000Z",
+        "description": "买愈美片 普瑞巴林 安非他酮各种详情看置顶",
+        "id": "1770713435182915584",
+        "name": "腰带",
+        "pinned_tweet_id": "2066151986249261181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314721144729600/_nSretD__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 60,
+          "like_count": 545,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 712
+        },
+        "username": "y8031040625196",
+        "verified": false
+      }
+    ]
+  }
+}

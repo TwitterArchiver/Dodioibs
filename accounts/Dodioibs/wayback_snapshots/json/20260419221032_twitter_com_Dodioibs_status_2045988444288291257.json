@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045988376499937280"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2045988444288291257",
+    "created_at": "2026-04-19T22:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T23:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045988444288291257"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RDahcIa01i",
+          "end": 23,
+          "expanded_url": "https://x.com/Dodioibs/status/2045988444288291257/video/1",
+          "media_key": "13_2045988376499937280",
+          "start": 0,
+          "url": "https://t.co/RDahcIa01i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045988444288291257",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RDahcIa01i"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045988444288291257].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045988444288291257",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045988444288291257"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27193,
+        "height": 960,
+        "media_key": "13_2045988376499937280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045988376499937280/img/VzbZXG7fJqFW-3wP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045988376499937280/vid/avc1/320x426/EjelRbXKcM9jqHud.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045988376499937280/vid/avc1/480x640/KuaUlS-7T747nF5b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045988376499937280/vid/avc1/720x960/OJ4Dh2pd06Fd0VHj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045988376499937280/pl/ZvlzH6zDIoGVnNl-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "備用帳號",
+        "id": "2045598149704818688",
+        "name": "小酸2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 4,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

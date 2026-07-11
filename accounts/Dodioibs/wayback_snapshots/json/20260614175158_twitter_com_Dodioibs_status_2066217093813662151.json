@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2066217093813662151",
+    "created_at": "2026-06-14T17:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066217093813662151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2066107370732937270",
+          "start": 11,
+          "url": "https://t.co/53wUsnaN0a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066217093813662151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066107370732937270",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我傻了吗真以为是49 https://t.co/53wUsnaN0a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1614,
+        "media_key": "3_2066107363871150080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxJs2Nb0AAP280.jpg",
+        "width": 1075
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2066217093813662151",
+        "created_at": "2026-06-14T17:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066217093813662151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2066107370732937270",
+              "start": 11,
+              "url": "https://t.co/53wUsnaN0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066217093813662151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066107370732937270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我傻了吗真以为是49 https://t.co/53wUsnaN0a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066107363871150080"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2066107370732937270",
+        "created_at": "2026-06-14T10:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066107370732937270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2wgAqYKGtS",
+              "end": 25,
+              "expanded_url": "https://x.com/__fanqie__/status/2066107370732937270/photo/1",
+              "media_key": "3_2066107363871150080",
+              "start": 2,
+              "url": "https://t.co/2wgAqYKGtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066107370732937270",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 388171,
+          "like_count": 757,
+          "quote_count": 2,
+          "reply_count": 172,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/2wgAqYKGtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 250,
+          "like_count": 958,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 873
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅\n随机性评论，都懂一点\n不讨论政治/发梗图为主/\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8205,
+          "following_count": 2771,
+          "like_count": 1588,
+          "listed_count": 17,
+          "media_count": 1748,
+          "tweet_count": 10145
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

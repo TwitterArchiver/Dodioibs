@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056429078455144536",
+    "created_at": "2026-05-18T22:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T23:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056498054845673727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2039983567586164737",
+          "start": 0,
+          "username": "zyuyuouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056498054845673727",
+    "in_reply_to_user_id": "2039983567586164737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056429078455144536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyuyuouo 这婊子就是简简单单假照女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2868,
+        "media_key": "3_2056429067545743360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInnV2zaEAAv29z.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2056429067562610688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInnV23bcAAer3I.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056429078455144536",
+        "created_at": "2026-05-18T22:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T23:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056498054845673727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2039983567586164737",
+              "start": 0,
+              "username": "zyuyuouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056498054845673727",
+        "in_reply_to_user_id": "2039983567586164737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056429078455144536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyuyuouo 这婊子就是简简单单假照女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056429067545743360",
+            "3_2056429067562610688"
+          ]
+        },
+        "author_id": "2039983567586164737",
+        "conversation_id": "2056429078455144536",
+        "created_at": "2026-05-18T17:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056429078455144536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUL3qiWopT",
+              "end": 57,
+              "expanded_url": "https://x.com/zyuyuouo/status/2056429078455144536/photo/1",
+              "media_key": "3_2056429067545743360",
+              "start": 34,
+              "url": "https://t.co/HUL3qiWopT"
+            },
+            {
+              "display_url": "pic.x.com/HUL3qiWopT",
+              "end": 57,
+              "expanded_url": "https://x.com/zyuyuouo/status/2056429078455144536/photo/1",
+              "media_key": "3_2056429067562610688",
+              "start": 34,
+              "url": "https://t.co/HUL3qiWopT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056429078455144536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5600,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈大娘你就应该庆幸本宝宝号封了发不了私，我日你大爷啊老子惹你没 https://t.co/HUL3qiWopT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 125,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 355
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T08:30:51.000Z",
+        "description": "愛的本質是給予",
+        "id": "2039983567586164737",
+        "name": "痂",
+        "pinned_tweet_id": "2056360063888130319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039984216675655680/H1MqGkDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 109,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "zyuyuouo",
+        "verified": false
+      }
+    ]
+  }
+}

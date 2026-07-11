@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2058453679234261045",
+    "created_at": "2026-05-24T07:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058453679234261045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/16313xi/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/16313xi/status/2058180114219667845",
+          "start": 26,
+          "url": "https://t.co/xgJmEzdQVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058453679234261045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058180114219667845",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃喝拉撒为啥不能发朋友圈。我朋友圈想发什么就发什么 https://t.co/xgJmEzdQVP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2058453679234261045",
+        "created_at": "2026-05-24T07:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058453679234261045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/16313xi/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/16313xi/status/2058180114219667845",
+              "start": 26,
+              "url": "https://t.co/xgJmEzdQVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058453679234261045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058180114219667845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃喝拉撒为啥不能发朋友圈。我朋友圈想发什么就发什么 https://t.co/xgJmEzdQVP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881975373552111616",
+        "conversation_id": "2058180114219667845",
+        "created_at": "2026-05-23T13:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058180114219667845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058180114219667845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 43312,
+          "like_count": 108,
+          "quote_count": 9,
+          "reply_count": 111,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "到底是什么人会把自己吃喝拉撒全部发朋友圈？\n我真的诚信发问，是没有朋友？分享欲太强？没有边界感？还是脑残。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 174,
+          "like_count": 603,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 529
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T08:01:21.000Z",
+        "description": "🚪1314",
+        "id": "1881975373552111616",
+        "location": "个人观点，不喜对喷",
+        "name": "小面",
+        "pinned_tweet_id": "2021970744750858256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006865381525213184/gxBlFND3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4865,
+          "following_count": 156,
+          "like_count": 1083,
+          "listed_count": 12,
+          "media_count": 19,
+          "tweet_count": 403
+        },
+        "username": "16313xi",
+        "verified": false
+      }
+    ]
+  }
+}

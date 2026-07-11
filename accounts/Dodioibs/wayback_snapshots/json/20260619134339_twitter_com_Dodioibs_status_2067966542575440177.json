@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2067966542575440177",
+    "created_at": "2026-06-19T13:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067966542575440177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1224167094805073920",
+          "start": 3,
+          "username": "2804Plammii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067966542575440177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067274592994185533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2804Plammii: 这里小泪 \n中度双相重度焦虑/地雷系女子/od/割手 需要钱看病买药，有喜欢小泪的可以过门小泪会认真对待，喜欢有礼貌的人，不过门的不要一直口嗨了\n我玩：洲/瓦/明日方舟/鸣潮/边狱巴士/pjsk/舞萌，galgame玩过几部，接洲瓦陪玩，其他游…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2067274587814158337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvSOPa4AEegzP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067274589617758208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvSU9boAAw8l4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2200,
+        "media_key": "3_2067274589097631744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvSTBbIAALQBv.jpg",
+        "width": 1650
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2067274588359389184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBvSQRacAA7QoQ.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2067966542575440177",
+        "created_at": "2026-06-19T13:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067966542575440177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1224167094805073920",
+              "start": 3,
+              "username": "2804Plammii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067966542575440177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067274592994185533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2804Plammii: 这里小泪 \n中度双相重度焦虑/地雷系女子/od/割手 需要钱看病买药，有喜欢小泪的可以过门小泪会认真对待，喜欢有礼貌的人，不过门的不要一直口嗨了\n我玩：洲/瓦/明日方舟/鸣潮/边狱巴士/pjsk/舞萌，galgame玩过几部，接洲瓦陪玩，其他游…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067274587814158337",
+            "3_2067274589617758208",
+            "3_2067274589097631744",
+            "3_2067274588359389184"
+          ]
+        },
+        "author_id": "1224167094805073920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2067274592994185533",
+        "created_at": "2026-06-17T15:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067274592994185533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiI0Dctlo2",
+              "end": 162,
+              "expanded_url": "https://x.com/2804Plammii/status/2067274592994185533/photo/1",
+              "media_key": "3_2067274587814158337",
+              "start": 139,
+              "url": "https://t.co/AiI0Dctlo2"
+            },
+            {
+              "display_url": "pic.x.com/AiI0Dctlo2",
+              "end": 162,
+              "expanded_url": "https://x.com/2804Plammii/status/2067274592994185533/photo/1",
+              "media_key": "3_2067274589617758208",
+              "start": 139,
+              "url": "https://t.co/AiI0Dctlo2"
+            },
+            {
+              "display_url": "pic.x.com/AiI0Dctlo2",
+              "end": 162,
+              "expanded_url": "https://x.com/2804Plammii/status/2067274592994185533/photo/1",
+              "media_key": "3_2067274589097631744",
+              "start": 139,
+              "url": "https://t.co/AiI0Dctlo2"
+            },
+            {
+              "display_url": "pic.x.com/AiI0Dctlo2",
+              "end": 162,
+              "expanded_url": "https://x.com/2804Plammii/status/2067274592994185533/photo/1",
+              "media_key": "3_2067274588359389184",
+              "start": 139,
+              "url": "https://t.co/AiI0Dctlo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067274592994185533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 583,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这里小泪 \n中度双相重度焦虑/地雷系女子/od/割手 需要钱看病买药，有喜欢小泪的可以过门小泪会认真对待，喜欢有礼貌的人，不过门的不要一直口嗨了\n我玩：洲/瓦/明日方舟/鸣潮/边狱巴士/pjsk/舞萌，galgame玩过几部，接洲瓦陪玩，其他游戏也可以学 欢迎女宝来互fo互转 https://t.co/AiI0Dctlo2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2066254611145691260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 280,
+          "like_count": 1001,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 945
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-03T03:06:12.000Z",
+        "description": "🚪52/88/188/288/520，问坐标10r视频验证20r，过🚪不退，详细看简介p1，洲瓦陪玩请来找我！",
+        "id": "1224167094805073920",
+        "name": "倘若能与你在幻觉里重逢",
+        "pinned_tweet_id": "2067274592994185533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059451427152670721/XEsniJ8A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 7,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "2804Plammii",
+        "verified": false
+      }
+    ]
+  }
+}

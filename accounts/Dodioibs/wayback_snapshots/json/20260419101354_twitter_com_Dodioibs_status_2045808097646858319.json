@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045808032509304832"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2045808097646858319",
+    "created_at": "2026-04-19T10:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T11:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045808097646858319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSVV3R7AC1",
+          "end": 32,
+          "expanded_url": "https://x.com/Dodioibs/status/2045808097646858319/video/1",
+          "media_key": "13_2045808032509304832",
+          "start": 9,
+          "url": "https://t.co/YSVV3R7AC1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045808097646858319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜歡的音樂🎵～ https://t.co/YSVV3R7AC1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17100,
+        "height": 960,
+        "media_key": "13_2045808032509304832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045808032509304832/img/cB9SMYEx_SJfLwBt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045808032509304832/vid/avc1/320x426/Xlfd5w5euuqaVFQz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045808032509304832/vid/avc1/480x640/aCDV4DGK8Q1vlBgM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045808032509304832/vid/avc1/720x960/cGWYnY4ZaNVrZ4iR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045808032509304832/pl/yC9LHIwx2GZd-APg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045808032509304832"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2045808097646858319",
+        "created_at": "2026-04-19T10:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T11:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045808097646858319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSVV3R7AC1",
+              "end": 32,
+              "expanded_url": "https://x.com/Dodioibs/status/2045808097646858319/video/1",
+              "media_key": "13_2045808032509304832",
+              "start": 9,
+              "url": "https://t.co/YSVV3R7AC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045808097646858319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜歡的音樂🎵～ https://t.co/YSVV3R7AC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "備用帳號",
+        "id": "2045598149704818688",
+        "name": "小酸2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

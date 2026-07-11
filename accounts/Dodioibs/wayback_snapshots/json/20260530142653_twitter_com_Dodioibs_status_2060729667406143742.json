@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2060631031192158371",
+    "created_at": "2026-05-30T14:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060729667406143742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1329352754922450952",
+          "start": 0,
+          "username": "JeremyMastroja1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060729667406143742",
+    "in_reply_to_user_id": "1329352754922450952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060726102113374428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JeremyMastroja1 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2060631031192158371",
+        "created_at": "2026-05-30T14:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060729667406143742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1329352754922450952",
+              "start": 0,
+              "username": "JeremyMastroja1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060729667406143742",
+        "in_reply_to_user_id": "1329352754922450952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060726102113374428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JeremyMastroja1 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329352754922450952",
+        "conversation_id": "2060631031192158371",
+        "created_at": "2026-05-30T14:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060726102113374428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060726102113374428",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060707245349052443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 好口耐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 220,
+          "like_count": 804,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 676
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T09:16:37.000Z",
+        "description": "重焦中抑 | 自伤od | 日高生 |",
+        "id": "1329352754922450952",
+        "name": "ハル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751092675891200/CPLGw6G2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 20,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 48
+        },
+        "username": "JeremyMastroja1",
+        "verified": false
+      }
+    ]
+  }
+}

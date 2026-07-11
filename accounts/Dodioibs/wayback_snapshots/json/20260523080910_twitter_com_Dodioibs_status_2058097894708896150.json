@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2058097835422466048"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2058097894708896150",
+    "created_at": "2026-05-23T08:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058097894708896150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rk2ZRFmVa8",
+          "end": 48,
+          "expanded_url": "https://x.com/Dodioibs/status/2058097894708896150/video/1",
+          "media_key": "13_2058097835422466048",
+          "start": 25,
+          "url": "https://t.co/Rk2ZRFmVa8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058097894708896150",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性别为琪 素质为熙 手段为刑 三观为陌 贫穷为刊 https://t.co/Rk2ZRFmVa8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5548,
+        "height": 1280,
+        "media_key": "13_2058097835422466048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058097835422466048/img/UR6mLIqHE8GGN6Dm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058097835422466048/vid/avc1/320x568/SCuc_k3vxYTae0BZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058097835422466048/vid/avc1/480x852/E4ZXbFSzdf-79G-H.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058097835422466048/vid/avc1/720x1280/n_6-FtOIHfpKVih2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058097835422466048/pl/vaoy-Kn7rqfh8gWJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058097835422466048"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2058097894708896150",
+        "created_at": "2026-05-23T08:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058097894708896150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rk2ZRFmVa8",
+              "end": 48,
+              "expanded_url": "https://x.com/Dodioibs/status/2058097894708896150/video/1",
+              "media_key": "13_2058097835422466048",
+              "start": 25,
+              "url": "https://t.co/Rk2ZRFmVa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058097894708896150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性别为琪 素质为熙 手段为刑 三观为陌 贫穷为刊 https://t.co/Rk2ZRFmVa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 161,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 487
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

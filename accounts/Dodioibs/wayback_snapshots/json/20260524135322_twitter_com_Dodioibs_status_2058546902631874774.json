@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2058533237522383101",
+    "created_at": "2026-05-24T13:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058546902631874774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542108779302760449",
+          "start": 0,
+          "username": "C10n3_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058546902631874774",
+    "in_reply_to_user_id": "1542108779302760449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058533237522383101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C10n3_F 你完全陷入爱河了吧…欧尼酱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2058521789161213952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFWqSVbEAAja8G.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2058521789148626945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFWqSSbAAExE_o.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2058521789169573888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJFWqSXaoAAgsLK.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2058533237522383101",
+        "created_at": "2026-05-24T13:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058546902631874774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542108779302760449",
+              "start": 0,
+              "username": "C10n3_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058546902631874774",
+        "in_reply_to_user_id": "1542108779302760449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058533237522383101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C10n3_F 你完全陷入爱河了吧…欧尼酱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058521789161213952",
+            "3_2058521789148626945",
+            "3_2058521789169573888"
+          ]
+        },
+        "author_id": "1542108779302760449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058533237522383101",
+        "created_at": "2026-05-24T12:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058533237522383101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LUdHoD3CAf",
+              "end": 30,
+              "expanded_url": "https://x.com/C10n3_F/status/2058533237522383101/photo/1",
+              "media_key": "3_2058521789161213952",
+              "start": 7,
+              "url": "https://t.co/LUdHoD3CAf"
+            },
+            {
+              "display_url": "pic.x.com/LUdHoD3CAf",
+              "end": 30,
+              "expanded_url": "https://x.com/C10n3_F/status/2058533237522383101/photo/1",
+              "media_key": "3_2058521789148626945",
+              "start": 7,
+              "url": "https://t.co/LUdHoD3CAf"
+            },
+            {
+              "display_url": "pic.x.com/LUdHoD3CAf",
+              "end": 30,
+              "expanded_url": "https://x.com/C10n3_F/status/2058533237522383101/photo/1",
+              "media_key": "3_2058521789169573888",
+              "start": 7,
+              "url": "https://t.co/LUdHoD3CAf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058533237522383101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就這樣啊. https://t.co/LUdHoD3CAf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 178,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 539
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Cut, cut, cut me up, and fuck, fuck, fuck me up |ftx🏳️‍⚧️| his/him",
+        "id": "1542108779302760449",
+        "name": "Clone",
+        "pinned_tweet_id": "2037986045099450852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047669603997044736/-KWzIjxR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 261,
+          "like_count": 8482,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1944
+        },
+        "username": "C10n3_F",
+        "verified": false
+      }
+    ]
+  }
+}

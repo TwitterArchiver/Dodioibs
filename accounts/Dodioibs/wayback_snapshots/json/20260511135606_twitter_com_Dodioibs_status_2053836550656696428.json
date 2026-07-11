@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053836539629797376"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2053836550656696428",
+    "created_at": "2026-05-11T13:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053836550656696428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PVenJTJMyr",
+          "end": 82,
+          "expanded_url": "https://x.com/Dodioibs/status/2053836550656696428/photo/1",
+          "media_key": "3_2053836539629797376",
+          "start": 59,
+          "url": "https://t.co/PVenJTJMyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053836550656696428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奸人，怎不敢直面你狗爹发言。 狗爹我一生行事光明磊落 前十几年人生谨慎悲凉恐有行差踏错之事 永远对跟风错误勇敢开麦， https://t.co/PVenJTJMyr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053836539629797376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICxc3taAAA_U6O.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053836539629797376"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2053836550656696428",
+        "created_at": "2026-05-11T13:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053836550656696428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVenJTJMyr",
+              "end": 82,
+              "expanded_url": "https://x.com/Dodioibs/status/2053836550656696428/photo/1",
+              "media_key": "3_2053836539629797376",
+              "start": 59,
+              "url": "https://t.co/PVenJTJMyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053836550656696428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奸人，怎不敢直面你狗爹发言。 狗爹我一生行事光明磊落 前十几年人生谨慎悲凉恐有行差踏错之事 永远对跟风错误勇敢开麦， https://t.co/PVenJTJMyr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回",
+        "id": "2045598149704818688",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 47,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 132
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

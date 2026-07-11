@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056749997354570017",
+    "created_at": "2026-05-21T05:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T06:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057330027713458534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1374033535065976837",
+          "start": 0,
+          "username": "qiuyuantuosi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057330027713458534",
+    "in_reply_to_user_id": "1374033535065976837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057306476029661616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuyuantuosi 可能是耐受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056749997354570017",
+        "created_at": "2026-05-21T05:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T06:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057330027713458534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1374033535065976837",
+              "start": 0,
+              "username": "qiuyuantuosi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057330027713458534",
+        "in_reply_to_user_id": "1374033535065976837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057306476029661616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuyuantuosi 可能是耐受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374033535065976837",
+        "conversation_id": "2056749997354570017",
+        "created_at": "2026-05-21T03:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057306476029661616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057306476029661616",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056749997354570017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 我吃没幻觉…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 138,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 430
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:21:45.000Z",
+        "description": "风吹哪页读哪页",
+        "id": "1374033535065976837",
+        "name": "秋秋秋秋",
+        "pinned_tweet_id": "1729886485044953154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820374183974481920/G1aSqKNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 45,
+          "like_count": 173,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 135
+        },
+        "username": "qiuyuantuosi",
+        "verified": false
+      }
+    ]
+  }
+}

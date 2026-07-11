@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2046596216704864434",
+    "created_at": "2026-04-21T15:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T16:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046615920576278838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1542108779302760449",
+          "start": 0,
+          "username": "C10n3_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046615920576278838",
+    "in_reply_to_user_id": "1542108779302760449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046596216704864434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C10n3_F 臥槽啊 抱抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2046596216704864434",
+        "created_at": "2026-04-21T15:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T16:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046615920576278838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1542108779302760449",
+              "start": 0,
+              "username": "C10n3_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046615920576278838",
+        "in_reply_to_user_id": "1542108779302760449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046596216704864434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C10n3_F 臥槽啊 抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542108779302760449",
+        "conversation_id": "2046596216704864434",
+        "created_at": "2026-04-21T14:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046596216704864434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046596216704864434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🙂媽的香港地方就這麼小\n還生個弟弟 三間房6個人住他媽的合理嗎\n你說一家人住一間房我沒什麼意見 你媽的我跟傭人完全不認識也不想跟他在一間房🖕🏻🙂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "備用帳號",
+        "id": "2045598149704818688",
+        "name": "小酸2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 15
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Cut, cut, cut me up, and fuck, fuck, fuck me up",
+        "id": "1542108779302760449",
+        "name": "Clone",
+        "pinned_tweet_id": "2037986045099450852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037515995548614656/fSl-1BqM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 164,
+          "like_count": 5617,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1086
+        },
+        "username": "C10n3_F",
+        "verified": false
+      }
+    ]
+  }
+}

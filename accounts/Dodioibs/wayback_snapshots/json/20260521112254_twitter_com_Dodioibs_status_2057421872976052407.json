@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2057417595608019394",
+    "created_at": "2026-05-21T11:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057421872976052407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2054771448208928768",
+          "start": 0,
+          "username": "bingkuaiy9lt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057421872976052407",
+    "in_reply_to_user_id": "2054771448208928768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057417595608019394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bingkuaiy9lt 嫂子爽吃了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057417582882516992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1qZBZa8AAVr9r.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057417582874116097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1qZBXawAEehLZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2057417595608019394",
+        "created_at": "2026-05-21T11:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057421872976052407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2054771448208928768",
+              "start": 0,
+              "username": "bingkuaiy9lt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057421872976052407",
+        "in_reply_to_user_id": "2054771448208928768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057417595608019394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bingkuaiy9lt 嫂子爽吃了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057417582882516992",
+            "3_2057417582874116097"
+          ]
+        },
+        "author_id": "2054771448208928768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057417595608019394",
+        "created_at": "2026-05-21T11:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057417595608019394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0viQirVDz",
+              "end": 23,
+              "expanded_url": "https://x.com/bingkuaiy9lt/status/2057417595608019394/photo/1",
+              "media_key": "3_2057417582882516992",
+              "start": 0,
+              "url": "https://t.co/g0viQirVDz"
+            },
+            {
+              "display_url": "pic.x.com/g0viQirVDz",
+              "end": 23,
+              "expanded_url": "https://x.com/bingkuaiy9lt/status/2057417595608019394/photo/1",
+              "media_key": "3_2057417582874116097",
+              "start": 0,
+              "url": "https://t.co/g0viQirVDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057417595608019394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/g0viQirVDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 141,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 439
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T03:51:47.000Z",
+        "description": "成分复杂 发点画",
+        "id": "2054771448208928768",
+        "name": "冰块wy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054771794637422592/PGsTz_Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 13,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 29
+        },
+        "username": "bingkuaiy9lt",
+        "verified": false
+      }
+    ]
+  }
+}

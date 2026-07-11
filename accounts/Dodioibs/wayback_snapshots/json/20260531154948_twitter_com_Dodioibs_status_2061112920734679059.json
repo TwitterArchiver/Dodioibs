@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2061107076454347166",
+    "created_at": "2026-05-31T15:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T16:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061112920734679059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042615716059451399",
+          "start": 0,
+          "username": "lyxtd3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061112920734679059",
+    "in_reply_to_user_id": "2042615716059451399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061107076454347166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxtd3s 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2061107076454347166",
+        "created_at": "2026-05-31T15:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061112920734679059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042615716059451399",
+              "start": 0,
+              "username": "lyxtd3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061112920734679059",
+        "in_reply_to_user_id": "2042615716059451399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061107076454347166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxtd3s 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042615716059451399",
+        "conversation_id": "2061107076454347166",
+        "created_at": "2026-05-31T15:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061107076454347166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061107076454347166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好喜欢说倒装句呀我考试完蛋了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n爱人@M3ssncha0s \n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "M3ssncha0s"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 230,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 699
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:48:57.000Z",
+        "description": "年龄未知｜双相 重抑 割手 od ｜男的加我🚪52",
+        "id": "2042615716059451399",
+        "name": "冰块🧊",
+        "pinned_tweet_id": "2055978351001829782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058685167074705408/kwObxjvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 224,
+          "like_count": 2598,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 459
+        },
+        "username": "lyxtd3s",
+        "verified": false
+      }
+    ]
+  }
+}

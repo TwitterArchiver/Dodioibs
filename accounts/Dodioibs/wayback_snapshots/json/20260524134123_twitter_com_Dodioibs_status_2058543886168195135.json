@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055771394265452756",
+    "created_at": "2026-05-24T13:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058543886168195135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1703122902990958592",
+          "start": 0,
+          "username": "oseven1228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058543886168195135",
+    "in_reply_to_user_id": "1703122902990958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058499753697288193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oseven1228 哇靠我还以为ss是啥日本药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055771394265452756",
+        "created_at": "2026-05-24T13:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058543886168195135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1703122902990958592",
+              "start": 0,
+              "username": "oseven1228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058543886168195135",
+        "in_reply_to_user_id": "1703122902990958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058499753697288193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oseven1228 哇靠我还以为ss是啥日本药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703122902990958592",
+        "conversation_id": "2055771394265452756",
+        "created_at": "2026-05-24T10:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058499753697288193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058499753697288193",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055866321469067279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 是思诺思  就是唑吡坦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 176,
+          "like_count": 607,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 536
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T19:05:25.000Z",
+        "description": "💊/🔪\n＊私信功能无法使用抱歉＊不回消息是号冻结或者没了TT\n为奸人所害我删掉了很多图片👁️👁️",
+        "id": "1703122902990958592",
+        "name": "O seven",
+        "pinned_tweet_id": "2054505788568490462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808398789025357825/dbxAjeJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 113,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 430
+        },
+        "username": "oseven1228",
+        "verified": false
+      }
+    ]
+  }
+}

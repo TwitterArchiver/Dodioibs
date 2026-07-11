@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2046616188911051024",
+    "created_at": "2026-04-21T16:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046624511764922416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653006407351029760",
+          "start": 0,
+          "username": "huoyong742071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046624511764922416",
+    "in_reply_to_user_id": "1653006407351029760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046624118926102943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huoyong742071 主要是沒有。 😭😭😭😭😭😭。我最近看了好多德國軍官的漫畫。純血德國人好帥啊啊🌚🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2046616188911051024",
+        "created_at": "2026-04-21T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046624511764922416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653006407351029760",
+              "start": 0,
+              "username": "huoyong742071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046624511764922416",
+        "in_reply_to_user_id": "1653006407351029760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046624118926102943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huoyong742071 主要是沒有。 😭😭😭😭😭😭。我最近看了好多德國軍官的漫畫。純血德國人好帥啊啊🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653006407351029760",
+        "conversation_id": "2046616188911051024",
+        "created_at": "2026-04-21T16:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046624118926102943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046624118926102943",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046616188911051024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 和他说一说？只是抱的话，估计他应该会同意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "備用帳號",
+        "id": "2045598149704818688",
+        "name": "小酸2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 7,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T12:00:22.000Z",
+        "description": "I love yoshihide……T^T",
+        "id": "1653006407351029760",
+        "name": "샌드위치 한 개",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013505726472208384/72qHbyLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 87,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 505
+        },
+        "username": "huoyong742071",
+        "verified": false
+      }
+    ]
+  }
+}

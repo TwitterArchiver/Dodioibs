@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2057293348386591180",
+    "created_at": "2026-05-21T02:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T03:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057293348386591180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057293348386591180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057066490323665027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: Tickty我记得我列表不是都有精神病、抑郁症、爱嗑药，什么爱划手，然后血滋啦滋啦流一地，哭诉原生家庭不好，没人爱吗，不是为啥你们一到520就有鲜花转账蛋糕了怎么搞的也教教我呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2057293348386591180",
+        "created_at": "2026-05-21T02:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057293348386591180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057293348386591180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057066490323665027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: Tickty我记得我列表不是都有精神病、抑郁症、爱嗑药，什么爱划手，然后血滋啦滋啦流一地，哭诉原生家庭不好，没人爱吗，不是为啥你们一到520就有鲜花转账蛋糕了怎么搞的也教教我呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2057066490323665027",
+        "created_at": "2026-05-20T11:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057066490323665027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057066490323665027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1412,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Tickty我记得我列表不是都有精神病、抑郁症、爱嗑药，什么爱划手，然后血滋啦滋啦流一地，哭诉原生家庭不好，没人爱吗，不是为啥你们一到520就有鲜花转账蛋糕了怎么搞的也教教我呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 137,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 423
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 418,
+          "like_count": 734,
+          "listed_count": 2,
+          "media_count": 324,
+          "tweet_count": 2113
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

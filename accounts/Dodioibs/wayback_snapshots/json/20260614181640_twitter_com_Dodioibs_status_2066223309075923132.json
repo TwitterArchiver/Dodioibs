@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2065878722214019086",
+    "created_at": "2026-06-14T18:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066223309075923132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066223309075923132",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065878722214019086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 怎么这样对天使莉莉😭😭😭😭😭太坏了世界一直欺负莉莉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2065878722214019086",
+        "created_at": "2026-06-14T18:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066223309075923132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066223309075923132",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065878722214019086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 怎么这样对天使莉莉😭😭😭😭😭太坏了世界一直欺负莉莉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "conversation_id": "2065878722214019086",
+        "created_at": "2026-06-13T19:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065878722214019086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bisco91395061/…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/bisco91395061/status/2065863783533461951",
+              "start": 133,
+              "url": "https://t.co/fXfcTToZtS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065878722214019086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "去年我真的把一个朋友接到身边，让她当我助理给她发3000一个月的工资，原本应该均摊的房租让我一个人付了第一个月的包括水电，此外我包揽的生活开支高达20000\n\n最后因为我精神病发想要独处环境，她就是不愿意离开我的主卧。导致我精神病大爆发甚至动用警力让她离开我的房间\nwtf只是离开房间这么一件小事她都无法退让。最后爆了。她妈妈过来把她接走了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1572,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065863783533461951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去年我真的把一个朋友接到身边，让她当我助理给她发3000一个月的工资，原本应该均摊的房租让我一个人付了第一个月的包括水电，此外我包揽的生活开支高达20000\n\n最后因为我精神病发想要独处环境，她就是不愿意离开我的主卧。导致我精神病大爆发甚至动用警力让她离开我的房间 https://t.co/fXfcTToZtS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 250,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 876
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 201,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 705
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

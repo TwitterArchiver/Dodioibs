@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047572928468770816"
+      ],
+      "media_source_tweet_id": [
+        "2047572943136317712"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2047746113789444165",
+    "created_at": "2026-04-24T18:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T19:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047746113789444165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973430266124541952",
+          "start": 3,
+          "username": "Minako8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lhdkIVtuf0",
+          "end": 51,
+          "expanded_url": "https://x.com/Minako8964/status/2047572943136317712/photo/1",
+          "media_key": "3_2047572928468770816",
+          "start": 28,
+          "url": "https://t.co/lhdkIVtuf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047746113789444165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047572943136317712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minako8964: 好想玩朋友收集梦想生活 https://t.co/lhdkIVtuf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 397,
+        "media_key": "3_2047572928468770816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpwut0WYAA-iA0.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047572928468770816"
+          ],
+          "media_source_tweet_id": [
+            "2047572943136317712"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2047746113789444165",
+        "created_at": "2026-04-24T18:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047746113789444165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973430266124541952",
+              "start": 3,
+              "username": "Minako8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhdkIVtuf0",
+              "end": 51,
+              "expanded_url": "https://x.com/Minako8964/status/2047572943136317712/photo/1",
+              "media_key": "3_2047572928468770816",
+              "start": 28,
+              "url": "https://t.co/lhdkIVtuf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047746113789444165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047572943136317712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minako8964: 好想玩朋友收集梦想生活 https://t.co/lhdkIVtuf0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047572928468770816"
+          ]
+        },
+        "author_id": "1973430266124541952",
+        "conversation_id": "2047572943136317712",
+        "created_at": "2026-04-24T07:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047572943136317712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhdkIVtuf0",
+              "end": 35,
+              "expanded_url": "https://x.com/Minako8964/status/2047572943136317712/photo/1",
+              "media_key": "3_2047572928468770816",
+              "start": 12,
+              "url": "https://t.co/lhdkIVtuf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047572943136317712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 13978,
+          "like_count": 604,
+          "quote_count": 14,
+          "reply_count": 9,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "好想玩朋友收集梦想生活 https://t.co/lhdkIVtuf0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "另一个我 我忘了账号。🌚🌚",
+        "id": "2045598149704818688",
+        "name": "小酸2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 13,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 116
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "可以叫我寿司🍣不安会屏蔽，此号起到一个墓碑的作用，骂我的默认家破人亡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kexuejiazhuang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kexuejiazhuang",
+                "start": 0,
+                "url": "https://t.co/qNfVsLeCNp"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "芝士二明治🥪",
+        "pinned_tweet_id": "2023841559578587537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035482807825481728/I3RBmrCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 177,
+          "like_count": 23455,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 3343
+        },
+        "url": "https://t.co/qNfVsLeCNp",
+        "username": "Minako8964",
+        "verified": false
+      }
+    ]
+  }
+}

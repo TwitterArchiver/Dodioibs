@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056370720067002399",
+    "created_at": "2026-05-18T13:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056370720067002399"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056370720067002399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你知道吗，你在网络上天天视奸别人，自以为播撒着善意。不管别人发什么都凑上去，认自己的死理解释了还不听，和傻逼一样。能别靠近我了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056370720067002399",
+        "created_at": "2026-05-18T13:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056370720067002399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056370720067002399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗，你在网络上天天视奸别人，自以为播撒着善意。不管别人发什么都凑上去，认自己的死理解释了还不听，和傻逼一样。能别靠近我了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 124,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 344
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

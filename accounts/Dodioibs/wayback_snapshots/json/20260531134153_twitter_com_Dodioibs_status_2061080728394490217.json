@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2060867780707262703",
+    "created_at": "2026-05-31T13:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061080728394490217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1888485005170753536",
+          "start": 0,
+          "username": "chronicailment"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061080728394490217",
+    "in_reply_to_user_id": "1888485005170753536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061023070035628056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chronicailment 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2060867780707262703",
+        "created_at": "2026-05-31T13:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061080728394490217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1888485005170753536",
+              "start": 0,
+              "username": "chronicailment"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061080728394490217",
+        "in_reply_to_user_id": "1888485005170753536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061023070035628056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chronicailment 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888485005170753536",
+        "conversation_id": "2060867780707262703",
+        "created_at": "2026-05-31T09:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061023070035628056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061023070035628056",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060867780707262703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 好看啊 很酷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 228,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 696
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T07:08:23.000Z",
+        "description": "你妈啥时候死",
+        "id": "1888485005170753536",
+        "name": "易醬在哭",
+        "pinned_tweet_id": "2048925616460980257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054117996336201728/NGgias6q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 388,
+          "like_count": 5503,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 391
+        },
+        "username": "chronicailment",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2057740991411658827",
+    "created_at": "2026-05-23T09:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058115881201439000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2013724577529049088",
+          "start": 0,
+          "username": "_roopuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058115881201439000",
+    "in_reply_to_user_id": "2013724577529049088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058112296988348464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_roopuu 我是傻逼系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2057740991411658827",
+        "created_at": "2026-05-23T09:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058115881201439000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2013724577529049088",
+              "start": 0,
+              "username": "_roopuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058115881201439000",
+        "in_reply_to_user_id": "2013724577529049088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058112296988348464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_roopuu 我是傻逼系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013724577529049088",
+        "conversation_id": "2057740991411658827",
+        "created_at": "2026-05-23T09:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058112296988348464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058112296988348464",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057740991411658827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 那我绝对是惊雷系（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 163,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 495
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "本垢 @_ropu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 3,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "ロプふふん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041889230876819456/WTJXFQql_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 17,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "_roopuu",
+        "verified": false
+      }
+    ]
+  }
+}

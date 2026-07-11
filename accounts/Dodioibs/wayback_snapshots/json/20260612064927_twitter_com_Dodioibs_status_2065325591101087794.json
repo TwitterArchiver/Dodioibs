@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2065325591101087794",
+    "created_at": "2026-06-12T06:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065325591101087794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "创作与游玩AI驱动的文字冒险游戏。用AI辅助定义游戏世界，让玩家沉浸在无限可能的剧情中。",
+          "display_url": "uu.ry404.com/register?invit",
+          "end": 23,
+          "expanded_url": "http://uu.ry404.com/register?invit",
+          "start": 0,
+          "status": 200,
+          "title": "UU Game - AI驱动文字冒险游戏平台",
+          "unwound_url": "https://uu.ry404.com/register?invit",
+          "url": "https://t.co/vAyEmepHre"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065325591101087794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vAyEmepHre… 你们可以进去注册一个账号吗？这个是模拟器游戏网址里面有好玩的游戏！邀请一个人我可以有150的游戏代币！！！谢谢大家！！  我的邀请码是：XMQ6FTVD\n求你们了求你们了求你们了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2065325591101087794",
+        "created_at": "2026-06-12T06:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065325591101087794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "创作与游玩AI驱动的文字冒险游戏。用AI辅助定义游戏世界，让玩家沉浸在无限可能的剧情中。",
+              "display_url": "uu.ry404.com/register?invit",
+              "end": 23,
+              "expanded_url": "http://uu.ry404.com/register?invit",
+              "start": 0,
+              "status": 200,
+              "title": "UU Game - AI驱动文字冒险游戏平台",
+              "unwound_url": "https://uu.ry404.com/register?invit",
+              "url": "https://t.co/vAyEmepHre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065325591101087794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vAyEmepHre… 你们可以进去注册一个账号吗？这个是模拟器游戏网址里面有好玩的游戏！邀请一个人我可以有150的游戏代币！！！谢谢大家！！  我的邀请码是：XMQ6FTVD\n求你们了求你们了求你们了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 235,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 768
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

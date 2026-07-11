@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053936237770342400"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2053936245194281169",
+    "created_at": "2026-05-11T20:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T21:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053936245194281169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nq9LdACoqg",
+          "end": 23,
+          "expanded_url": "https://x.com/Dodioibs/status/2053936245194281169/photo/1",
+          "media_key": "3_2053936237770342400",
+          "start": 0,
+          "url": "https://t.co/Nq9LdACoqg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053936245194281169",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Nq9LdACoqg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 378,
+        "media_key": "3_2053936237770342400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIEMIEOagAAjeUr.jpg",
+        "width": 406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053936237770342400"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2053936245194281169",
+        "created_at": "2026-05-11T20:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T21:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053936245194281169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nq9LdACoqg",
+              "end": 23,
+              "expanded_url": "https://x.com/Dodioibs/status/2053936245194281169/photo/1",
+              "media_key": "3_2053936237770342400",
+              "start": 0,
+              "url": "https://t.co/Nq9LdACoqg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053936245194281169",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Nq9LdACoqg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回",
+        "id": "2045598149704818688",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 57,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 141
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

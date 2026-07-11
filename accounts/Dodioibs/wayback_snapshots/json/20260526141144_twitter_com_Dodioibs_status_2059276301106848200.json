@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2059276301106848200",
+    "created_at": "2026-05-26T14:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059276301106848200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1732763258325762048",
+          "start": 3,
+          "username": "laigendianziyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059276301106848200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059183322316902769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @laigendianziyan: 健全人的刻薄比蓝鲸游戏的危害大了四万万倍还不止，对于少数人群的消费什么时候才能停止？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2059276301106848200",
+        "created_at": "2026-05-26T14:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059276301106848200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1732763258325762048",
+              "start": 3,
+              "username": "laigendianziyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059276301106848200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059183322316902769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @laigendianziyan: 健全人的刻薄比蓝鲸游戏的危害大了四万万倍还不止，对于少数人群的消费什么时候才能停止？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2059183322316902769",
+        "created_at": "2026-05-26T08:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059183322316902769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059183322316902769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 502,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "健全人的刻薄比蓝鲸游戏的危害大了四万万倍还不止，对于少数人群的消费什么时候才能停止？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 192,
+          "like_count": 653,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 581
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "隔壁永远在尖叫。\n欢迎互fo看到fo基本都会回微查成分致歉\n欢迎匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2057985868439355476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 216,
+          "like_count": 9305,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "laigendianziyan",
+        "verified": false
+      }
+    ]
+  }
+}

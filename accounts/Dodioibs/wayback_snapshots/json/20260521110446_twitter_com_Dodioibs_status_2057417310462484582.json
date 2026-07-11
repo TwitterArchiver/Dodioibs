@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057417302883303424"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057417310462484582",
+    "created_at": "2026-05-21T11:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T12:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057417310462484582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hWT9F4aNWt",
+          "end": 62,
+          "expanded_url": "https://x.com/Dodioibs/status/2057417310462484582/photo/1",
+          "media_key": "3_2057417302883303424",
+          "start": 39,
+          "url": "https://t.co/hWT9F4aNWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057417310462484582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不得了，！这个，金刚烷胺吃了之后。我，变成一只，鸡？操你妈。，我要，跳？楼。 https://t.co/hWT9F4aNWt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2057417302883303424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1qIuUaAAAHo5o.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057417302883303424"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057417310462484582",
+        "created_at": "2026-05-21T11:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057417310462484582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWT9F4aNWt",
+              "end": 62,
+              "expanded_url": "https://x.com/Dodioibs/status/2057417310462484582/photo/1",
+              "media_key": "3_2057417302883303424",
+              "start": 39,
+              "url": "https://t.co/hWT9F4aNWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057417310462484582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不得了，！这个，金刚烷胺吃了之后。我，变成一只，鸡？操你妈。，我要，跳？楼。 https://t.co/hWT9F4aNWt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 141,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 437
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

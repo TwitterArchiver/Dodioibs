@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2058507564539957257",
+    "created_at": "2026-05-25T04:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T05:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058768871725899820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053727173895430144",
+          "start": 0,
+          "username": "zylyangnuosxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058768871725899820",
+    "in_reply_to_user_id": "2053727173895430144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058507564539957257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zylyangnuosxh 餐券惨到不敢发雪兔了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2058507564539957257",
+        "created_at": "2026-05-25T04:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058768871725899820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053727173895430144",
+              "start": 0,
+              "username": "zylyangnuosxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058768871725899820",
+        "in_reply_to_user_id": "2053727173895430144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058507564539957257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zylyangnuosxh 餐券惨到不敢发雪兔了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053727173895430144",
+        "conversation_id": "2058507564539957257",
+        "created_at": "2026-05-24T11:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058507564539957257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058507564539957257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发推特以来已经好几个互fo被封掉了，我都好久我没见过我最开始互fo的几个好友了，之前餐券这个圈子还特别热闹感觉现在中推特别安静，很难刷到雪兔了，我刷到的都是外国的老师发的餐券帖。msk到底你害死了多少人😭😭😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 184,
+          "like_count": 619,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 555
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:43:20.000Z",
+        "description": "cn杨诺/可颂\n前世两个号都被封\nod｜餐券｜重度抑郁重度焦虑｜\n我是刻薄逼别来惹我\n喜欢就是直fo呀！萌妹纸萌弟子我爱你们\n防走丢小号3.0掉了会在4.0\nhttps://t.co/Twxr8yBjeM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/keso1314sxh?s=…",
+                "end": 102,
+                "expanded_url": "https://x.com/keso1314sxh?s=21",
+                "start": 79,
+                "url": "https://t.co/Twxr8yBjeM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/PjGFp6c8JZ"
+              }
+            ]
+          }
+        },
+        "id": "2053727173895430144",
+        "location": "🚪52纯绿",
+        "name": "聆回颂🥐(3.0)",
+        "pinned_tweet_id": "2053732777242284339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058004655465259008/mLttTZjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 264,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 285
+        },
+        "url": "https://t.co/PjGFp6c8JZ",
+        "username": "zylyangnuosxh",
+        "verified": false
+      }
+    ]
+  }
+}

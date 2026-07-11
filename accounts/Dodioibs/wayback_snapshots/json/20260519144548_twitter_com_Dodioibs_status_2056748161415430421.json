@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056706198989426937",
+    "created_at": "2026-05-19T14:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056748161415430421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1838433917529149440",
+          "start": 0,
+          "username": "shwjwn2575471"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056748161415430421",
+    "in_reply_to_user_id": "1838433917529149440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056706198989426937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shwjwn2575471 我骂过的所有健全都是登味十足挤压餐券生存空间的。这种好恶心啊我干什么关他啥事 真想做好事就帮助周围的人呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056706198989426937",
+        "created_at": "2026-05-19T14:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056748161415430421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1838433917529149440",
+              "start": 0,
+              "username": "shwjwn2575471"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056748161415430421",
+        "in_reply_to_user_id": "1838433917529149440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056706198989426937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shwjwn2575471 我骂过的所有健全都是登味十足挤压餐券生存空间的。这种好恶心啊我干什么关他啥事 真想做好事就帮助周围的人呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838433917529149440",
+        "conversation_id": "2056706198989426937",
+        "created_at": "2026-05-19T11:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056706198989426937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056706198989426937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我相信很多人都有丰富的心理活动，思考各种问题，感受到痛苦。因为一个人不嗑药不割手，就觉得他岁月静好，没有内心的痛苦，共情能力也很差，然后说他是健全人。这种贴标签很无趣啊。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 128,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 370
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T04:23:09.000Z",
+        "description": "我什么也不知道我什么都想知道",
+        "id": "1838433917529149440",
+        "location": "荒野之中",
+        "name": "hippie wildman",
+        "pinned_tweet_id": "2048431152642339234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044801952408866816/FBqFxwaA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 167,
+          "like_count": 5868,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 227
+        },
+        "username": "shwjwn2575471",
+        "verified": false
+      }
+    ]
+  }
+}

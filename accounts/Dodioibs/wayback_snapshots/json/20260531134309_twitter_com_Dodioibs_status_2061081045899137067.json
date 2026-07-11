@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2061055996882272390",
+    "created_at": "2026-05-31T13:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061081045899137067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057425772198215680",
+          "start": 0,
+          "username": "boqiaoahm4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061081045899137067",
+    "in_reply_to_user_id": "2057425772198215680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061055996882272390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boqiaoahm4 扫码！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_2061053047305072640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpU05va8AA_to9.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2061055996882272390",
+        "created_at": "2026-05-31T13:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061081045899137067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057425772198215680",
+              "start": 0,
+              "username": "boqiaoahm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061081045899137067",
+        "in_reply_to_user_id": "2057425772198215680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061055996882272390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boqiaoahm4 扫码！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061053047305072640"
+          ]
+        },
+        "author_id": "2057425772198215680",
+        "conversation_id": "2061055996882272390",
+        "created_at": "2026-05-31T12:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061055996882272390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GYTS8GGKzQ",
+              "end": 36,
+              "expanded_url": "https://x.com/boqiaoahm4/status/2061055996882272390/photo/1",
+              "media_key": "3_2061053047305072640",
+              "start": 13,
+              "url": "https://t.co/GYTS8GGKzQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061055996882272390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同学把我丑照发班级群里， https://t.co/GYTS8GGKzQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 228,
+          "like_count": 823,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 698
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T11:38:55.000Z",
+        "description": "薄巧/炸玉\n前世@dzzzzz467732\n查成分回fo\n提问箱https://t.co/Al4Mvhwm7Y\n没人我会很尴尬的🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "dzzzzz467732"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/boboboqiao",
+                "end": 55,
+                "expanded_url": "https://ngl.link/boboboqiao",
+                "start": 32,
+                "url": "https://t.co/Al4Mvhwm7Y"
+              }
+            ]
+          }
+        },
+        "id": "2057425772198215680",
+        "name": "炸玉/二代目",
+        "pinned_tweet_id": "2058902425382326345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057427270990770176/9ouSJRp6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 133,
+          "like_count": 441,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 374
+        },
+        "username": "boqiaoahm4",
+        "verified": false
+      }
+    ]
+  }
+}

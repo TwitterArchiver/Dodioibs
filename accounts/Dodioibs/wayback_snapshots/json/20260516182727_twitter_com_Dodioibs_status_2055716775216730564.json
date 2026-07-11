@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055219553073066396",
+    "created_at": "2026-05-16T18:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055716775216730564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528005407469346818",
+          "start": 0,
+          "username": "K1raK1ra818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055716775216730564",
+    "in_reply_to_user_id": "1528005407469346818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055596592540135527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1raK1ra818 没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055219553073066396",
+        "created_at": "2026-05-16T18:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055716775216730564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528005407469346818",
+              "start": 0,
+              "username": "K1raK1ra818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055716775216730564",
+        "in_reply_to_user_id": "1528005407469346818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055596592540135527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1raK1ra818 没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528005407469346818",
+        "conversation_id": "2055219553073066396",
+        "created_at": "2026-05-16T10:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055596592540135527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055596592540135527",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055219553073066396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 統一稱為婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 114,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 258
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "老公：@Jaime_Rimi\n学マス/シャニマス/ヘブバン/fgo/ガルパ/音ゲ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛",
+        "pinned_tweet_id": "2018555992552968209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054261804587790336/10W21sx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 844,
+          "like_count": 16306,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 3882
+        },
+        "username": "K1raK1ra818",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2065610783246188651",
+    "created_at": "2026-06-13T01:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T02:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065610783246188651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4368377476",
+          "start": 3,
+          "username": "Kamo67398586"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065610783246188651",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064568196217389452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kamo67398586: 我是時雨~我被陷害了之前的置顶被下了\n高中牲 目前接纯绿🚪/伤口定制 可验证 详情请看p2www\n不会的pc游戏/ns游戏都可以学 如果是我没有的付费游戏需要您报销/提供游戏账号\n欢迎互转互fo\n（伤口定制是给对方制作特效妆容 没有违反规则）…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2017,
+        "media_key": "3_2064566209119674368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbQB1XaYAA4_hy.jpg",
+        "width": 2329
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2064566266896228352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbQFMmaoAAWJKN.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2750,
+        "media_key": "3_2064566600783831040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbQYobbIAAVXgt.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1937,
+        "media_key": "3_2064566641825083392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbQbBUa8AAOiLo.jpg",
+        "width": 1573
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2065610783246188651",
+        "created_at": "2026-06-13T01:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065610783246188651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4368377476",
+              "start": 3,
+              "username": "Kamo67398586"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065610783246188651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064568196217389452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kamo67398586: 我是時雨~我被陷害了之前的置顶被下了\n高中牲 目前接纯绿🚪/伤口定制 可验证 详情请看p2www\n不会的pc游戏/ns游戏都可以学 如果是我没有的付费游戏需要您报销/提供游戏账号\n欢迎互转互fo\n（伤口定制是给对方制作特效妆容 没有违反规则）…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064566209119674368",
+            "3_2064566266896228352",
+            "3_2064566600783831040",
+            "3_2064566641825083392"
+          ]
+        },
+        "author_id": "4368377476",
+        "conversation_id": "2064568196217389452",
+        "created_at": "2026-06-10T04:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064568196217389452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "门槛"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "纯绿"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "伤口定制"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cuFsPIsWY8",
+              "end": 159,
+              "expanded_url": "https://x.com/Kamo67398586/status/2064568196217389452/photo/1",
+              "media_key": "3_2064566209119674368",
+              "start": 136,
+              "url": "https://t.co/cuFsPIsWY8"
+            },
+            {
+              "display_url": "pic.x.com/cuFsPIsWY8",
+              "end": 159,
+              "expanded_url": "https://x.com/Kamo67398586/status/2064568196217389452/photo/1",
+              "media_key": "3_2064566266896228352",
+              "start": 136,
+              "url": "https://t.co/cuFsPIsWY8"
+            },
+            {
+              "display_url": "pic.x.com/cuFsPIsWY8",
+              "end": 159,
+              "expanded_url": "https://x.com/Kamo67398586/status/2064568196217389452/photo/1",
+              "media_key": "3_2064566600783831040",
+              "start": 136,
+              "url": "https://t.co/cuFsPIsWY8"
+            },
+            {
+              "display_url": "pic.x.com/cuFsPIsWY8",
+              "end": 159,
+              "expanded_url": "https://x.com/Kamo67398586/status/2064568196217389452/photo/1",
+              "media_key": "3_2064566641825083392",
+              "start": 136,
+              "url": "https://t.co/cuFsPIsWY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064568196217389452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 283,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我是時雨~我被陷害了之前的置顶被下了\n高中牲 目前接纯绿🚪/伤口定制 可验证 详情请看p2www\n不会的pc游戏/ns游戏都可以学 如果是我没有的付费游戏需要您报销/提供游戏账号\n欢迎互转互fo\n（伤口定制是给对方制作特效妆容 没有违反规则）\n#门槛 #纯绿 #伤口定制 https://t.co/cuFsPIsWY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 245,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 824
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-04T04:15:03.000Z",
+        "description": "我是時雨~前世被当成入机的女子\n喜欢看动画玩游戏听音乐画画阅读 欢迎互fo\n纯绿🚪 伤口定制",
+        "id": "4368377476",
+        "name": "Kamo",
+        "pinned_tweet_id": "2064568196217389452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063131459255508992/pzhLfdHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 18,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 38
+        },
+        "username": "Kamo67398586",
+        "verified": false
+      }
+    ]
+  }
+}

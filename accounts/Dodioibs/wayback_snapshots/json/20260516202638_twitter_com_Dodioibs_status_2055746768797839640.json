@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055733982474682434",
+    "created_at": "2026-05-16T20:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T21:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055746768797839640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980572743230795776",
+          "start": 0,
+          "username": "zake96279450728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055746768797839640",
+    "in_reply_to_user_id": "1980572743230795776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055736964998197407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zake96279450728 ok每次都这样 我习惯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055733982474682434",
+        "created_at": "2026-05-16T20:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055746768797839640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980572743230795776",
+              "start": 0,
+              "username": "zake96279450728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055746768797839640",
+        "in_reply_to_user_id": "1980572743230795776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055736964998197407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zake96279450728 ok每次都这样 我习惯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980572743230795776",
+        "conversation_id": "2055733982474682434",
+        "created_at": "2026-05-16T19:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055736964998197407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055736964998197407",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055733982474682434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 乐死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 117,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 268
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T09:52:09.000Z",
+        "description": "𖦹无性别𖦹泛性恋𖦹不聊骚不约𖦹可礼貌扩列𖦹\n𖦹发私信前点关注𖦹所有人来骚扰我好不好🥺𖦹",
+        "id": "1980572743230795776",
+        "location": "-2.1km",
+        "name": "吵闹的绅士猫猫𝖓𝖔𝖎𝖘𝖊𖦹（互fo）",
+        "pinned_tweet_id": "2054117675366805531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055680086360346624/kLpKiS03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 112,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 136
+        },
+        "username": "zake96279450728",
+        "verified": false
+      }
+    ]
+  }
+}

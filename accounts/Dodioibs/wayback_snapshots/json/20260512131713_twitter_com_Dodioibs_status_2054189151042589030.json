@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2054189151042589030",
+    "created_at": "2026-05-12T13:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054189151042589030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1720098116601532416",
+          "start": 3,
+          "username": "nixyng246039"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054189151042589030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054033818835992932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nixyng246039: 可以帮忙转一下吗，，我都会回的哭，我现在那个号都回不了评论了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2054189151042589030",
+        "created_at": "2026-05-12T13:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054189151042589030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1720098116601532416",
+              "start": 3,
+              "username": "nixyng246039"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054189151042589030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054033818835992932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nixyng246039: 可以帮忙转一下吗，，我都会回的哭，我现在那个号都回不了评论了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720098116601532416",
+        "conversation_id": "2054033818835992932",
+        "created_at": "2026-05-12T02:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054033818835992932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiao_sun26096/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/xiao_sun26096/status/2054031999573381153",
+              "start": 31,
+              "url": "https://t.co/KXGhjir9yz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054033818835992932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054031999573381153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以帮忙转一下吗，，我都会回的哭，我现在那个号都回不了评论了 https://t.co/KXGhjir9yz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 76,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 172
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T15:19:10.000Z",
+        "description": "西北2号机西南",
+        "id": "1720098116601532416",
+        "name": "西南",
+        "pinned_tweet_id": "2054033818835992932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957439009782968320/7x5nGI97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 156,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 110
+        },
+        "username": "nixyng246039",
+        "verified": false
+      }
+    ]
+  }
+}

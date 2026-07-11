@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056955359336739068",
+    "created_at": "2026-05-20T16:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057135327681429921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2041091571471495168",
+          "start": 0,
+          "username": "Clnavvg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057135327681429921",
+    "in_reply_to_user_id": "2041091571471495168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057119122828484966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clnavvg 这倒也是 中成药很少要处方的，没处方就能买估计也加不了多少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056955359336739068",
+        "created_at": "2026-05-20T16:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057135327681429921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2041091571471495168",
+              "start": 0,
+              "username": "Clnavvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057135327681429921",
+        "in_reply_to_user_id": "2041091571471495168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057119122828484966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clnavvg 这倒也是 中成药很少要处方的，没处方就能买估计也加不了多少"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041091571471495168",
+        "conversation_id": "2056955359336739068",
+        "created_at": "2026-05-20T15:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057119122828484966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057119122828484966",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056955359336739068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 感觉没什么滥用价值 中成药感觉都是超级微量添加"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 135,
+          "like_count": 470,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 417
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T09:52:42.000Z",
+        "description": "",
+        "id": "2041091571471495168",
+        "name": "Clnavvg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041091834416623616/b3n31myP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 20,
+          "like_count": 1400,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "username": "Clnavvg",
+        "verified": false
+      }
+    ]
+  }
+}

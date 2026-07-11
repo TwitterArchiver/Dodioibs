@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056955359336739068",
+    "created_at": "2026-05-20T12:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T13:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057074071842754974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1019253304520372225",
+          "start": 0,
+          "username": "Bella828Ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057074071842754974",
+    "in_reply_to_user_id": "1019253304520372225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057069551989264858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bella828Ye 有中药成分会不会出事啊？ 我下次给他要几个吃一下看看 罂粟壳的含量应该很少（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056955359336739068",
+        "created_at": "2026-05-20T12:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057074071842754974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1019253304520372225",
+              "start": 0,
+              "username": "Bella828Ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057074071842754974",
+        "in_reply_to_user_id": "1019253304520372225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057069551989264858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bella828Ye 有中药成分会不会出事啊？ 我下次给他要几个吃一下看看 罂粟壳的含量应该很少（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1019253304520372225",
+        "conversation_id": "2056955359336739068",
+        "created_at": "2026-05-20T12:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057069551989264858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057069551989264858",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057069031065272549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 下回试试，中药不知道吸收怎么样，先试60吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 134,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 405
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-17T16:11:39.000Z",
+        "description": "缅甸诈骗犯",
+        "id": "1019253304520372225",
+        "location": "无人区",
+        "name": "幻痛药",
+        "pinned_tweet_id": "2040245329270895002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056558188686688256/QdGWJzx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 18,
+          "like_count": 2549,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 430
+        },
+        "username": "Bella828Ye",
+        "verified": false
+      }
+    ]
+  }
+}

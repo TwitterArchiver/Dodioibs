@@ -1,0 +1,128 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053538212723994624",
+        "3_2053538212719841281",
+        "3_2053538212724002816"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2053538240435806617",
+    "created_at": "2026-05-10T18:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053538240435806617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LC4wiEKpUa",
+          "end": 42,
+          "expanded_url": "https://x.com/Dodioibs/status/2053538240435806617/photo/1",
+          "media_key": "3_2053538212723994624",
+          "start": 19,
+          "url": "https://t.co/LC4wiEKpUa"
+        },
+        {
+          "display_url": "pic.x.com/LC4wiEKpUa",
+          "end": 42,
+          "expanded_url": "https://x.com/Dodioibs/status/2053538240435806617/photo/1",
+          "media_key": "3_2053538212719841281",
+          "start": 19,
+          "url": "https://t.co/LC4wiEKpUa"
+        },
+        {
+          "display_url": "pic.x.com/LC4wiEKpUa",
+          "end": 42,
+          "expanded_url": "https://x.com/Dodioibs/status/2053538240435806617/photo/1",
+          "media_key": "3_2053538212724002816",
+          "start": 19,
+          "url": "https://t.co/LC4wiEKpUa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053538240435806617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请问现在有资格吐槽跟风自残的人了吗。 https://t.co/LC4wiEKpUa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053538240435806617].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053538240435806617",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053538240435806617"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2053538212723994624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-iH9YasAAf-2V.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1333,
+        "media_key": "3_2053538212719841281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-iH9XbUAEYJXv.jpg",
+        "width": 1169
+      },
+      {
+        "height": 856,
+        "media_key": "3_2053538212724002816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-iH9Ya0AAz6h6.jpg",
+        "width": 475
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人",
+        "id": "2045598149704818688",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 29,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 129
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

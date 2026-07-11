@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056017451561971868",
+    "created_at": "2026-05-17T14:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056017451561971868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2023887772801736704",
+          "start": 3,
+          "username": "lyyouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056017451561971868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056007129165860893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lyyouo: 不要问我为什么割手吞药 不要问我吃药啥感觉 不要告诉我你的朋友你的前任你的暧昧对象od了会发情 不关我事🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056017451561971868",
+        "created_at": "2026-05-17T14:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056017451561971868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2023887772801736704",
+              "start": 3,
+              "username": "lyyouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056017451561971868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056007129165860893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lyyouo: 不要问我为什么割手吞药 不要问我吃药啥感觉 不要告诉我你的朋友你的前任你的暧昧对象od了会发情 不关我事🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023887772801736704",
+        "conversation_id": "2056007129165860893",
+        "created_at": "2026-05-17T13:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056007129165860893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056007129165860893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不要问我为什么割手吞药 不要问我吃药啥感觉 不要告诉我你的朋友你的前任你的暧昧对象od了会发情 不关我事🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 120,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 327
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T22:30:32.000Z",
+        "description": "前世@o3olyy｜18 ↑｜od 自伤🩹餐券女｜双相｜adhd｜认知障碍｜自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink 同类宝宝互fo私一下我♡\n求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "o3olyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/6FKFe0QKii"
+              }
+            ]
+          }
+        },
+        "id": "2023887772801736704",
+        "location": "看看你身后｜🚪52坐标10",
+        "name": "真理（寻回互fo版）",
+        "pinned_tweet_id": "2053586183427649665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048059698948263936/IChWanrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 156,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/6FKFe0QKii",
+        "username": "lyyouo",
+        "verified": false
+      }
+    ]
+  }
+}

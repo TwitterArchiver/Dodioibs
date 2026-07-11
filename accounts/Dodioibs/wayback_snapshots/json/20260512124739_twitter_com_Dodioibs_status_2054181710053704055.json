@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2054170531633774972",
+    "created_at": "2026-05-12T12:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T13:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054181710053704055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029857043029667840",
+          "start": 0,
+          "username": "lili_92477"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054181710053704055",
+    "in_reply_to_user_id": "2029857043029667840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054170531633774972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lili_92477 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2054170531633774972",
+        "created_at": "2026-05-12T12:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054181710053704055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029857043029667840",
+              "start": 0,
+              "username": "lili_92477"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054181710053704055",
+        "in_reply_to_user_id": "2029857043029667840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054170531633774972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lili_92477 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029857043029667840",
+        "conversation_id": "2054170531633774972",
+        "created_at": "2026-05-12T12:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054170531633774972"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054170531633774972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的理想体重是40kg..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 75,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 164
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T09:50:29.000Z",
+        "description": "＝里离/小离\n                                                                        妳好｜\n關注妳就是我喜歡妳呀",
+        "id": "2029857043029667840",
+        "location": "外星",
+        "name": "灵魂究竟在何处",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050050979555684352/rYs38GE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 42,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 206
+        },
+        "username": "lili_92477",
+        "verified": false
+      }
+    ]
+  }
+}

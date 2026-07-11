@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055850461601952153",
+    "created_at": "2026-05-17T07:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055920610073874437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042615716059451399",
+          "start": 0,
+          "username": "lyxtd3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055920610073874437",
+    "in_reply_to_user_id": "2042615716059451399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055860153807995020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxtd3s 亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055850461601952153",
+        "created_at": "2026-05-17T07:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055920610073874437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042615716059451399",
+              "start": 0,
+              "username": "lyxtd3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055920610073874437",
+        "in_reply_to_user_id": "2042615716059451399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055860153807995020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxtd3s 亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042615716059451399",
+        "conversation_id": "2055850461601952153",
+        "created_at": "2026-05-17T03:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055860153807995020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055860153807995020",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055850461601952153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 贴贴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 119,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 324
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:48:57.000Z",
+        "description": "年龄未知｜双相 重抑 割手 od ｜男的加我🚪52",
+        "id": "2042615716059451399",
+        "name": "冰块🧊",
+        "pinned_tweet_id": "2046681872424657078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042616008461160450/WF5WX5Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 197,
+          "like_count": 1689,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 347
+        },
+        "username": "lyxtd3s",
+        "verified": false
+      }
+    ]
+  }
+}

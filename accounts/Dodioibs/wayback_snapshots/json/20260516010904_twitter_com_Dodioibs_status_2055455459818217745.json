@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055305489538589021",
+    "created_at": "2026-05-16T01:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T02:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055455459818217745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042615716059451399",
+          "start": 0,
+          "username": "lyxtd3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055455459818217745",
+    "in_reply_to_user_id": "2042615716059451399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055305489538589021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxtd3s 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055305489538589021",
+        "created_at": "2026-05-16T01:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T02:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055455459818217745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042615716059451399",
+              "start": 0,
+              "username": "lyxtd3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055455459818217745",
+        "in_reply_to_user_id": "2042615716059451399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055305489538589021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxtd3s 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042615716059451399",
+        "conversation_id": "2055305489538589021",
+        "created_at": "2026-05-15T15:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055305489538589021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055305489538589021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想开了真好呀 让我觉得不舒服的我想骂就骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 105,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 243
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:48:57.000Z",
+        "description": "希望大家能喜欢我呀",
+        "id": "2042615716059451399",
+        "name": "冰块🧊",
+        "pinned_tweet_id": "2046681872424657078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042616008461160450/WF5WX5Id_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 181,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 334
+        },
+        "username": "lyxtd3s",
+        "verified": false
+      }
+    ]
+  }
+}

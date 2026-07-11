@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053878706108850176"
+      ],
+      "media_source_tweet_id": [
+        "2053878739206029365"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2054466139720421410",
+    "created_at": "2026-05-13T07:37:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:37:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054466139720421410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "ovoTvTo3o7777u"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7RnhxJtQp7",
+          "end": 46,
+          "expanded_url": "https://x.com/ovoTvTo3o7777u/status/2053878739206029365/photo/1",
+          "media_key": "3_2053878706108850176",
+          "start": 23,
+          "url": "https://t.co/7RnhxJtQp7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054466139720421410",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053878739206029365",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ovoTvTo3o7777u: 我： https://t.co/7RnhxJtQp7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_2053878706108850176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIDXzSFbYAAfjX9.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053878706108850176"
+          ],
+          "media_source_tweet_id": [
+            "2053878739206029365"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2054466139720421410",
+        "created_at": "2026-05-13T07:37:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:37:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054466139720421410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "ovoTvTo3o7777u"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RnhxJtQp7",
+              "end": 46,
+              "expanded_url": "https://x.com/ovoTvTo3o7777u/status/2053878739206029365/photo/1",
+              "media_key": "3_2053878706108850176",
+              "start": 23,
+              "url": "https://t.co/7RnhxJtQp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054466139720421410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053878739206029365",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ovoTvTo3o7777u: 我： https://t.co/7RnhxJtQp7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053878706108850176"
+          ]
+        },
+        "author_id": "1829229897195368455",
+        "conversation_id": "2053878739206029365",
+        "created_at": "2026-05-11T16:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T17:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053878739206029365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7RnhxJtQp7",
+              "end": 26,
+              "expanded_url": "https://x.com/ovoTvTo3o7777u/status/2053878739206029365/photo/1",
+              "media_key": "3_2053878706108850176",
+              "start": 3,
+              "url": "https://t.co/7RnhxJtQp7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053878739206029365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1686,
+          "like_count": 29,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我： https://t.co/7RnhxJtQp7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 83,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 208
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 66,
+          "like_count": 3115,
+          "listed_count": 4,
+          "media_count": 445,
+          "tweet_count": 5881
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "ovoTvTo3o7777u",
+        "verified": false
+      }
+    ]
+  }
+}

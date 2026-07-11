@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2065694529953701999",
+    "created_at": "2026-06-13T17:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065846062557045106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954524887454011392",
+          "start": 0,
+          "username": "thexiexx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065846062557045106",
+    "in_reply_to_user_id": "1954524887454011392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065694529953701999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thexiexx 蹲蹲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2065694529953701999",
+        "created_at": "2026-06-13T17:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065846062557045106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954524887454011392",
+              "start": 0,
+              "username": "thexiexx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065846062557045106",
+        "in_reply_to_user_id": "1954524887454011392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065694529953701999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thexiexx 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954524887454011392",
+        "conversation_id": "2065694529953701999",
+        "created_at": "2026-06-13T07:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065694529953701999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thexiexx/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/thexiexx/status/2065385008949588376",
+              "start": 49,
+              "url": "https://t.co/XZtjfApdQN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065694529953701999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 627,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065385008949588376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@所有人 马上300fo了呀抽一个人类画无偿300fogrok开奖🫵\n\n参与条件赞转评谢谢你们😋 https://t.co/XZtjfApdQN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 250,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 862
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T12:47:15.000Z",
+        "description": "這裏沒有你想看的。\n神秘画画账号兼备用机@lkuaix_xie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "lkuaix_xie"
+              }
+            ]
+          }
+        },
+        "id": "1954524887454011392",
+        "location": "記憶之後",
+        "name": "些邪血屑X",
+        "pinned_tweet_id": "2064732261929603385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048279968082534400/e7MZDoQF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 484,
+          "like_count": 3196,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 2728
+        },
+        "username": "thexiexx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2056378106542501999",
+    "created_at": "2026-05-18T14:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T15:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056378106542501999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/strf_9040c/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/strf_9040c/status/2056304690485440988",
+          "start": 7,
+          "url": "https://t.co/QkIXwXwJAF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056378106542501999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056304690485440988",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鹿目圆环咋了 https://t.co/QkIXwXwJAF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2056378106542501999",
+        "created_at": "2026-05-18T14:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056378106542501999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/strf_9040c/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/strf_9040c/status/2056304690485440988",
+              "start": 7,
+              "url": "https://t.co/QkIXwXwJAF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056378106542501999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056304690485440988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鹿目圆环咋了 https://t.co/QkIXwXwJAF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721895937357004800",
+        "conversation_id": "2056304690485440988",
+        "created_at": "2026-05-18T09:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056304690485440988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056304690485440988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 7711,
+          "like_count": 160,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "现在中推圈有：\n-zyn起号法\n-tyw起号法\n-咱喵起号法\n-Unk起号法\n-假似起号法\n-鹿目圆环起号法\n-鸡哥起号法\n-N55起号法\n-…待续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 125,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 348
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2054846201502306755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 2071,
+          "like_count": 10194,
+          "listed_count": 2,
+          "media_count": 506,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

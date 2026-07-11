@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055717516841005090",
+    "created_at": "2026-05-16T18:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055720166655484061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980572743230795776",
+          "start": 0,
+          "username": "zake96279450728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055720166655484061",
+    "in_reply_to_user_id": "1980572743230795776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055719858583867638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zake96279450728 嘿嘿嘿嘿嘿🧑‍🩰🧑‍🩰🧑‍🩰🧑‍🩰🧑‍🩰🧑‍🩰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 561,
+        "media_key": "3_2055719851331883008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdiUChbEAAnMyY.jpg",
+        "width": 572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055717516841005090",
+        "created_at": "2026-05-16T18:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055720166655484061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980572743230795776",
+              "start": 0,
+              "username": "zake96279450728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055720166655484061",
+        "in_reply_to_user_id": "1980572743230795776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055719858583867638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zake96279450728 嘿嘿嘿嘿嘿🧑‍🩰🧑‍🩰🧑‍🩰🧑‍🩰🧑‍🩰🧑‍🩰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055719851331883008"
+          ]
+        },
+        "author_id": "1980572743230795776",
+        "conversation_id": "2055717516841005090",
+        "created_at": "2026-05-16T18:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055719858583867638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dIo2qS2z2i",
+              "end": 59,
+              "expanded_url": "https://x.com/zake96279450728/status/2055719858583867638/photo/1",
+              "media_key": "3_2055719851331883008",
+              "start": 36,
+              "url": "https://t.co/dIo2qS2z2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055719858583867638",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055717516841005090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 初二时对我就没用了，谁骂我我都是和我头像一样的表情 https://t.co/dIo2qS2z2i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 117,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 263
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T09:52:09.000Z",
+        "description": "𖦹无性别𖦹泛性恋𖦹不聊骚不约𖦹可礼貌扩列𖦹\n𖦹发私信前点关注𖦹所有人来骚扰我好不好🥺𖦹",
+        "id": "1980572743230795776",
+        "location": "-2.1km",
+        "name": "吵闹的绅士猫猫𝖓𝖔𝖎𝖘𝖊𖦹（互fo）",
+        "pinned_tweet_id": "2054117675366805531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055680086360346624/kLpKiS03_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 112,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 133
+        },
+        "username": "zake96279450728",
+        "verified": false
+      }
+    ]
+  }
+}

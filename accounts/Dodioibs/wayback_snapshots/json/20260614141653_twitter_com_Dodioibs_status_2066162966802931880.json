@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066162644034387968",
+        "3_2066162644005142528",
+        "3_2066162644026101760",
+        "3_2066162644055441408"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066162966802931880",
+    "created_at": "2026-06-14T14:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066162966802931880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xnts2bTksk",
+          "end": 81,
+          "expanded_url": "https://x.com/Dodioibs/status/2066162966802931880/photo/1",
+          "media_key": "3_2066162644034387968",
+          "start": 58,
+          "url": "https://t.co/Xnts2bTksk"
+        },
+        {
+          "display_url": "pic.x.com/Xnts2bTksk",
+          "end": 81,
+          "expanded_url": "https://x.com/Dodioibs/status/2066162966802931880/photo/1",
+          "media_key": "3_2066162644005142528",
+          "start": 58,
+          "url": "https://t.co/Xnts2bTksk"
+        },
+        {
+          "display_url": "pic.x.com/Xnts2bTksk",
+          "end": 81,
+          "expanded_url": "https://x.com/Dodioibs/status/2066162966802931880/photo/1",
+          "media_key": "3_2066162644026101760",
+          "start": 58,
+          "url": "https://t.co/Xnts2bTksk"
+        },
+        {
+          "display_url": "pic.x.com/Xnts2bTksk",
+          "end": 81,
+          "expanded_url": "https://x.com/Dodioibs/status/2066162966802931880/photo/1",
+          "media_key": "3_2066162644055441408",
+          "start": 58,
+          "url": "https://t.co/Xnts2bTksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066162966802931880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我捏了一个文豪野犬模拟器游戏你们有想玩的吗！目前还不是很完整 暂时捏了五个角色npc，等我一周内补齐重要npc？？ https://t.co/Xnts2bTksk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066162644034387968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx7-k3aAAASpUk.jpg",
+        "width": 1147
+      },
+      {
+        "height": 1934,
+        "media_key": "3_2066162644005142528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx7-kwbwAAN9Oa.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2066162644026101760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx7-k1bkAARWST.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1915,
+        "media_key": "3_2066162644055441408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx7-k8bQAAE7ye.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066162644034387968",
+            "3_2066162644005142528",
+            "3_2066162644026101760",
+            "3_2066162644055441408"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066162966802931880",
+        "created_at": "2026-06-14T14:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066162966802931880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xnts2bTksk",
+              "end": 81,
+              "expanded_url": "https://x.com/Dodioibs/status/2066162966802931880/photo/1",
+              "media_key": "3_2066162644034387968",
+              "start": 58,
+              "url": "https://t.co/Xnts2bTksk"
+            },
+            {
+              "display_url": "pic.x.com/Xnts2bTksk",
+              "end": 81,
+              "expanded_url": "https://x.com/Dodioibs/status/2066162966802931880/photo/1",
+              "media_key": "3_2066162644005142528",
+              "start": 58,
+              "url": "https://t.co/Xnts2bTksk"
+            },
+            {
+              "display_url": "pic.x.com/Xnts2bTksk",
+              "end": 81,
+              "expanded_url": "https://x.com/Dodioibs/status/2066162966802931880/photo/1",
+              "media_key": "3_2066162644026101760",
+              "start": 58,
+              "url": "https://t.co/Xnts2bTksk"
+            },
+            {
+              "display_url": "pic.x.com/Xnts2bTksk",
+              "end": 81,
+              "expanded_url": "https://x.com/Dodioibs/status/2066162966802931880/photo/1",
+              "media_key": "3_2066162644055441408",
+              "start": 58,
+              "url": "https://t.co/Xnts2bTksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066162966802931880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我捏了一个文豪野犬模拟器游戏你们有想玩的吗！目前还不是很完整 暂时捏了五个角色npc，等我一周内补齐重要npc？？ https://t.co/Xnts2bTksk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2065326000926597313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 250,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 869
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

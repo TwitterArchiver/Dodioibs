@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2062179952611701043",
+    "created_at": "2026-06-03T14:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T15:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062179952611701043"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062179952611701043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我哥哥在两年前经常用东西砸我 骂我。砸我的身体砸我的脸，我家里人不管，说是我们两个人的事情自己解决，我从来没有忘记过这件事。我哥可能早就忘了，但是我不行。就在刚刚我把他房间的门用刀砍出了洞，我没有报仇的快感，而是很想哭很想哭 一直在哭。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2062179952611701043",
+        "created_at": "2026-06-03T14:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T15:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062179952611701043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062179952611701043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我哥哥在两年前经常用东西砸我 骂我。砸我的身体砸我的脸，我家里人不管，说是我们两个人的事情自己解决，我从来没有忘记过这件事。我哥可能早就忘了，但是我不行。就在刚刚我把他房间的门用刀砍出了洞，我没有报仇的快感，而是很想哭很想哭 一直在哭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 236,
+          "like_count": 885,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 750
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

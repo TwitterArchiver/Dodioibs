@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2046643197141807250",
+    "created_at": "2026-04-22T11:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T12:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046921717474529573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654187428092039176",
+          "start": 0,
+          "username": "xiaoqian1955925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046921717474529573",
+    "in_reply_to_user_id": "1654187428092039176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046904544739905644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoqian1955925 看看脸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2046643197141807250",
+        "created_at": "2026-04-22T11:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T12:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046921717474529573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654187428092039176",
+              "start": 0,
+              "username": "xiaoqian1955925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046921717474529573",
+        "in_reply_to_user_id": "1654187428092039176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046904544739905644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqian1955925 看看脸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654187428092039176",
+        "conversation_id": "2046643197141807250",
+        "created_at": "2026-04-22T10:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046904544739905644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046904544739905644",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046643197141807250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 简直就是我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "另一个我 我忘了账号。🌚🌚",
+        "id": "2045598149704818688",
+        "name": "小酸2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 10,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 47
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T18:13:19.000Z",
+        "description": "",
+        "id": "1654187428092039176",
+        "name": "七月子书",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044228107889188864/-mGTIiMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "xiaoqian1955925",
+        "verified": false
+      }
+    ]
+  }
+}

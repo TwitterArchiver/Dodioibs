@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2047717517851013398",
+    "created_at": "2026-04-24T16:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T17:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047717517851013398"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047717517851013398",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前那个死妈医生推荐我住院特别贱啊啊啊真想杀了她 亏我看她是个女的长的慈祥贡献了挂号费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2047717517851013398",
+        "created_at": "2026-04-24T16:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047717517851013398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047717517851013398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前那个死妈医生推荐我住院特别贱啊啊啊真想杀了她 亏我看她是个女的长的慈祥贡献了挂号费"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "另一个我 我忘了账号。🌚🌚",
+        "id": "2045598149704818688",
+        "name": "小酸2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 14,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 108
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

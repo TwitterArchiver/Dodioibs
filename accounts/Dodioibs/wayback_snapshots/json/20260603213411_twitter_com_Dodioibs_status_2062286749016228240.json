@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2062239176423326144",
+    "created_at": "2026-06-03T21:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T22:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062286749016228240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042615716059451399",
+          "start": 0,
+          "username": "lyxtd3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062286749016228240",
+    "in_reply_to_user_id": "2042615716059451399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062239176423326144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxtd3s 我笑死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2062239161726443520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ6Ll2SaoAA1OJ8.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2062239176423326144",
+        "created_at": "2026-06-03T21:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T22:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062286749016228240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042615716059451399",
+              "start": 0,
+              "username": "lyxtd3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062286749016228240",
+        "in_reply_to_user_id": "2042615716059451399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062239176423326144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxtd3s 我笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062239161726443520"
+          ]
+        },
+        "author_id": "2042615716059451399",
+        "conversation_id": "2062239176423326144",
+        "created_at": "2026-06-03T18:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062239176423326144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvICiUu2Qy",
+              "end": 62,
+              "expanded_url": "https://x.com/lyxtd3s/status/2062239176423326144/photo/1",
+              "media_key": "3_2062239161726443520",
+              "start": 39,
+              "url": "https://t.co/rvICiUu2Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062239176423326144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瞧你妈逼 突然翻到这条给老子看的气死 就这样继续看wcn身材照吧你 恶心猪♂ https://t.co/rvICiUu2Qy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 237,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 754
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T14:48:57.000Z",
+        "description": "年龄未知｜查成分回fo｜双相｜喜欢od的小女孩 死于pr戒断\n恋人:@dodioibs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "dodioibs"
+              }
+            ]
+          }
+        },
+        "id": "2042615716059451399",
+        "name": "冰块🧊",
+        "pinned_tweet_id": "2055978351001829782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061398375631867904/xhA376lS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 238,
+          "like_count": 2949,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 525
+        },
+        "username": "lyxtd3s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2059864233324781629",
+    "created_at": "2026-05-28T21:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T22:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060118728436789351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "74161221",
+          "start": 0,
+          "username": "cybrchic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060118728436789351",
+    "in_reply_to_user_id": "74161221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059905393216954790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cybrchic 给别人要的 我不太清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2059864233324781629",
+        "created_at": "2026-05-28T21:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060118728436789351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "74161221",
+              "start": 0,
+              "username": "cybrchic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060118728436789351",
+        "in_reply_to_user_id": "74161221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059905393216954790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cybrchic 给别人要的 我不太清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "74161221",
+        "conversation_id": "2059864233324781629",
+        "created_at": "2026-05-28T07:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059905393216954790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059905393216954790",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059864233324781629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 直接安装包的格式用不了吧，要自己下载吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 214,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 669
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-14T13:54:30.000Z",
+        "description": "hi！这边可以解决一切问题！有需要的话加我的企鹅🐧，1782810744 白嫖党勿扰❌❌大家彼此的时间都很珍贵！有需要的就+",
+        "id": "74161221",
+        "location": "台湾",
+        "name": "cristy castano",
+        "pinned_tweet_id": "2058158361154298247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056699110292586497/2U94bfm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 179,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 343
+        },
+        "username": "cybrchic",
+        "verified": false
+      }
+    ]
+  }
+}

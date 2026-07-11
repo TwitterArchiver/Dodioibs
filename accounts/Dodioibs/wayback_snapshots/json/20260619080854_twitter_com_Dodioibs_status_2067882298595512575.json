@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067515440440791040",
+        "3_2067515436573601792"
+      ],
+      "media_source_tweet_id": [
+        "2067515445377393021",
+        "2067515445377393021"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2067882298595512575",
+    "created_at": "2026-06-19T08:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067882298595512575"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "门槛妹"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1213330968238387200",
+          "start": 3,
+          "username": "kuromatunotetsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AGMxeJzfNu",
+          "end": 55,
+          "expanded_url": "https://x.com/kuromatunotetsu/status/2067515445377393021/photo/1",
+          "media_key": "3_2067515440440791040",
+          "start": 32,
+          "url": "https://t.co/AGMxeJzfNu"
+        },
+        {
+          "display_url": "pic.x.com/AGMxeJzfNu",
+          "end": 55,
+          "expanded_url": "https://x.com/kuromatunotetsu/status/2067515445377393021/photo/1",
+          "media_key": "3_2067515436573601792",
+          "start": 32,
+          "url": "https://t.co/AGMxeJzfNu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067882298595512575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067515445377393021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuromatunotetsu: 我的号没了 #门槛妹 https://t.co/AGMxeJzfNu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2067515440440791040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFKVsMb0AAo09H.jpg",
+        "width": 1024
+      },
+      {
+        "height": 760,
+        "media_key": "3_2067515436573601792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFKVdybMAAxWF7.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067515440440791040",
+            "3_2067515436573601792"
+          ],
+          "media_source_tweet_id": [
+            "2067515445377393021",
+            "2067515445377393021"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2067882298595512575",
+        "created_at": "2026-06-19T08:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067882298595512575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1213330968238387200",
+              "start": 3,
+              "username": "kuromatunotetsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGMxeJzfNu",
+              "end": 55,
+              "expanded_url": "https://x.com/kuromatunotetsu/status/2067515445377393021/photo/1",
+              "media_key": "3_2067515440440791040",
+              "start": 32,
+              "url": "https://t.co/AGMxeJzfNu"
+            },
+            {
+              "display_url": "pic.x.com/AGMxeJzfNu",
+              "end": 55,
+              "expanded_url": "https://x.com/kuromatunotetsu/status/2067515445377393021/photo/1",
+              "media_key": "3_2067515436573601792",
+              "start": 32,
+              "url": "https://t.co/AGMxeJzfNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067882298595512575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067515445377393021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuromatunotetsu: 我的号没了 #门槛妹 https://t.co/AGMxeJzfNu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067515440440791040",
+            "3_2067515436573601792"
+          ]
+        },
+        "author_id": "1213330968238387200",
+        "conversation_id": "2067515445377393021",
+        "created_at": "2026-06-18T07:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067515445377393021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGMxeJzfNu",
+              "end": 34,
+              "expanded_url": "https://x.com/kuromatunotetsu/status/2067515445377393021/photo/1",
+              "media_key": "3_2067515440440791040",
+              "start": 11,
+              "url": "https://t.co/AGMxeJzfNu"
+            },
+            {
+              "display_url": "pic.x.com/AGMxeJzfNu",
+              "end": 34,
+              "expanded_url": "https://x.com/kuromatunotetsu/status/2067515445377393021/photo/1",
+              "media_key": "3_2067515436573601792",
+              "start": 11,
+              "url": "https://t.co/AGMxeJzfNu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067515445377393021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我的号没了 #门槛妹 https://t.co/AGMxeJzfNu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2066254611145691260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 277,
+          "like_count": 998,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 946
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T05:27:14.000Z",
+        "description": "坐标广州 深圳 验证20 欢迎宝宝互转",
+        "id": "1213330968238387200",
+        "location": "🚪188 288 388 588",
+        "name": "新新啊 前世1600",
+        "pinned_tweet_id": "2066924008847937796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066920780970307584/_DUc9QFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "kuromatunotetsu",
+        "verified": false
+      }
+    ]
+  }
+}

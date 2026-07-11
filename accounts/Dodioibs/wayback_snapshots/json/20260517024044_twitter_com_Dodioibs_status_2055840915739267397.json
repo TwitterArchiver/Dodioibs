@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2055733982474682434",
+    "created_at": "2026-05-17T02:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T03:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055840915739267397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051188013619875840",
+          "start": 0,
+          "username": "yukimaru_suki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055840915739267397",
+    "in_reply_to_user_id": "2051188013619875840",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055822893553262697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukimaru_suki ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2055733982474682434",
+        "created_at": "2026-05-17T02:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T03:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055840915739267397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051188013619875840",
+              "start": 0,
+              "username": "yukimaru_suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055840915739267397",
+        "in_reply_to_user_id": "2051188013619875840",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055822893553262697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukimaru_suki ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051188013619875840",
+        "conversation_id": "2055733982474682434",
+        "created_at": "2026-05-17T01:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T02:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055822893553262697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055822893553262697",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055733982474682434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 我没绷住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 118,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 276
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-04T06:34:28.000Z",
+        "description": "中国语/日本語 /20⬆️/od/缓慢治疗精神疾病中/cp暴言中/fo会查成分",
+        "id": "2051188013619875840",
+        "name": "苦情剧又该我上演",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053244743933632512/shPOzzpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 37,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 150
+        },
+        "username": "yukimaru_suki",
+        "verified": false
+      }
+    ]
+  }
+}

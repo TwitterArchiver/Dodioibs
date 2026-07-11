@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2062033119604257102",
+    "created_at": "2026-06-03T04:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062033119604257102"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062033119604257102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我有个朋友 喜欢反驳别人 还有一点利己控制欲。有时候开玩笑玩还会较真。\n没有鄙视，不是吐槽   我觉得他心理可能有些问题，比如通过打压别人隐藏自己的自卑心理。\n因为我好多年前就有点爱说反话，现在一看是当时很自卑嫉妒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2062033119604257102",
+        "created_at": "2026-06-03T04:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062033119604257102"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062033119604257102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有个朋友 喜欢反驳别人 还有一点利己控制欲。有时候开玩笑玩还会较真。\n没有鄙视，不是吐槽   我觉得他心理可能有些问题，比如通过打压别人隐藏自己的自卑心理。\n因为我好多年前就有点爱说反话，现在一看是当时很自卑嫉妒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n爱人@c10n3_f\n女友@lyxtd3s",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "lyxtd3s"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 237,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 746
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

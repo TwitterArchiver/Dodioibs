@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053543261026054144"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2053543268835852563",
+    "created_at": "2026-05-10T18:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053543268835852563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vRniSfaIQt",
+          "end": 41,
+          "expanded_url": "https://x.com/Dodioibs/status/2053543268835852563/photo/1",
+          "media_key": "3_2053543261026054144",
+          "start": 18,
+          "url": "https://t.co/vRniSfaIQt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053543268835852563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人趁我不在欺负我放在心上的女孩了 https://t.co/vRniSfaIQt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 378,
+        "media_key": "3_2053543261026054144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-mtzxa8AAwQq_.jpg",
+        "width": 406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053543261026054144"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2053543268835852563",
+        "created_at": "2026-05-10T18:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053543268835852563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRniSfaIQt",
+              "end": 41,
+              "expanded_url": "https://x.com/Dodioibs/status/2053543268835852563/photo/1",
+              "media_key": "3_2053543261026054144",
+              "start": 18,
+              "url": "https://t.co/vRniSfaIQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053543268835852563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人趁我不在欺负我放在心上的女孩了 https://t.co/vRniSfaIQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人",
+        "id": "2045598149704818688",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 30,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 130
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

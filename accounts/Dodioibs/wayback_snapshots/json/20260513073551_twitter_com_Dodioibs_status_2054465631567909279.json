@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2054465631567909279",
+    "created_at": "2026-05-13T07:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054465631567909279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asdgg122140107…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/asdgg122140107/status/2054436493016646074",
+          "start": 52,
+          "url": "https://t.co/eEa1U2tNFS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054465631567909279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054436493016646074",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赵露思我们互换身体吧，你在我的小破出租屋里被我的家人网友关心。我在你的大别墅里接受网友媒体的谩骂和网暴 https://t.co/eEa1U2tNFS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2054465631567909279",
+        "created_at": "2026-05-13T07:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054465631567909279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asdgg122140107…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/asdgg122140107/status/2054436493016646074",
+              "start": 52,
+              "url": "https://t.co/eEa1U2tNFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054465631567909279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054436493016646074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赵露思我们互换身体吧，你在我的小破出租屋里被我的家人网友关心。我在你的大别墅里接受网友媒体的谩骂和网暴 https://t.co/eEa1U2tNFS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743515784138330112",
+        "conversation_id": "2054376724234985784",
+        "created_at": "2026-05-13T05:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054436493016646074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1686999547413995521",
+              "start": 0,
+              "username": "MarshWatt776"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054436493016646074",
+        "in_reply_to_user_id": "1686999547413995521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6678,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054376724234985784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarshWatt776 本来就是装啊，住着大别墅还在那卖惨了，她长相在中国娱乐圈一直被吐槽普通，她能获得那么多资源应该感谢她公司，而且公司给她的利益分割已经很大了，她不懂感恩，还人心不足蛇吞象，现在有人还借着于朦胧事件给她还有什么迪丽热巴陈都灵郭俊辰卖惨，一群资源接到手软的还在卖惨，这是侮辱于朦胧呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 83,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 207
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T06:12:19.000Z",
+        "description": "",
+        "id": "1743515784138330112",
+        "name": "asdgg122",
+        "pinned_tweet_id": "2044139372942123148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743606849272938496/-fPmvJYN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 28,
+          "like_count": 1383,
+          "listed_count": 2,
+          "media_count": 647,
+          "tweet_count": 3486
+        },
+        "username": "asdgg122140107",
+        "verified": false
+      }
+    ]
+  }
+}

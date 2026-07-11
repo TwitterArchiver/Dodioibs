@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057038778817294337"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2057038795955229026",
+    "created_at": "2026-05-20T10:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T11:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057038795955229026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h5BPeWcUVC",
+          "end": 70,
+          "expanded_url": "https://x.com/Dodioibs/status/2057038795955229026/video/1",
+          "media_key": "13_2057038778817294337",
+          "start": 47,
+          "url": "https://t.co/h5BPeWcUVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057038795955229026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "画不平的眉毛，修不好的鼻子，贴不起来的肿眼泡，刷不好看的睫毛，磨眼睛的美瞳，快用完的卧蚕盘。 https://t.co/h5BPeWcUVC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16345,
+        "height": 414,
+        "media_key": "13_2057038778817294337",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057038778817294337/img/q3x5SWC16KXnDxOX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057038778817294337/vid/avc1/318x270/yG8a7QujGy3Wry14.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057038778817294337/vid/avc1/488x414/sAoIfzdBURjO9tmn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057038778817294337/pl/KIWE0Nt6ett9nVDc.m3u8"
+          }
+        ],
+        "width": 488
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057038778817294337"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2057038795955229026",
+        "created_at": "2026-05-20T10:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057038795955229026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5BPeWcUVC",
+              "end": 70,
+              "expanded_url": "https://x.com/Dodioibs/status/2057038795955229026/video/1",
+              "media_key": "13_2057038778817294337",
+              "start": 47,
+              "url": "https://t.co/h5BPeWcUVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057038795955229026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画不平的眉毛，修不好的鼻子，贴不起来的肿眼泡，刷不好看的睫毛，磨眼睛的美瞳，快用完的卧蚕盘。 https://t.co/h5BPeWcUVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 129,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 396
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

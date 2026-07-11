@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2053845616359579820",
+    "created_at": "2026-05-11T14:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053845616359579820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1800818819503738880",
+          "start": 3,
+          "username": "w0qvn1made"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053845616359579820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053376514499264850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @w0qvn1made: 我用最简单，最直白，最不绕弯子，最简短的方式来告诉你，你妈死了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2053845616359579820",
+        "created_at": "2026-05-11T14:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053845616359579820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1800818819503738880",
+              "start": 3,
+              "username": "w0qvn1made"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053845616359579820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053376514499264850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @w0qvn1made: 我用最简单，最直白，最不绕弯子，最简短的方式来告诉你，你妈死了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800818819503738880",
+        "conversation_id": "2053376514499264850",
+        "created_at": "2026-05-10T07:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053376514499264850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053376514499264850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 10490,
+          "like_count": 328,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "我用最简单，最直白，最不绕弯子，最简短的方式来告诉你，你妈死了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回",
+        "id": "2045598149704818688",
+        "name": "小酸2.0（邪恶魔女化发作版）",
+        "pinned_tweet_id": "2053502880163021095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 46,
+          "like_count": 136,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 137
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T09:14:13.000Z",
+        "description": "",
+        "id": "1800818819503738880",
+        "location": "你妈血逼里",
+        "name": "我的逼好痛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053377327166619648/5a4o0CGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 0,
+          "like_count": 605,
+          "listed_count": 7,
+          "media_count": 9,
+          "tweet_count": 313
+        },
+        "username": "w0qvn1made",
+        "verified": false
+      }
+    ]
+  }
+}

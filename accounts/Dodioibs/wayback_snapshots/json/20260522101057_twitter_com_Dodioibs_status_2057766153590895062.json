@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057719312081948672",
+        "3_2057719312102907904"
+      ],
+      "media_source_tweet_id": [
+        "2057719322693525908",
+        "2057719322693525908"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2057766153590895062",
+    "created_at": "2026-05-22T10:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057766153590895062"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 89,
+          "tag": "金主爸爸"
+        },
+        {
+          "end": 100,
+          "start": 95,
+          "tag": "电子女友"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "门槛"
+        },
+        {
+          "end": 108,
+          "start": 105,
+          "tag": "足控"
+        },
+        {
+          "end": 112,
+          "start": 109,
+          "tag": "非绿"
+        },
+        {
+          "end": 116,
+          "start": 113,
+          "tag": "反差"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "631828545",
+          "start": 3,
+          "username": "raven_kitzan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oe0zGdSkBe",
+          "end": 140,
+          "expanded_url": "https://x.com/raven_kitzan/status/2057719322693525908/photo/1",
+          "media_key": "3_2057719312081948672",
+          "start": 117,
+          "url": "https://t.co/Oe0zGdSkBe"
+        },
+        {
+          "display_url": "pic.x.com/Oe0zGdSkBe",
+          "end": 140,
+          "expanded_url": "https://x.com/raven_kitzan/status/2057719322693525908/photo/1",
+          "media_key": "3_2057719312102907904",
+          "start": 117,
+          "url": "https://t.co/Oe0zGdSkBe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057766153590895062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057719322693525908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raven_kitzan: Hello  我是橙子🍊\n07 168 47kg 全国🉑✈️\n期待有宝宝入🚪\n不入🚪的宝宝请勿打扰 生活不易 保持善意\n欢迎宝宝们互转互fo\n#金主爸爸 #电子女友 #门槛 #足控 #非绿 #反差 https://t.co/Oe0zGdSkBe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057719312081948672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI58z-QbEAA3ygX.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2057719312102907904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI58z-Va4AA8FsR.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057719312081948672",
+            "3_2057719312102907904"
+          ],
+          "media_source_tweet_id": [
+            "2057719322693525908",
+            "2057719322693525908"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2057766153590895062",
+        "created_at": "2026-05-22T10:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057766153590895062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 89,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 100,
+              "start": 95,
+              "tag": "电子女友"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "门槛"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "足控"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "非绿"
+            },
+            {
+              "end": 116,
+              "start": 113,
+              "tag": "反差"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "631828545",
+              "start": 3,
+              "username": "raven_kitzan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oe0zGdSkBe",
+              "end": 140,
+              "expanded_url": "https://x.com/raven_kitzan/status/2057719322693525908/photo/1",
+              "media_key": "3_2057719312081948672",
+              "start": 117,
+              "url": "https://t.co/Oe0zGdSkBe"
+            },
+            {
+              "display_url": "pic.x.com/Oe0zGdSkBe",
+              "end": 140,
+              "expanded_url": "https://x.com/raven_kitzan/status/2057719322693525908/photo/1",
+              "media_key": "3_2057719312102907904",
+              "start": 117,
+              "url": "https://t.co/Oe0zGdSkBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057766153590895062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057719322693525908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raven_kitzan: Hello  我是橙子🍊\n07 168 47kg 全国🉑✈️\n期待有宝宝入🚪\n不入🚪的宝宝请勿打扰 生活不易 保持善意\n欢迎宝宝们互转互fo\n#金主爸爸 #电子女友 #门槛 #足控 #非绿 #反差 https://t.co/Oe0zGdSkBe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057719312081948672",
+            "3_2057719312102907904"
+          ]
+        },
+        "author_id": "631828545",
+        "conversation_id": "2057719322693525908",
+        "created_at": "2026-05-22T07:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057719322693525908"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "金主爸爸"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "电子女友"
+            },
+            {
+              "end": 86,
+              "start": 83,
+              "tag": "门槛"
+            },
+            {
+              "end": 90,
+              "start": 87,
+              "tag": "足控"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "非绿"
+            },
+            {
+              "end": 98,
+              "start": 95,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oe0zGdSkBe",
+              "end": 122,
+              "expanded_url": "https://x.com/raven_kitzan/status/2057719322693525908/photo/1",
+              "media_key": "3_2057719312081948672",
+              "start": 99,
+              "url": "https://t.co/Oe0zGdSkBe"
+            },
+            {
+              "display_url": "pic.x.com/Oe0zGdSkBe",
+              "end": 122,
+              "expanded_url": "https://x.com/raven_kitzan/status/2057719322693525908/photo/1",
+              "media_key": "3_2057719312102907904",
+              "start": 99,
+              "url": "https://t.co/Oe0zGdSkBe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057719322693525908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Hello  我是橙子🍊\n07 168 47kg 全国🉑✈️\n期待有宝宝入🚪\n不入🚪的宝宝请勿打扰 生活不易 保持善意\n欢迎宝宝们互转互fo\n#金主爸爸 #电子女友 #门槛 #足控 #非绿 #反差 https://t.co/Oe0zGdSkBe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜赛博恋爱无性恋",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 146,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 472
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-10T06:43:42.000Z",
+        "description": "07 168 47kg 全国🉑✈️\n不入🚪的宝宝请勿打扰 生活不易 保持善意\n欢迎宝宝们互转互fo",
+        "id": "631828545",
+        "name": "橙子🍊",
+        "pinned_tweet_id": "2057719322693525908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057716779934486528/ealqWwO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 0,
+          "like_count": 5316,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "raven_kitzan",
+        "verified": false
+      }
+    ]
+  }
+}

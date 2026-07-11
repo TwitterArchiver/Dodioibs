@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2058567009135362475",
+    "created_at": "2026-05-25T14:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058918389758976176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1329352754922450952",
+          "start": 0,
+          "username": "JeremyMastroja1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058918389758976176",
+    "in_reply_to_user_id": "1329352754922450952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058914868171043082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JeremyMastroja1 啊 我回头试试？不过我最近没有ss 又要去开药了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2058567009135362475",
+        "created_at": "2026-05-25T14:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058918389758976176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1329352754922450952",
+              "start": 0,
+              "username": "JeremyMastroja1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058918389758976176",
+        "in_reply_to_user_id": "1329352754922450952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058914868171043082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JeremyMastroja1 啊 我回头试试？不过我最近没有ss 又要去开药了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329352754922450952",
+        "conversation_id": "2058567009135362475",
+        "created_at": "2026-05-25T14:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058914868171043082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058914868171043082",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058768500177637539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 其实可以找一天试试看（？）因为sns管的是短期的，大概6小时就完全退效了，也有治疗嗜睡的作用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 混乱邪恶虚荣以我为主爆笑乐子人｜刷新fo后缓慢回｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2057764688105259225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 184,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 570
+        },
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T09:16:37.000Z",
+        "description": "重焦中抑 | 自伤od | 日高生 |",
+        "id": "1329352754922450952",
+        "name": "ハル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056751092675891200/CPLGw6G2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 12,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "JeremyMastroja1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060589468437082112",
+        "3_2060589468441300992",
+        "3_2060589468445560832"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2060589474942435784",
+    "created_at": "2026-05-30T05:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060589474942435784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vKJ0abxHcV",
+          "end": 32,
+          "expanded_url": "https://x.com/Dodioibs/status/2060589474942435784/photo/1",
+          "media_key": "3_2060589468437082112",
+          "start": 9,
+          "url": "https://t.co/vKJ0abxHcV"
+        },
+        {
+          "display_url": "pic.x.com/vKJ0abxHcV",
+          "end": 32,
+          "expanded_url": "https://x.com/Dodioibs/status/2060589474942435784/photo/1",
+          "media_key": "3_2060589468441300992",
+          "start": 9,
+          "url": "https://t.co/vKJ0abxHcV"
+        },
+        {
+          "display_url": "pic.x.com/vKJ0abxHcV",
+          "end": 32,
+          "expanded_url": "https://x.com/Dodioibs/status/2060589474942435784/photo/1",
+          "media_key": "3_2060589468445560832",
+          "start": 9,
+          "url": "https://t.co/vKJ0abxHcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060589474942435784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我并不清楚您咋了 https://t.co/vKJ0abxHcV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 163,
+        "media_key": "3_2060589468437082112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJivND4acAAL_Ps.jpg",
+        "width": 217
+      },
+      {
+        "height": 194,
+        "media_key": "3_2060589468441300992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJivND5a0AA7aiT.jpg",
+        "width": 454
+      },
+      {
+        "height": 1082,
+        "media_key": "3_2060589468445560832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJivND6b0AAhKmN.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060589468437082112",
+            "3_2060589468441300992",
+            "3_2060589468445560832"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2060589474942435784",
+        "created_at": "2026-05-30T05:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060589474942435784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vKJ0abxHcV",
+              "end": 32,
+              "expanded_url": "https://x.com/Dodioibs/status/2060589474942435784/photo/1",
+              "media_key": "3_2060589468437082112",
+              "start": 9,
+              "url": "https://t.co/vKJ0abxHcV"
+            },
+            {
+              "display_url": "pic.x.com/vKJ0abxHcV",
+              "end": 32,
+              "expanded_url": "https://x.com/Dodioibs/status/2060589474942435784/photo/1",
+              "media_key": "3_2060589468441300992",
+              "start": 9,
+              "url": "https://t.co/vKJ0abxHcV"
+            },
+            {
+              "display_url": "pic.x.com/vKJ0abxHcV",
+              "end": 32,
+              "expanded_url": "https://x.com/Dodioibs/status/2060589474942435784/photo/1",
+              "media_key": "3_2060589468445560832",
+              "start": 9,
+              "url": "https://t.co/vKJ0abxHcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060589474942435784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我并不清楚您咋了 https://t.co/vKJ0abxHcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 ｜ 自傷 od bpd｜混乱邪恶虚荣以我为主爆笑乐子人｜",
+        "id": "2045598149704818688",
+        "location": "痛苦深淵",
+        "name": "小酸2.0（寻回推友中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 221,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 672
+        },
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}
