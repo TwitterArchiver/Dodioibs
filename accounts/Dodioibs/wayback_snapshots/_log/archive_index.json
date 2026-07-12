@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T00:11:11",
+  "last_updated": "2026-07-12T00:14:20",
   "html": {
     "https://web.archive.org/web/20260420055432if_/https://twitter.com/Dodioibs/status/2046105213225099293": {
       "status": "done",
@@ -6681,7 +6681,7 @@
   },
   "avatars": {
     "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260418203341_twitter_com_Dodioibs_status_2045601682172870713.json",
         "20260419003432_twitter_com_Dodioibs_status_2045662295792193714.json",
@@ -6814,7 +6814,7 @@
         "20260504132557_twitter_com_Dodioibs_status_2051292246046371936.json",
         "20260510155013_twitter_com_Dodioibs_status_2053502880163021095.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
+      "last_updated": "2026-07-12T00:11:24",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510155013if_/https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d80a08c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -6835,9 +6835,9 @@
         "20260424115255_twitter_com_Dodioibs_status_2047644954005270617.json",
         "20260424122957_twitter_com_Dodioibs_status_2047654274260447350.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424122957if_/https://pbs.twimg.com/profile_images/2037515995548614656/fSl-1BqM_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5785c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:11:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424122957if_/https://pbs.twimg.com/profile_images/2037515995548614656/fSl-1BqM_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa5c3dcfec0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg": {
       "status": "done",
@@ -6851,9 +6851,9 @@
       "referenced_by": [
         "20260420041221_twitter_com_Dodioibs_status_2046079499553615894.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420041221if_/https://pbs.twimg.com/profile_images/2043341760320139265/yVb3k51a_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5bc0b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:11:41",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260420041221if_/https://pbs.twimg.com/profile_images/2043341760320139265/yVb3k51a_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa5c3de7a70>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2013505726472208384/72qHbyLv_normal.jpg": {
       "status": "failed",
@@ -6892,9 +6892,9 @@
         "20260425162649_twitter_com_Dodioibs_status_2048076273923268650.json",
         "20260425162711_twitter_com_Dodioibs_status_2048076367045214507.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425162711if_/https://pbs.twimg.com/profile_images/2013505726472208384/72qHbyLv_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d80a12b0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:11:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260425162711im_/https://pbs.twimg.com/profile_images/2013505726472208384/72qHbyLv_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3de5760>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2042616008461160450/WF5WX5Id_normal.jpg": {
       "status": "done",
@@ -6944,9 +6944,9 @@
       "referenced_by": [
         "20260422115902_twitter_com_Dodioibs_status_2046921717474529573.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422115902if_/https://pbs.twimg.com/profile_images/2044228107889188864/-mGTIiMJ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5bdfa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:11:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422115902if_/https://pbs.twimg.com/profile_images/2044228107889188864/-mGTIiMJ_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3de67e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg": {
       "status": "done",
@@ -6963,11 +6963,11 @@
       "last_updated": "2026-07-11T23:55:13"
     },
     "https://pbs.twimg.com/profile_images/2041966614552440833/7JNXpPCe_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260422140023_twitter_com_Dodioibs_status_2046952259515453443.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
+      "last_updated": "2026-07-12T00:11:24",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422140023if_/https://pbs.twimg.com/profile_images/2041966614552440833/7JNXpPCe_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db557ad0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -6976,9 +6976,9 @@
       "referenced_by": [
         "20260422153438_twitter_com_Dodioibs_status_2046975975951651206.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422153438if_/https://pbs.twimg.com/profile_images/2041930779991928834/6iDYyhxt_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db39d4f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:11:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422153438im_/https://pbs.twimg.com/profile_images/2041930779991928834/6iDYyhxt_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4032720>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1675339017502740485/EYOVfVg5_normal.jpg": {
       "status": "done",
@@ -6996,18 +6996,18 @@
       "referenced_by": [
         "20260422164448_twitter_com_Dodioibs_status_2046993635267551470.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422164448if_/https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5bc200>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:11:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422164448if_/https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4031b50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260422165039_twitter_com_Dodioibs_status_2046995105429782919.json"
       ],
-      "last_updated": "2026-07-11T23:55:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422165039if_/https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db39dcd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260422165039im_/https://pbs.twimg.com/profile_images/2045899834297872384/W2EN1KwF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3dcfda0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2010400735217831936/nsXfblE1_normal.jpg": {
       "status": "done",
@@ -7030,9 +7030,9 @@
         "20260424135602_twitter_com_Dodioibs_status_2047675941011513704.json",
         "20260510175107_twitter_com_Dodioibs_status_2053533307292516493.json"
       ],
-      "last_updated": "2026-07-11T23:55:15",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175107if_/https://pbs.twimg.com/profile_images/2042183924127055872/aNeMnzZY_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5d8f80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510175107im_/https://pbs.twimg.com/profile_images/2042183924127055872/aNeMnzZY_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3dcfd40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2047456618309464064/xAwst6AI_normal.jpg": {
       "status": "done",
@@ -7046,9 +7046,9 @@
       "referenced_by": [
         "20260424162542_twitter_com_Dodioibs_status_2047713603516850617.json"
       ],
-      "last_updated": "2026-07-11T23:55:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424162542if_/https://pbs.twimg.com/profile_images/2021040600997560328/qdRvZx0p_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5262d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424162542im_/https://pbs.twimg.com/profile_images/2021040600997560328/qdRvZx0p_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3de5610>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2040975317486186496/Dx6Wt3_R_normal.jpg": {
       "status": "done",
@@ -7070,9 +7070,9 @@
       "referenced_by": [
         "20260424183453_twitter_com_Dodioibs_status_2047746113789444165.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424183453if_/https://pbs.twimg.com/profile_images/2035482807825481728/I3RBmrCa_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5be780>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260424183453im_/https://pbs.twimg.com/profile_images/2035482807825481728/I3RBmrCa_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3de55e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2047669603997044736/-KWzIjxR_normal.jpg": {
       "status": "failed",
@@ -7098,9 +7098,9 @@
         "20260605020858_twitter_com_Dodioibs_status_2062718291559530835.json",
         "20260605020926_twitter_com_Dodioibs_status_2062718405871059023.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605020926if_/https://pbs.twimg.com/profile_images/2047669603997044736/-KWzIjxR_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8224140>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260605020926im_/https://pbs.twimg.com/profile_images/2047669603997044736/-KWzIjxR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4033f20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2050583083691204608/ovFywn_4_normal.jpg": {
       "status": "failed",
@@ -7108,9 +7108,9 @@
         "20260504132557_twitter_com_Dodioibs_status_2051292246046371936.json",
         "20260524025425_twitter_com_Dodioibs_status_2058381075253211441.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524025425if_/https://pbs.twimg.com/profile_images/2050583083691204608/ovFywn_4_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8227a40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524025425im_/https://pbs.twimg.com/profile_images/2050583083691204608/ovFywn_4_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4030c80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg": {
       "status": "done",
@@ -8038,14 +8038,14 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "https://pbs.twimg.com/profile_images/2052124967182192640/28p8Yzg2_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260510181748_twitter_com_Dodioibs_status_2053540021186244617.json",
         "20260511141634_twitter_com_Dodioibs_status_2053841699210973506.json",
         "20260511203405_twitter_com_Dodioibs_status_2053936703539429460.json",
         "20260513034847_twitter_com_Dodioibs_status_2054408490115047701.json"
       ],
-      "last_updated": "2026-07-11T23:55:17",
+      "last_updated": "2026-07-12T00:11:24",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513034847if_/https://pbs.twimg.com/profile_images/2052124967182192640/28p8Yzg2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db3eb620>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -8055,9 +8055,9 @@
         "20260510224240_twitter_com_Dodioibs_status_2053606675291296103.json",
         "20260510224258_twitter_com_Dodioibs_status_2053606753426903104.json"
       ],
-      "last_updated": "2026-07-11T23:55:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510224258if_/https://pbs.twimg.com/profile_images/2053203840141500416/0ozHzqR0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d80a2750>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:24",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260510224258im_/https://pbs.twimg.com/profile_images/2053203840141500416/0ozHzqR0_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c405b4a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2053557683882807296/x8DGE3Jv_normal.jpg": {
       "status": "done",
@@ -8089,18 +8089,18 @@
       "referenced_by": [
         "20260511143208_twitter_com_Dodioibs_status_2053845616359579820.json"
       ],
-      "last_updated": "2026-07-11T23:55:16",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511143208if_/https://pbs.twimg.com/profile_images/2053377327166619648/5a4o0CGz_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d80c6060>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:29",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511143208im_/https://pbs.twimg.com/profile_images/2053377327166619648/5a4o0CGz_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4033860>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2049097812126953472/7qsiStF8_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260511203414_twitter_com_Dodioibs_status_2053936745075618266.json"
       ],
-      "last_updated": "2026-07-11T23:55:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511203414if_/https://pbs.twimg.com/profile_images/2049097812126953472/7qsiStF8_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5dbb00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260511203414im_/https://pbs.twimg.com/profile_images/2049097812126953472/7qsiStF8_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c407d670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2045456632256290816/rzugZvz8_normal.jpg": {
       "status": "done",
@@ -8129,9 +8129,9 @@
       "referenced_by": [
         "20260512025631_twitter_com_Dodioibs_status_2054032946391339335.json"
       ],
-      "last_updated": "2026-07-11T23:55:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512025631if_/https://pbs.twimg.com/profile_images/2040709666137939968/1oPAUySf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8133e00>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:37",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512025631im_/https://pbs.twimg.com/profile_images/2040709666137939968/1oPAUySf_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3de5820>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2047187155022176256/oC2r0QZD_normal.jpg": {
       "status": "failed",
@@ -8139,9 +8139,9 @@
         "20260512092903_twitter_com_Dodioibs_status_2054131733533258188.json",
         "20260512124136_twitter_com_Dodioibs_status_2054180189769474437.json"
       ],
-      "last_updated": "2026-07-11T23:55:17",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512124136if_/https://pbs.twimg.com/profile_images/2047187155022176256/oC2r0QZD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d80a3fe0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:40",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512124136im_/https://pbs.twimg.com/profile_images/2047187155022176256/oC2r0QZD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4058d40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2054146926321561600/3vpWVMVw_normal.jpg": {
       "status": "failed",
@@ -8150,9 +8150,9 @@
         "20260525114223_twitter_com_Dodioibs_status_2058876329198752044.json",
         "20260603044127_twitter_com_Dodioibs_status_2062031886948737240.json"
       ],
-      "last_updated": "2026-07-11T23:55:18",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603044127if_/https://pbs.twimg.com/profile_images/2054146926321561600/3vpWVMVw_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0c8f490a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260603044127im_/https://pbs.twimg.com/profile_images/2054146926321561600/3vpWVMVw_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4031fd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg": {
       "status": "done",
@@ -8170,9 +8170,9 @@
       "referenced_by": [
         "20260512124739_twitter_com_Dodioibs_status_2054181710053704055.json"
       ],
-      "last_updated": "2026-07-11T23:55:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512124739if_/https://pbs.twimg.com/profile_images/2050050979555684352/rYs38GE1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5bf380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260512124739im_/https://pbs.twimg.com/profile_images/2050050979555684352/rYs38GE1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4059e20>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2048382951956922368/VvXctj_n_normal.jpg": {
       "status": "done",
@@ -8305,9 +8305,9 @@
         "20260513064034_twitter_com_Dodioibs_status_2054451720504377463.json",
         "20260513064057_twitter_com_Dodioibs_status_2054451817644503273.json"
       ],
-      "last_updated": "2026-07-11T23:55:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513064057if_/https://pbs.twimg.com/profile_images/2053156716355969024/hMvJDb2r_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8165fa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513064057im_/https://pbs.twimg.com/profile_images/2053156716355969024/hMvJDb2r_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4033da0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1743606849272938496/-fPmvJYN_normal.jpg": {
       "status": "done",
@@ -8337,9 +8337,9 @@
         "20260513112021_twitter_com_Dodioibs_status_2054522131002826874.json",
         "20260513112243_twitter_com_Dodioibs_status_2054522723544760694.json"
       ],
-      "last_updated": "2026-07-11T23:55:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513112243if_/https://pbs.twimg.com/profile_images/2052621806654439424/-kAxSTos_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db5272f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:12:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513112243im_/https://pbs.twimg.com/profile_images/2052621806654439424/-kAxSTos_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4030a70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1808398789025357825/dbxAjeJP_normal.jpg": {
       "status": "done",
@@ -8375,9 +8375,9 @@
       "referenced_by": [
         "20260513144149_twitter_com_Dodioibs_status_2054572830994620551.json"
       ],
-      "last_updated": "2026-07-11T23:55:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513144149if_/https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8204380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:01",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260513144149im_/https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3dcd190>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg": {
       "status": "done",
@@ -8394,11 +8394,11 @@
       "last_updated": "2026-07-11T23:55:17"
     },
     "https://pbs.twimg.com/profile_images/2054248063355731968/s2UfdD9A_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260516012827_twitter_com_Dodioibs_status_2055460335298208144.json"
       ],
-      "last_updated": "2026-07-11T23:55:19",
+      "last_updated": "2026-07-12T00:11:27",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516012827if_/https://pbs.twimg.com/profile_images/2054248063355731968/s2UfdD9A_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8165790>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -8408,9 +8408,9 @@
         "20260516182642_twitter_com_Dodioibs_status_2055716586204664075.json",
         "20260517054413_twitter_com_Dodioibs_status_2055887090429358563.json"
       ],
-      "last_updated": "2026-07-11T23:55:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517054413if_/https://pbs.twimg.com/profile_images/1962339525436596224/waPqWVAQ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db33a0f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:05",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517054413im_/https://pbs.twimg.com/profile_images/1962339525436596224/waPqWVAQ_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c405b200>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2055599815715958786/5Mi2rx5-_normal.jpg": {
       "status": "done",
@@ -8431,17 +8431,17 @@
       "referenced_by": [
         "20260516182727_twitter_com_Dodioibs_status_2055716775216730564.json"
       ],
-      "last_updated": "2026-07-11T23:55:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516182727if_/https://pbs.twimg.com/profile_images/2054261804587790336/10W21sx2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d81b7e30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:09",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516182727im_/https://pbs.twimg.com/profile_images/2054261804587790336/10W21sx2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c40316a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2055680086360346624/kLpKiS03_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260516184055_twitter_com_Dodioibs_status_2055720166655484061.json",
         "20260516202638_twitter_com_Dodioibs_status_2055746768797839640.json"
       ],
-      "last_updated": "2026-07-11T23:55:19",
+      "last_updated": "2026-07-12T00:11:28",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260516202638if_/https://pbs.twimg.com/profile_images/2055680086360346624/kLpKiS03_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8145640>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -8497,12 +8497,12 @@
       "last_updated": "2026-07-11T23:55:17"
     },
     "https://pbs.twimg.com/profile_images/2053244743933632512/shPOzzpb_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260517024044_twitter_com_Dodioibs_status_2055840915739267397.json",
         "20260521163056_twitter_com_Dodioibs_status_2057499393067298838.json"
       ],
-      "last_updated": "2026-07-11T23:55:19",
+      "last_updated": "2026-07-12T00:11:28",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521163056if_/https://pbs.twimg.com/profile_images/2053244743933632512/shPOzzpb_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d81474a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -8520,12 +8520,12 @@
         "20260601153901_twitter_com_Dodioibs_status_2061472594906452175.json",
         "20260602133154_twitter_com_Dodioibs_status_2061802992723218475.json"
       ],
-      "last_updated": "2026-07-11T23:55:19",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602133154if_/https://pbs.twimg.com/profile_images/2049520663631982592/d3jk0rOl_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d81476e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:13",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602133154im_/https://pbs.twimg.com/profile_images/2049520663631982592/d3jk0rOl_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c40591c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260517031644_twitter_com_Dodioibs_status_2055849973007429999.json",
         "20260517033156_twitter_com_Dodioibs_status_2055853801064808737.json",
@@ -8539,7 +8539,7 @@
         "20260517133318_twitter_com_Dodioibs_status_2056005137106350273.json",
         "20260518043617_twitter_com_Dodioibs_status_2056232383708647527.json"
       ],
-      "last_updated": "2026-07-11T23:55:20",
+      "last_updated": "2026-07-12T00:11:28",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260518043617if_/https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8131160>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -8548,9 +8548,9 @@
       "referenced_by": [
         "20260517042058_twitter_com_Dodioibs_status_2055866137888608519.json"
       ],
-      "last_updated": "2026-07-11T23:55:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517042058if_/https://pbs.twimg.com/profile_images/2053489991821688832/fQA4VrJ7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8132390>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:17",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517042058im_/https://pbs.twimg.com/profile_images/2053489991821688832/fQA4VrJ7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3de4c50>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2054405564789350400/lk5mNF5T_normal.jpg": {
       "status": "done",
@@ -8564,9 +8564,9 @@
       "referenced_by": [
         "20260517074059_twitter_com_Dodioibs_status_2055916476016828649.json"
       ],
-      "last_updated": "2026-07-11T23:55:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517074059if_/https://pbs.twimg.com/profile_images/2053400102610595840/MxufF7uu_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d81317c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260517074059im_/https://pbs.twimg.com/profile_images/2053400102610595840/MxufF7uu_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4033b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2054771794637422592/PGsTz_Qy_normal.jpg": {
       "status": "failed",
@@ -8576,9 +8576,9 @@
         "20260521131128_twitter_com_Dodioibs_status_2057449196253565114.json",
         "20260522041121_twitter_com_Dodioibs_status_2057675660718661872.json"
       ],
-      "last_updated": "2026-07-11T23:55:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522041121if_/https://pbs.twimg.com/profile_images/2054771794637422592/PGsTz_Qy_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db39edb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:25",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522041121im_/https://pbs.twimg.com/profile_images/2054771794637422592/PGsTz_Qy_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3de7380>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2048059698948263936/IChWanrt_normal.jpg": {
       "status": "done",
@@ -8602,9 +8602,9 @@
         "20260518221158_twitter_com_Dodioibs_status_2056498054845673727.json",
         "20260520115325_twitter_com_Dodioibs_status_2057067167766770143.json"
       ],
-      "last_updated": "2026-07-11T23:55:20",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520115325if_/https://pbs.twimg.com/profile_images/2039984216675655680/H1MqGkDk_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db39f0e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520115325if_/https://pbs.twimg.com/profile_images/2039984216675655680/H1MqGkDk_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c40588c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2033095147467190276/aYDkP8w8_normal.jpg": {
       "status": "done",
@@ -8638,11 +8638,11 @@
       "last_updated": "2026-07-11T23:55:18"
     },
     "https://pbs.twimg.com/profile_images/2052447622317977600/0zOEQGJc_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260519132217_twitter_com_Dodioibs_status_2056727143623848344.json"
       ],
-      "last_updated": "2026-07-11T23:55:20",
+      "last_updated": "2026-07-12T00:11:28",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519132217if_/https://pbs.twimg.com/profile_images/2052447622317977600/0zOEQGJc_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db39dfd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -8654,13 +8654,13 @@
       "last_updated": "2026-07-11T23:55:19"
     },
     "https://pbs.twimg.com/profile_images/2056607001908813824/xVUadvcI_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260519134602_twitter_com_Dodioibs_status_2056733118061789354.json",
         "20260519135806_twitter_com_Dodioibs_status_2056736156851806223.json",
         "20260519135949_twitter_com_Dodioibs_status_2056736588869280207.json"
       ],
-      "last_updated": "2026-07-11T23:55:21",
+      "last_updated": "2026-07-12T00:11:28",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519135949if_/https://pbs.twimg.com/profile_images/2056607001908813824/xVUadvcI_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db33b260>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -8824,9 +8824,9 @@
         "20260520162454_twitter_com_Dodioibs_status_2057135488419651891.json",
         "20260521000756_twitter_com_Dodioibs_status_2057252012304306544.json"
       ],
-      "last_updated": "2026-07-11T23:55:23",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521000756im_/https://pbs.twimg.com/profile_images/2052756275965145088/-9uqZ_BF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd0d80a0d70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521000756im_/https://pbs.twimg.com/profile_images/2052756275965145088/-9uqZ_BF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4058890>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2056783244709015552/uYnLusz-_normal.jpg": {
       "status": "done",
@@ -8984,9 +8984,9 @@
       "referenced_by": [
         "20260522101057_twitter_com_Dodioibs_status_2057766153590895062.json"
       ],
-      "last_updated": "2026-07-11T23:55:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522101057im_/https://pbs.twimg.com/profile_images/2057716779934486528/ealqWwO5_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd0db39d640>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260522101057im_/https://pbs.twimg.com/profile_images/2057716779934486528/ealqWwO5_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3de5e80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2056354779060916225/VSxcOJq7_normal.jpg": {
       "status": "done",
@@ -9047,7 +9047,7 @@
       "last_updated": "2026-07-11T23:55:21"
     },
     "https://pbs.twimg.com/profile_images/2041889230876819456/WTJXFQql_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260523090034_twitter_com_Dodioibs_status_2058110832018653425.json",
         "20260523090221_twitter_com_Dodioibs_status_2058111277726306439.json",
@@ -9055,7 +9055,7 @@
         "20260523092038_twitter_com_Dodioibs_status_2058115881201439000.json",
         "20260523103219_twitter_com_Dodioibs_status_2058133920026443879.json"
       ],
-      "last_updated": "2026-07-11T23:55:23",
+      "last_updated": "2026-07-12T00:11:28",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260523103219if_/https://pbs.twimg.com/profile_images/2041889230876819456/WTJXFQql_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db50c260>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -9263,9 +9263,9 @@
         "20260525043523_twitter_com_Dodioibs_status_2058768871725899820.json",
         "20260525081752_twitter_com_Dodioibs_status_2058824859250286650.json"
       ],
-      "last_updated": "2026-07-11T23:55:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525081752if_/https://pbs.twimg.com/profile_images/2058004655465259008/mLttTZjH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db24e8a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260525081752im_/https://pbs.twimg.com/profile_images/2058004655465259008/mLttTZjH_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3dcfe30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/1989917042187931651/KRczj1M-_normal.jpg": {
       "status": "done",
@@ -9462,9 +9462,9 @@
         "20260527215027_twitter_com_Dodioibs_status_2059754129199939632.json",
         "20260528042137_twitter_com_Dodioibs_status_2059852569749696676.json"
       ],
-      "last_updated": "2026-07-11T23:55:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528042137if_/https://pbs.twimg.com/profile_images/2059733347069489152/SoRFhriL_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8130680>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528042137im_/https://pbs.twimg.com/profile_images/2059733347069489152/SoRFhriL_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c407e630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2053515564304531456/by0ANQdZ_normal.jpg": {
       "status": "done",
@@ -9554,9 +9554,9 @@
       "referenced_by": [
         "20260528215914_twitter_com_Dodioibs_status_2060118728436789351.json"
       ],
-      "last_updated": "2026-07-11T23:55:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528215914if_/https://pbs.twimg.com/profile_images/2056699110292586497/2U94bfm0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db31c860>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:50",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528215914if_/https://pbs.twimg.com/profile_images/2056699110292586497/2U94bfm0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa5c4033da0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg": {
       "status": "done",
@@ -9582,13 +9582,13 @@
       "last_updated": "2026-07-11T23:55:22"
     },
     "https://pbs.twimg.com/profile_images/2053028466732523520/TkKRctiO_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260531062044_twitter_com_Dodioibs_status_2060969710783721664.json"
       ],
-      "last_updated": "2026-07-11T23:55:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260531062044if_/https://pbs.twimg.com/profile_images/2053028466732523520/TkKRctiO_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0c8e2ae10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:52",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260531062044if_/https://pbs.twimg.com/profile_images/2053028466732523520/TkKRctiO_normal.jpg",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2020701019995508736/1tn-OANX_normal.jpg": {
       "status": "done",
@@ -9618,9 +9618,9 @@
         "20260531084433_twitter_com_Dodioibs_status_2061005903726526586.json",
         "20260602061741_twitter_com_Dodioibs_status_2061693717485089102.json"
       ],
-      "last_updated": "2026-07-11T23:55:24",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602061741if_/https://pbs.twimg.com/profile_images/2054567871045570561/97DrHAv3_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0c8fd3380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260602061741if_/https://pbs.twimg.com/profile_images/2054567871045570561/97DrHAv3_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa5c3de67e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2054117996336201728/NGgias6q_normal.jpg": {
       "status": "done",
@@ -9747,16 +9747,16 @@
         "20260612114340_twitter_com_Dodioibs_status_2065399633367736768.json",
         "20260613100443_twitter_com_Dodioibs_status_2065737117884617026.json"
       ],
-      "last_updated": "2026-07-11T23:55:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613100443if_/https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0db3e9bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613100443if_/https://pbs.twimg.com/profile_images/2053496659234185216/Qd9JXfn0_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa5c3de7020>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2064452690810433536/quxK-g3m_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260612171020_twitter_com_Dodioibs_status_2065481843026350280.json"
       ],
-      "last_updated": "2026-07-11T23:55:25",
+      "last_updated": "2026-07-12T00:11:28",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260612171020if_/https://pbs.twimg.com/profile_images/2064452690810433536/quxK-g3m_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0c8f28380>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
@@ -9773,9 +9773,9 @@
       "referenced_by": [
         "20260613014340_twitter_com_Dodioibs_status_2065611024720601206.json"
       ],
-      "last_updated": "2026-07-11T23:55:25",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613014340if_/https://pbs.twimg.com/profile_images/2065596171419369472/WRyE-SbZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0d8132990>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:13:59",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613014340if_/https://pbs.twimg.com/profile_images/2065596171419369472/WRyE-SbZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa5c4112a50>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2062550009330200576/mUCDq47z_normal.jpg": {
       "status": "done",
@@ -9871,18 +9871,18 @@
       "referenced_by": [
         "20260614181849_twitter_com_Dodioibs_status_2066223852842267042.json"
       ],
-      "last_updated": "2026-07-11T23:55:26",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614181849if_/https://pbs.twimg.com/profile_images/2065478157642219520/NIqsnlFd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0c8f2b350>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:14:02",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614181849if_/https://pbs.twimg.com/profile_images/2065478157642219520/NIqsnlFd_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fa5c3de71d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260614182549_twitter_com_Dodioibs_status_2066225613510504505.json"
       ],
-      "last_updated": "2026-07-11T23:55:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614182549if_/https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0c8f2b8f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:14:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260614182549im_/https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4059640>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2057218944130523136/rhUtpq1w_normal.jpg": {
       "status": "done",
@@ -9943,9 +9943,9 @@
       "referenced_by": [
         "20260618130548_twitter_com_Dodioibs_status_2067594631123181879.json"
       ],
-      "last_updated": "2026-07-11T23:55:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618130548if_/https://pbs.twimg.com/profile_images/2065111525569052672/rr9NE_GG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0c8f2a2d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:14:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618130548if_/https://pbs.twimg.com/profile_images/2065111525569052672/rr9NE_GG_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4059670>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2064543255732293632/9j9qHL1l_normal.jpg": {
       "status": "done",
@@ -9994,18 +9994,18 @@
       "referenced_by": [
         "20260620024211_twitter_com_Dodioibs_status_2068162469512790332.json"
       ],
-      "last_updated": "2026-07-11T23:55:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620024211if_/https://pbs.twimg.com/profile_images/2067973144640663552/qZOSGSqU_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fd0c8f2bbf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:14:15",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620024211im_/https://pbs.twimg.com/profile_images/2067973144640663552/qZOSGSqU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c3de7bc0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2068087243798110208/yp6k81-x_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260620024222_twitter_com_Dodioibs_status_2068162514773582131.json"
       ],
-      "last_updated": "2026-07-11T23:55:27",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620024222if_/https://pbs.twimg.com/profile_images/2068087243798110208/yp6k81-x_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd0c8f281a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:14:20",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260620024222im_/https://pbs.twimg.com/profile_images/2068087243798110208/yp6k81-x_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa5c4032ed0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2062947368119738368/r-VrnPP1_normal.jpg": {
       "status": "done",
@@ -10054,7 +10054,7 @@
       "miss_count": 2
     },
     "20260419101354_twitter_com_Dodioibs_status_2045808097646858319.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -10064,11 +10064,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260419215116_twitter_com_Dodioibs_status_2045983594808762797.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10076,11 +10076,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260419215700_twitter_com_Dodioibs_status_2045985040631570619.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10088,11 +10088,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260419220548_twitter_com_Dodioibs_status_2045987255580581934.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -10102,11 +10102,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260419221032_twitter_com_Dodioibs_status_2045988444288291257.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -10116,7 +10116,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260420041221_twitter_com_Dodioibs_status_2046079499553615894.json": {
@@ -10134,7 +10134,7 @@
       "miss_count": 2
     },
     "20260420054234_twitter_com_Dodioibs_status_2046102201635103073.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10142,7 +10142,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260420055432_twitter_com_Dodioibs_status_2046105213225099293.json": {
@@ -10159,7 +10159,7 @@
       "miss_count": 2
     },
     "20260420143724_twitter_com_Dodioibs_status_2046236799048221008.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10167,11 +10167,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260420143850_twitter_com_Dodioibs_status_2046237159410348049.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10179,7 +10179,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260420155424_twitter_com_Dodioibs_status_2046256174560112974.json": {
@@ -10196,7 +10196,7 @@
       "miss_count": 2
     },
     "20260421024111_twitter_com_Dodioibs_status_2046418945251688838.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10204,7 +10204,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421083102_twitter_com_Dodioibs_status_2046506988260229538.json": {
@@ -10265,7 +10265,7 @@
       "miss_count": 2
     },
     "20260421154458_twitter_com_Dodioibs_status_2046616188911051024.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10273,11 +10273,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421155714_twitter_com_Dodioibs_status_2046619276157788304.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10285,7 +10285,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421161706_twitter_com_Dodioibs_status_2046624274052792440.json": {
@@ -10341,7 +10341,7 @@
       "miss_count": 2
     },
     "20260421170617_twitter_com_Dodioibs_status_2046636653998182504.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10350,7 +10350,7 @@
           "https://pbs.twimg.com/profile_images/1846889116673495040/8KBZELfz_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421170636_twitter_com_Dodioibs_status_2046636733660618763.json": {
@@ -10367,7 +10367,7 @@
       "miss_count": 2
     },
     "20260421170817_twitter_com_Dodioibs_status_2046637157260111973.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10375,11 +10375,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421171113_twitter_com_Dodioibs_status_2046637892903354756.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10387,7 +10387,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421171624_twitter_com_Dodioibs_status_2046639198896324841.json": {
@@ -10417,7 +10417,7 @@
       "miss_count": 2
     },
     "20260421172358_twitter_com_Dodioibs_status_2046641104272134647.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10425,7 +10425,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421172723_twitter_com_Dodioibs_status_2046641962355499156.json": {
@@ -10442,7 +10442,7 @@
       "miss_count": 2
     },
     "20260421173217_twitter_com_Dodioibs_status_2046643197141807250.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10450,7 +10450,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421180649_twitter_com_Dodioibs_status_2046651889195098171.json": {
@@ -10468,7 +10468,7 @@
       "miss_count": 2
     },
     "20260421180744_twitter_com_Dodioibs_status_2046652116224389366.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10476,7 +10476,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421180839_twitter_com_Dodioibs_status_2046652348467175749.json": {
@@ -10508,7 +10508,7 @@
       "miss_count": 2
     },
     "20260421182720_twitter_com_Dodioibs_status_2046657050281996342.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10516,11 +10516,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421184529_twitter_com_Dodioibs_status_2046661617119863246.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10528,7 +10528,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260421191942_twitter_com_Dodioibs_status_2046670230404145310.json": {
@@ -10545,7 +10545,7 @@
       "miss_count": 2
     },
     "20260422042923_twitter_com_Dodioibs_status_2046808560877920530.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10553,11 +10553,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422053325_twitter_com_Dodioibs_status_2046824675544895669.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10566,11 +10566,11 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422053507_twitter_com_Dodioibs_status_2046825102810194387.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10579,11 +10579,11 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422112220_twitter_com_Dodioibs_status_2046912484385439959.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10592,11 +10592,11 @@
           "https://pbs.twimg.com/profile_images/2028928773631188992/y2_EJ7g1_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422112759_twitter_com_Dodioibs_status_2046913905805734135.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10604,7 +10604,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422112819_twitter_com_Dodioibs_status_2046913990958428630.json": {
@@ -10621,7 +10621,7 @@
       "miss_count": 2
     },
     "20260422114746_twitter_com_Dodioibs_status_2046918883991503174.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10630,11 +10630,11 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422115618_twitter_com_Dodioibs_status_2046921031034790205.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10642,7 +10642,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422115902_twitter_com_Dodioibs_status_2046921717474529573.json": {
@@ -10659,7 +10659,7 @@
       "miss_count": 2
     },
     "20260422121104_twitter_com_Dodioibs_status_2046924747326529646.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10668,11 +10668,11 @@
           "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422121402_twitter_com_Dodioibs_status_2046925494038454365.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10681,11 +10681,11 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422121543_twitter_com_Dodioibs_status_2046925918514594271.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10694,11 +10694,11 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422121558_twitter_com_Dodioibs_status_2046925981882138927.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10707,11 +10707,11 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422121819_twitter_com_Dodioibs_status_2046926573664936141.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10720,7 +10720,7 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422125243_twitter_com_Dodioibs_status_2046935228627951690.json": {
@@ -10737,7 +10737,7 @@
       "miss_count": 2
     },
     "20260422135540_twitter_com_Dodioibs_status_2046951071227244882.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10746,11 +10746,11 @@
           "https://pbs.twimg.com/profile_images/2046455072692097024/vRZCgTGA_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422135941_twitter_com_Dodioibs_status_2046952083426017495.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10758,11 +10758,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422140023_twitter_com_Dodioibs_status_2046952259515453443.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10771,11 +10771,11 @@
           "https://pbs.twimg.com/profile_images/2041966614552440833/7JNXpPCe_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260422140433_twitter_com_Dodioibs_status_2046953304543179262.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10783,7 +10783,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422152954_twitter_com_Dodioibs_status_2046974784404381728.json": {
@@ -10813,7 +10813,7 @@
       "miss_count": 2
     },
     "20260422153436_twitter_com_Dodioibs_status_2046975969471414531.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HGhRwbdbMAA4I22.jpg"
@@ -10823,7 +10823,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422153438_twitter_com_Dodioibs_status_2046975975951651206.json": {
@@ -10840,7 +10840,7 @@
       "miss_count": 2
     },
     "20260422153641_twitter_com_Dodioibs_status_2046976492073349173.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10848,7 +10848,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422153944_twitter_com_Dodioibs_status_2046977262080475193.json": {
@@ -10865,7 +10865,7 @@
       "miss_count": 2
     },
     "20260422154043_twitter_com_Dodioibs_status_2046977507199766818.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10873,7 +10873,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422154212_twitter_com_Dodioibs_status_2046977879008072164.json": {
@@ -10929,7 +10929,7 @@
       "miss_count": 2
     },
     "20260422162116_twitter_com_Dodioibs_status_2046987711131894197.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10938,11 +10938,11 @@
           "https://pbs.twimg.com/profile_images/1675339017502740485/EYOVfVg5_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422162429_twitter_com_Dodioibs_status_2046988521056190693.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10951,11 +10951,11 @@
           "https://pbs.twimg.com/profile_images/1675339017502740485/EYOVfVg5_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422162458_twitter_com_Dodioibs_status_2046988643248795988.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10964,7 +10964,7 @@
           "https://pbs.twimg.com/profile_images/1675339017502740485/EYOVfVg5_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422162533_twitter_com_Dodioibs_status_2046988790804488471.json": {
@@ -10982,7 +10982,7 @@
       "miss_count": 2
     },
     "20260422162738_twitter_com_Dodioibs_status_2046989315461587367.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -10991,11 +10991,11 @@
           "https://pbs.twimg.com/profile_images/1675339017502740485/EYOVfVg5_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422163644_twitter_com_Dodioibs_status_2046991603819323596.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11004,11 +11004,11 @@
           "https://pbs.twimg.com/profile_images/1675339017502740485/EYOVfVg5_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422163919_twitter_com_Dodioibs_status_2046992256884969742.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11016,7 +11016,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260422164448_twitter_com_Dodioibs_status_2046993635267551470.json": {
@@ -11046,7 +11046,7 @@
       "miss_count": 2
     },
     "20260422165624_twitter_com_Dodioibs_status_2046996555924967746.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11054,11 +11054,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260423034018_twitter_com_Dodioibs_status_2047158594760794599.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11066,11 +11066,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260423142711_twitter_com_Dodioibs_status_2047321390106431778.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11078,11 +11078,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260423143119_twitter_com_Dodioibs_status_2047322429484404927.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11090,11 +11090,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260423144301_twitter_com_Dodioibs_status_2047325374523306335.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HGl2-GQbAAEsWm-.jpg"
@@ -11105,7 +11105,7 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260423171629_twitter_com_Dodioibs_status_2047363997851422899.json": {
@@ -11122,7 +11122,7 @@
       "miss_count": 2
     },
     "20260424082912_twitter_com_Dodioibs_status_2047593690328363504.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HGp_AR5agAANK9D.jpg",
@@ -11136,11 +11136,11 @@
           "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424093048_twitter_com_Dodioibs_status_2047609190554976684.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11148,7 +11148,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424094621_twitter_com_Dodioibs_status_2047613102888562853.json": {
@@ -11194,7 +11194,7 @@
       "miss_count": 2
     },
     "20260424122734_twitter_com_Dodioibs_status_2047653674336518273.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HGlWepDWcAAh1KV.jpg"
@@ -11205,11 +11205,11 @@
           "https://pbs.twimg.com/profile_images/2010400735217831936/nsXfblE1_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424122739_twitter_com_Dodioibs_status_2047653697346478301.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HGlWepDWcAAh1KV.jpg"
@@ -11220,11 +11220,11 @@
           "https://pbs.twimg.com/profile_images/2010400735217831936/nsXfblE1_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424122956_twitter_com_Dodioibs_status_2047654269650915366.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -11234,7 +11234,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424122957_twitter_com_Dodioibs_status_2047654274260447350.json": {
@@ -11251,7 +11251,7 @@
       "miss_count": 2
     },
     "20260424123110_twitter_com_Dodioibs_status_2047654583464562744.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11260,7 +11260,7 @@
           "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424135602_twitter_com_Dodioibs_status_2047675941011513704.json": {
@@ -11277,7 +11277,7 @@
       "miss_count": 2
     },
     "20260424151327_twitter_com_Dodioibs_status_2047695421129290079.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11285,7 +11285,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424151344_twitter_com_Dodioibs_status_2047695494458347609.json": {
@@ -11315,7 +11315,7 @@
       "miss_count": 2
     },
     "20260424151903_twitter_com_Dodioibs_status_2047696831178854701.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11324,11 +11324,11 @@
           "https://pbs.twimg.com/profile_images/2047456618309464064/xAwst6AI_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424161507_twitter_com_Dodioibs_status_2047710940192481385.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11336,7 +11336,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424161603_twitter_com_Dodioibs_status_2047711176000495727.json": {
@@ -11353,7 +11353,7 @@
       "miss_count": 2
     },
     "20260424162353_twitter_com_Dodioibs_status_2047713145897312688.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11361,7 +11361,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424162435_twitter_com_Dodioibs_status_2047713322125168990.json": {
@@ -11405,7 +11405,7 @@
       "miss_count": 2
     },
     "20260424163046_twitter_com_Dodioibs_status_2047714877196980389.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11413,11 +11413,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424163115_twitter_com_Dodioibs_status_2047715000358420788.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11426,11 +11426,11 @@
           "https://pbs.twimg.com/profile_images/2047202603084492800/bxzKb87G_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424163245_twitter_com_Dodioibs_status_2047715379510997310.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11438,11 +11438,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424163529_twitter_com_Dodioibs_status_2047716066483462284.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11450,11 +11450,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424164115_twitter_com_Dodioibs_status_2047717517851013398.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11462,11 +11462,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424164640_twitter_com_Dodioibs_status_2047718878277755125.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11474,11 +11474,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424164825_twitter_com_Dodioibs_status_2047719322311881204.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11486,11 +11486,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424165231_twitter_com_Dodioibs_status_2047720352252641390.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11498,11 +11498,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424165317_twitter_com_Dodioibs_status_2047720547216429305.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11510,11 +11510,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424170112_twitter_com_Dodioibs_status_2047722539343061445.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11522,11 +11522,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424171144_twitter_com_Dodioibs_status_2047725188893253933.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11534,11 +11534,11 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424174620_twitter_com_Dodioibs_status_2047733894762696719.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11546,7 +11546,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260424183453_twitter_com_Dodioibs_status_2047746113789444165.json": {
@@ -11617,7 +11617,7 @@
       "miss_count": 2
     },
     "20260424192719_twitter_com_Dodioibs_status_2047759308377739772.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11625,7 +11625,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260425092122_twitter_com_Dodioibs_status_2047969203366547928.json": {
@@ -11696,7 +11696,7 @@
       "miss_count": 2
     },
     "20260510155013_twitter_com_Dodioibs_status_2053502880163021095.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11704,7 +11704,7 @@
           "https://pbs.twimg.com/profile_images/2045598933347667968/0mhM9eJD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:25",
       "miss_count": 2
     },
     "20260510171316_twitter_com_Dodioibs_status_2053523780048490909.json": {
@@ -11891,7 +11891,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260511141634_twitter_com_Dodioibs_status_2053841699210973506.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -11900,7 +11900,7 @@
           "https://pbs.twimg.com/profile_images/2052124967182192640/28p8Yzg2_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260511142156_twitter_com_Dodioibs_status_2053843050779316379.json": {
@@ -12013,7 +12013,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260511203405_twitter_com_Dodioibs_status_2053936703539429460.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12022,7 +12022,7 @@
           "https://pbs.twimg.com/profile_images/2052124967182192640/28p8Yzg2_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260511203414_twitter_com_Dodioibs_status_2053936745075618266.json": {
@@ -12747,7 +12747,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260513034847_twitter_com_Dodioibs_status_2054408490115047701.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12756,7 +12756,7 @@
           "https://pbs.twimg.com/profile_images/2052124967182192640/28p8Yzg2_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:24",
       "miss_count": 2
     },
     "20260513035300_twitter_com_Dodioibs_status_2054409548484755966.json": {
@@ -13427,7 +13427,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260516012827_twitter_com_Dodioibs_status_2055460335298208144.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -13436,7 +13436,7 @@
           "https://pbs.twimg.com/profile_images/2054248063355731968/s2UfdD9A_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:27",
       "miss_count": 2
     },
     "20260516014536_twitter_com_Dodioibs_status_2055464652713480525.json": {
@@ -13643,7 +13643,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260516202638_twitter_com_Dodioibs_status_2055746768797839640.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -13652,7 +13652,7 @@
           "https://pbs.twimg.com/profile_images/2055680086360346624/kLpKiS03_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260516203004_twitter_com_Dodioibs_status_2055747635307549147.json": {
@@ -13737,7 +13737,7 @@
       "last_updated": "2026-07-11T23:55:18"
     },
     "20260517024044_twitter_com_Dodioibs_status_2055840915739267397.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -13746,7 +13746,7 @@
           "https://pbs.twimg.com/profile_images/2053244743933632512/shPOzzpb_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260517024051_twitter_com_Dodioibs_status_2055840942394118478.json": {
@@ -14007,7 +14007,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260517033300_twitter_com_Dodioibs_status_2055854068485267742.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14016,7 +14016,7 @@
           "https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260517033403_twitter_com_Dodioibs_status_2055854334467035499.json": {
@@ -14031,7 +14031,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260517034202_twitter_com_Dodioibs_status_2055856341995192780.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14040,7 +14040,7 @@
           "https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260517042058_twitter_com_Dodioibs_status_2055866137888608519.json": {
@@ -14155,7 +14155,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260517054659_twitter_com_Dodioibs_status_2055887784746054065.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -14166,7 +14166,7 @@
           "https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260517054750_twitter_com_Dodioibs_status_2055887999867724166.json": {
@@ -14182,7 +14182,7 @@
       "last_updated": "2026-07-11T23:55:17"
     },
     "20260517054906_twitter_com_Dodioibs_status_2055888320132231572.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14192,7 +14192,7 @@
           "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260517054939_twitter_com_Dodioibs_status_2055888455968907676.json": {
@@ -14327,7 +14327,7 @@
       "miss_count": 2
     },
     "20260517074216_twitter_com_Dodioibs_status_2055916797719965768.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14337,11 +14337,11 @@
           "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260517074231_twitter_com_Dodioibs_status_2055916860093464934.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14350,7 +14350,7 @@
           "https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260517075725_twitter_com_Dodioibs_status_2055920610073874437.json": {
@@ -14431,7 +14431,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260518043617_twitter_com_Dodioibs_status_2056232383708647527.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14441,7 +14441,7 @@
           "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260518132650_twitter_com_Dodioibs_status_2056365898081169788.json": {
@@ -14838,7 +14838,7 @@
       "last_updated": "2026-07-11T23:55:18"
     },
     "20260519132217_twitter_com_Dodioibs_status_2056727143623848344.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14848,7 +14848,7 @@
           "https://pbs.twimg.com/profile_images/2052447622317977600/0zOEQGJc_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260519132252_twitter_com_Dodioibs_status_2056727290948845648.json": {
@@ -14972,7 +14972,7 @@
       "miss_count": 2
     },
     "20260519135806_twitter_com_Dodioibs_status_2056736156851806223.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14981,11 +14981,11 @@
           "https://pbs.twimg.com/profile_images/2056607001908813824/xVUadvcI_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260519135949_twitter_com_Dodioibs_status_2056736588869280207.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14994,7 +14994,7 @@
           "https://pbs.twimg.com/profile_images/2056607001908813824/xVUadvcI_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260519144047_twitter_com_Dodioibs_status_2056746896916644059.json": {
@@ -16193,7 +16193,7 @@
       "last_updated": "2026-07-11T23:55:20"
     },
     "20260521163056_twitter_com_Dodioibs_status_2057499393067298838.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16202,7 +16202,7 @@
           "https://pbs.twimg.com/profile_images/2053244743933632512/shPOzzpb_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260522041121_twitter_com_Dodioibs_status_2057675660718661872.json": {
@@ -16554,7 +16554,7 @@
       "miss_count": 2
     },
     "20260523090034_twitter_com_Dodioibs_status_2058110832018653425.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16565,11 +16565,11 @@
           "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260523090221_twitter_com_Dodioibs_status_2058111277726306439.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16580,11 +16580,11 @@
           "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260523090347_twitter_com_Dodioibs_status_2058111639879385164.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16595,11 +16595,11 @@
           "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260523092038_twitter_com_Dodioibs_status_2058115881201439000.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16608,7 +16608,7 @@
           "https://pbs.twimg.com/profile_images/2041889230876819456/WTJXFQql_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260523102722_twitter_com_Dodioibs_status_2058132672812363893.json": {
@@ -16624,7 +16624,7 @@
       "last_updated": "2026-07-11T23:55:18"
     },
     "20260523103219_twitter_com_Dodioibs_status_2058133920026443879.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -16633,7 +16633,7 @@
           "https://pbs.twimg.com/profile_images/2041889230876819456/WTJXFQql_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260523105435_twitter_com_Dodioibs_status_2058139524891549858.json": {
@@ -19192,7 +19192,7 @@
       "last_updated": "2026-07-11T23:55:22"
     },
     "20260531062044_twitter_com_Dodioibs_status_2060969710783721664.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -19201,7 +19201,7 @@
           "https://pbs.twimg.com/profile_images/2053028466732523520/TkKRctiO_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:13:52",
       "miss_count": 2
     },
     "20260531062059_twitter_com_Dodioibs_status_2060969772897231114.json": {
@@ -20877,7 +20877,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260612171020_twitter_com_Dodioibs_status_2065481843026350280.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -20886,7 +20886,7 @@
           "https://pbs.twimg.com/profile_images/2064452690810433536/quxK-g3m_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:10:57",
+      "last_updated": "2026-07-12T00:11:28",
       "miss_count": 2
     },
     "20260612171109_twitter_com_Dodioibs_status_2065482048433987657.json": {
