@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T00:30:18",
+  "last_updated": "2026-07-12T00:31:00",
   "html": {
     "https://web.archive.org/web/20260420055432if_/https://twitter.com/Dodioibs/status/2046105213225099293": {
       "status": "done",
@@ -6504,36 +6504,36 @@
       "referenced_by": [
         "20260419101354_twitter_com_Dodioibs_status_2045808097646858319.json"
       ],
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:30:33",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260419101354/https://video.twimg.com/amplify_video/2045808032509304832/vid/avc1/720x960/cGWYnY4ZaNVrZ4iR.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2045987185216905216/vid/avc1/720x960/Z_5DJpH-ifkp0ZrW.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260419220548_twitter_com_Dodioibs_status_2045987255580581934.json"
       ],
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:30:36",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260419220548/https://video.twimg.com/amplify_video/2045987185216905216/vid/avc1/720x960/Z_5DJpH-ifkp0ZrW.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2045988376499937280/vid/avc1/720x960/OJ4Dh2pd06Fd0VHj.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260419221032_twitter_com_Dodioibs_status_2045988444288291257.json"
       ],
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:30:38",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260419221032/https://video.twimg.com/amplify_video/2045988376499937280/vid/avc1/720x960/OJ4Dh2pd06Fd0VHj.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2047654200759500800/vid/avc1/720x1280/vlCdA6b9f-xLUPjk.mp4": {
       "status": "failed_all",
       "referenced_by": [
         "20260424122956_twitter_com_Dodioibs_status_2047654269650915366.json"
       ],
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:30:43",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260424122956/https://video.twimg.com/amplify_video/2047654200759500800/vid/avc1/720x1280/vlCdA6b9f-xLUPjk.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2053533349986414592/vid/avc1/720x1280/Z9ERYIfy8VyClmhn.mp4": {
       "status": "done",
@@ -6554,9 +6554,9 @@
       "referenced_by": [
         "20260517054659_twitter_com_Dodioibs_status_2055887784746054065.json"
       ],
-      "last_updated": "2026-07-12T00:10:59",
+      "last_updated": "2026-07-12T00:30:44",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260517054659/https://video.twimg.com/amplify_video/2055869033405403136/vid/avc1/720x720/JhE1eHxZ1W4jFgZ5.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HIm5QCQaMAAJ5Gy.mp4": {
       "status": "done",
@@ -6573,22 +6573,22 @@
       "last_updated": "2026-07-11T23:54:49"
     },
     "https://video.twimg.com/amplify_video/2056688375663382528/vid/avc1/720x1280/u7BszeINNfrsK30U.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260519134908_twitter_com_Dodioibs_status_2056733898772828655.json"
       ],
-      "last_updated": "2026-07-12T00:11:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519134908if_/https://video.twimg.com/amplify_video/2056688375663382528/vid/avc1/720x1280/u7BszeINNfrsK30U.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8e3d1af7d0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-12T00:30:47",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260519134908/https://video.twimg.com/amplify_video/2056688375663382528/vid/avc1/720x1280/u7BszeINNfrsK30U.mp4",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2056688375667519488/vid/avc1/720x960/LClEWxvcBu7cYWm2.mp4": {
       "status": "failed",
       "referenced_by": [
         "20260519134908_twitter_com_Dodioibs_status_2056733898772828655.json"
       ],
-      "last_updated": "2026-07-12T00:11:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519134908im_/https://video.twimg.com/amplify_video/2056688375667519488/vid/avc1/720x960/LClEWxvcBu7cYWm2.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8e3d1d04a0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 3
+      "last_updated": "2026-07-12T00:30:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260519134908im_/https://video.twimg.com/amplify_video/2056688375667519488/vid/avc1/720x960/LClEWxvcBu7cYWm2.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f684afaaab0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/amplify_video/2057038778817294337/vid/avc1/488x414/sAoIfzdBURjO9tmn.mp4": {
       "status": "done",
@@ -6612,13 +6612,13 @@
       "last_updated": "2026-07-11T23:54:49"
     },
     "https://video.twimg.com/amplify_video/2057402060992360448/vid/avc1/720x1280/GwDEyuWdPn-9RCYE.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260521103752_twitter_com_Dodioibs_status_2057410542298669314.json"
       ],
-      "last_updated": "2026-07-11T23:54:51",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260521103752/https://video.twimg.com/amplify_video/2057402060992360448/vid/avc1/720x1280/GwDEyuWdPn-9RCYE.mp4",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:30:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521103752im_/https://video.twimg.com/amplify_video/2057402060992360448/vid/avc1/720x1280/GwDEyuWdPn-9RCYE.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f684b021190>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2058097835422466048/vid/avc1/720x1280/n_6-FtOIHfpKVih2.mp4": {
       "status": "done",
@@ -6628,13 +6628,13 @@
       "last_updated": "2026-07-11T23:54:49"
     },
     "https://video.twimg.com/amplify_video/2058169275223875585/vid/avc1/720x1280/0G2zYL2f7HI4wXDl.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260523132351_twitter_com_Dodioibs_status_2058177085852848591.json"
       ],
-      "last_updated": "2026-07-12T00:11:00",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260523132351/https://video.twimg.com/amplify_video/2058169275223875585/vid/avc1/720x1280/0G2zYL2f7HI4wXDl.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-12T00:31:00",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260523132351im_/https://video.twimg.com/amplify_video/2058169275223875585/vid/avc1/720x1280/0G2zYL2f7HI4wXDl.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f684b021b20>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2059405168157024256/vid/avc1/1280x720/euiiOsPmxtiI213p.mp4": {
       "status": "done",
@@ -15779,7 +15779,7 @@
       "last_updated": "2026-07-11T23:55:14"
     },
     "20260521103752_twitter_com_Dodioibs_status_2057410542298669314.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -15790,7 +15790,7 @@
           "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-11T23:55:18"
+      "last_updated": "2026-07-12T00:30:56"
     },
     "20260521104140_twitter_com_Dodioibs_status_2057411496943222849.json": {
       "status": "failed",
@@ -16662,7 +16662,7 @@
       "last_updated": "2026-07-11T23:55:21"
     },
     "20260523132351_twitter_com_Dodioibs_status_2058177085852848591.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -16673,7 +16673,7 @@
           "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:11:00",
+      "last_updated": "2026-07-12T00:31:00",
       "miss_count": 1
     },
     "20260523132407_twitter_com_Dodioibs_status_2058177156438716674.json": {
