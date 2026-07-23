@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079171718225235968",
+        "3_2079171718216871936",
+        "3_2079171718229471232",
+        "3_2079171718221107200"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2079171730413933020",
+    "created_at": "2026-07-20T11:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079171730413933020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WVYNSkpKAv",
+          "end": 34,
+          "expanded_url": "https://x.com/Dodioibs/status/2079171730413933020/photo/1",
+          "media_key": "3_2079171718225235968",
+          "start": 11,
+          "url": "https://t.co/WVYNSkpKAv"
+        },
+        {
+          "display_url": "pic.x.com/WVYNSkpKAv",
+          "end": 34,
+          "expanded_url": "https://x.com/Dodioibs/status/2079171730413933020/photo/1",
+          "media_key": "3_2079171718216871936",
+          "start": 11,
+          "url": "https://t.co/WVYNSkpKAv"
+        },
+        {
+          "display_url": "pic.x.com/WVYNSkpKAv",
+          "end": 34,
+          "expanded_url": "https://x.com/Dodioibs/status/2079171730413933020/photo/1",
+          "media_key": "3_2079171718229471232",
+          "start": 11,
+          "url": "https://t.co/WVYNSkpKAv"
+        },
+        {
+          "display_url": "pic.x.com/WVYNSkpKAv",
+          "end": 34,
+          "expanded_url": "https://x.com/Dodioibs/status/2079171730413933020/photo/1",
+          "media_key": "3_2079171718221107200",
+          "start": 11,
+          "url": "https://t.co/WVYNSkpKAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079171730413933020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打钱备注微信号我加您 https://t.co/WVYNSkpKAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2079171718225235968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqzqWvakAAxJqR.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1142,
+        "media_key": "3_2079171718216871936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqzqWta8AAZDHw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079171718229471232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqzqWwbMAA2rx4.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079171718221107200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqzqWubkAAxJvW.jpg",
+        "width": 1162
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079171718225235968",
+            "3_2079171718216871936",
+            "3_2079171718229471232",
+            "3_2079171718221107200"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2079171730413933020",
+        "created_at": "2026-07-20T11:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079171730413933020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WVYNSkpKAv",
+              "end": 34,
+              "expanded_url": "https://x.com/Dodioibs/status/2079171730413933020/photo/1",
+              "media_key": "3_2079171718225235968",
+              "start": 11,
+              "url": "https://t.co/WVYNSkpKAv"
+            },
+            {
+              "display_url": "pic.x.com/WVYNSkpKAv",
+              "end": 34,
+              "expanded_url": "https://x.com/Dodioibs/status/2079171730413933020/photo/1",
+              "media_key": "3_2079171718216871936",
+              "start": 11,
+              "url": "https://t.co/WVYNSkpKAv"
+            },
+            {
+              "display_url": "pic.x.com/WVYNSkpKAv",
+              "end": 34,
+              "expanded_url": "https://x.com/Dodioibs/status/2079171730413933020/photo/1",
+              "media_key": "3_2079171718229471232",
+              "start": 11,
+              "url": "https://t.co/WVYNSkpKAv"
+            },
+            {
+              "display_url": "pic.x.com/WVYNSkpKAv",
+              "end": 34,
+              "expanded_url": "https://x.com/Dodioibs/status/2079171730413933020/photo/1",
+              "media_key": "3_2079171718221107200",
+              "start": 11,
+              "url": "https://t.co/WVYNSkpKAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079171730413933020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打钱备注微信号我加您 https://t.co/WVYNSkpKAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n没回和定制伤口私信我\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "lyxz738"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2079169407079919754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 274,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1025
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

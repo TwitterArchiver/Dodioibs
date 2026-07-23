@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2079178143693463597",
+    "created_at": "2026-07-20T13:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T14:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079191188591243449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1727727485704675328",
+          "start": 0,
+          "username": "doki00614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079191188591243449",
+    "in_reply_to_user_id": "1727727485704675328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079186981205233992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doki00614 变懒了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2079178143693463597",
+        "created_at": "2026-07-20T13:06:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079191188591243449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1727727485704675328",
+              "start": 0,
+              "username": "doki00614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079191188591243449",
+        "in_reply_to_user_id": "1727727485704675328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079186981205233992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doki00614 变懒了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727727485704675328",
+        "conversation_id": "2079178143693463597",
+        "created_at": "2026-07-20T12:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079186981205233992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045598149704818688",
+              "start": 0,
+              "username": "Dodioibs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079186981205233992",
+        "in_reply_to_user_id": "2045598149704818688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079178143693463597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dodioibs 哎我也是，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n没回和定制伤口私信我 不怎么上线\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "lyxz738"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 0,
+                "url": "https://t.co/7MZYvhdtK5"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2079171730413933020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079186633807785984/EszLATHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 277,
+          "like_count": 1044,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1033
+        },
+        "url": "https://t.co/7MZYvhdtK5",
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-23T16:35:16.000Z",
+        "description": "重生第二世…\n可以叫我晓晓，目前休学中，已成年，比较社恐但还是很期待友好的沟通…(ᐢᴖ ·̫ ᴖᐢ)\n举报全家变仁彘肠子拖出来勒似",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiao9",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiao9",
+                "start": 0,
+                "url": "https://t.co/SfwjU1SFHV"
+              }
+            ]
+          }
+        },
+        "id": "1727727485704675328",
+        "location": "none",
+        "name": "紫月晓",
+        "pinned_tweet_id": "2075863944720482450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054413101773246464/uUt_MEFc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 104,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/SfwjU1SFHV",
+        "username": "doki00614",
+        "verified": false
+      }
+    ]
+  }
+}

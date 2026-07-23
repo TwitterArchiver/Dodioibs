@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076917215270703104",
+        "3_2076917215220350976",
+        "3_2076917215224627202",
+        "3_2076917215266562048"
+      ],
+      "media_source_tweet_id": [
+        "2076917228864422160",
+        "2076917228864422160",
+        "2076917228864422160",
+        "2076917228864422160"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2079169887700992455",
+    "created_at": "2026-07-20T11:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079169887700992455"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 96,
+          "tag": "地雷妹"
+        },
+        {
+          "end": 104,
+          "start": 101,
+          "tag": "门槛"
+        },
+        {
+          "end": 109,
+          "start": 105,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055334792674119680",
+          "start": 3,
+          "username": "Emotion299"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXYJF5X38U",
+          "end": 133,
+          "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+          "media_key": "3_2076917215270703104",
+          "start": 110,
+          "url": "https://t.co/OXYJF5X38U"
+        },
+        {
+          "display_url": "pic.x.com/OXYJF5X38U",
+          "end": 133,
+          "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+          "media_key": "3_2076917215220350976",
+          "start": 110,
+          "url": "https://t.co/OXYJF5X38U"
+        },
+        {
+          "display_url": "pic.x.com/OXYJF5X38U",
+          "end": 133,
+          "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+          "media_key": "3_2076917215224627202",
+          "start": 110,
+          "url": "https://t.co/OXYJF5X38U"
+        },
+        {
+          "display_url": "pic.x.com/OXYJF5X38U",
+          "end": 133,
+          "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+          "media_key": "3_2076917215266562048",
+          "start": 110,
+          "url": "https://t.co/OXYJF5X38U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079169887700992455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076917228864422160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Emotion299: 168/21岁 C罩 在校大学生 赚生活费 因为条件真的很少 开销比较大 欢迎宝宝来询问价格表 接陪玩（游戏 地陪 希望大家喜欢我 也欢迎宝宝们找我互贴互fo #地雷妹 #门槛 #爸爸活 https://t.co/OXYJF5X38U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076917215270703104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKxNAwakAAKdOw.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1458,
+        "media_key": "3_2076917215220350976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKxNAkaQAA7MxC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1090,
+        "media_key": "3_2076917215224627202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKxNAlbgAIS32d.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1579,
+        "media_key": "3_2076917215266562048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKxNAvbYAA0Uk2.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076917215270703104",
+            "3_2076917215220350976",
+            "3_2076917215224627202",
+            "3_2076917215266562048"
+          ]
+        },
+        "author_id": "2055334792674119680",
+        "conversation_id": "2076917228864422160",
+        "created_at": "2026-07-14T06:30:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:30:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076917228864422160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "地雷妹"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "门槛"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXYJF5X38U",
+              "end": 117,
+              "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+              "media_key": "3_2076917215270703104",
+              "start": 94,
+              "url": "https://t.co/OXYJF5X38U"
+            },
+            {
+              "display_url": "pic.x.com/OXYJF5X38U",
+              "end": 117,
+              "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+              "media_key": "3_2076917215220350976",
+              "start": 94,
+              "url": "https://t.co/OXYJF5X38U"
+            },
+            {
+              "display_url": "pic.x.com/OXYJF5X38U",
+              "end": 117,
+              "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+              "media_key": "3_2076917215224627202",
+              "start": 94,
+              "url": "https://t.co/OXYJF5X38U"
+            },
+            {
+              "display_url": "pic.x.com/OXYJF5X38U",
+              "end": 117,
+              "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+              "media_key": "3_2076917215266562048",
+              "start": 94,
+              "url": "https://t.co/OXYJF5X38U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076917228864422160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "168/21岁 C罩 在校大学生 赚生活费 因为条件真的很少 开销比较大 欢迎宝宝来询问价格表 接陪玩（游戏 地陪 希望大家喜欢我 也欢迎宝宝们找我互贴互fo #地雷妹 #门槛 #爸爸活 https://t.co/OXYJF5X38U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076917215270703104",
+            "3_2076917215220350976",
+            "3_2076917215224627202",
+            "3_2076917215266562048"
+          ],
+          "media_source_tweet_id": [
+            "2076917228864422160",
+            "2076917228864422160",
+            "2076917228864422160",
+            "2076917228864422160"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2079169887700992455",
+        "created_at": "2026-07-20T11:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079169887700992455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 96,
+              "tag": "地雷妹"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "门槛"
+            },
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055334792674119680",
+              "start": 3,
+              "username": "Emotion299"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXYJF5X38U",
+              "end": 133,
+              "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+              "media_key": "3_2076917215270703104",
+              "start": 110,
+              "url": "https://t.co/OXYJF5X38U"
+            },
+            {
+              "display_url": "pic.x.com/OXYJF5X38U",
+              "end": 133,
+              "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+              "media_key": "3_2076917215220350976",
+              "start": 110,
+              "url": "https://t.co/OXYJF5X38U"
+            },
+            {
+              "display_url": "pic.x.com/OXYJF5X38U",
+              "end": 133,
+              "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+              "media_key": "3_2076917215224627202",
+              "start": 110,
+              "url": "https://t.co/OXYJF5X38U"
+            },
+            {
+              "display_url": "pic.x.com/OXYJF5X38U",
+              "end": 133,
+              "expanded_url": "https://x.com/Emotion299/status/2076917228864422160/photo/1",
+              "media_key": "3_2076917215266562048",
+              "start": 110,
+              "url": "https://t.co/OXYJF5X38U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169887700992455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076917228864422160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Emotion299: 168/21岁 C罩 在校大学生 赚生活费 因为条件真的很少 开销比较大 欢迎宝宝来询问价格表 接陪玩（游戏 地陪 希望大家喜欢我 也欢迎宝宝们找我互贴互fo #地雷妹 #门槛 #爸爸活 https://t.co/OXYJF5X38U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "username": "lyxz738"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2079169407079919754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 270,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1022
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T17:09:48.000Z",
+        "description": "🚪 288/520/888/1314 希望懂得付出的男孩子 随时可以验证 是本人 其余都是盗图",
+        "id": "2055334792674119680",
+        "name": "樱子悠悠",
+        "pinned_tweet_id": "2076917228864422160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059698115280871424/C0_gUiF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 1,
+          "like_count": 77,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "Emotion299",
+        "verified": false
+      }
+    ]
+  }
+}

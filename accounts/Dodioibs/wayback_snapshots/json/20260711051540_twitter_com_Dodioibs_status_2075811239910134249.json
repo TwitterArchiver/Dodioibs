@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2075481003137831135",
+    "created_at": "2026-07-11T05:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T06:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075811239910134249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067984174469009409",
+          "start": 0,
+          "username": "lyxz738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075811239910134249",
+    "in_reply_to_user_id": "2067984174469009409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075481003137831135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyxz738 你今天卧蚕大了好多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2075480992043995136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2W90TbkAA2unk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2075481003137831135",
+        "created_at": "2026-07-11T05:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075811239910134249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067984174469009409",
+              "start": 0,
+              "username": "lyxz738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075811239910134249",
+        "in_reply_to_user_id": "2067984174469009409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075481003137831135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyxz738 你今天卧蚕大了好多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075480992043995136"
+          ]
+        },
+        "author_id": "2067984174469009409",
+        "conversation_id": "2075481003137831135",
+        "created_at": "2026-07-10T07:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075481003137831135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gWTKGXrG3o",
+              "end": 23,
+              "expanded_url": "https://x.com/lyxz738/status/2075481003137831135/photo/1",
+              "media_key": "3_2075480992043995136",
+              "start": 0,
+              "url": "https://t.co/gWTKGXrG3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075481003137831135",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gWTKGXrG3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "username": "lyxz738"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2066254611145691260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 259,
+          "like_count": 999,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T14:54:22.000Z",
+        "description": "年龄未知｜od割手｜精分｜地雷女｜巡回好友中｜查成分互fo｜男的加我🚪13.14\n前世@lyxtd3s\n恋人@dooaisuan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 43,
+                "username": "lyxtd3s"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "dooaisuan"
+              }
+            ]
+          }
+        },
+        "id": "2067984174469009409",
+        "name": "冰块🧊3.0巡回互关",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070911724883230720/FPF7u9Z2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 129,
+          "like_count": 1379,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "lyxz738",
+        "verified": false
+      }
+    ]
+  }
+}

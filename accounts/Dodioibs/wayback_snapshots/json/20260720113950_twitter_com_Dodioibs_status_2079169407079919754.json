@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079169398435430400"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2079169407079919754",
+    "created_at": "2026-07-20T11:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079169407079919754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9sGfxBWkN",
+          "end": 142,
+          "expanded_url": "https://x.com/Dodioibs/status/2079169407079919754/photo/1",
+          "media_key": "3_2079169398435430400",
+          "start": 119,
+          "url": "https://t.co/Z9sGfxBWkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079169407079919754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝贝们我没钱了接一些伤口定制 \n\n血字5r一个字\n猫爪5.2r/1\n凉席8.8r/1\n真皮层15r/1\n脂肪层100r/1\n小图案30r/1\n\n只割手臂不碰私密部位\n————————————\n感兴趣的直接私信哦\n麻烦帮忙转转 感谢投喂～ https://t.co/Z9sGfxBWkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2079169398435430400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqxjU2bQAAKxnj.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079169398435430400"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2079169407079919754",
+        "created_at": "2026-07-20T11:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079169407079919754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9sGfxBWkN",
+              "end": 142,
+              "expanded_url": "https://x.com/Dodioibs/status/2079169407079919754/photo/1",
+              "media_key": "3_2079169398435430400",
+              "start": 119,
+              "url": "https://t.co/Z9sGfxBWkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169407079919754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝们我没钱了接一些伤口定制 \n\n血字5r一个字\n猫爪5.2r/1\n凉席8.8r/1\n真皮层15r/1\n脂肪层100r/1\n小图案30r/1\n\n只割手臂不碰私密部位\n————————————\n感兴趣的直接私信哦\n麻烦帮忙转转 感谢投喂～ https://t.co/Z9sGfxBWkN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "username": "lyxz738"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2066254611145691260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 268,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1016
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      }
+    ]
+  }
+}

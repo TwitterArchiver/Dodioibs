@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079142740844285952",
+        "3_2079142740848418816"
+      ],
+      "media_source_tweet_id": [
+        "2079142753502658878",
+        "2079142753502658878"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2079169995964342540",
+    "created_at": "2026-07-20T11:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079169995964342540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1185727813715935232",
+          "start": 3,
+          "username": "ubakzblogf50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WXqbrMd1n8",
+          "end": 60,
+          "expanded_url": "https://x.com/ubakzblogf50/status/2079142753502658878/photo/1",
+          "media_key": "3_2079142740844285952",
+          "start": 37,
+          "url": "https://t.co/WXqbrMd1n8"
+        },
+        {
+          "display_url": "pic.x.com/WXqbrMd1n8",
+          "end": 60,
+          "expanded_url": "https://x.com/ubakzblogf50/status/2079142753502658878/photo/1",
+          "media_key": "3_2079142740848418816",
+          "start": 37,
+          "url": "https://t.co/WXqbrMd1n8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079169995964342540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079142753502658878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ubakzblogf50: 置顶🔝\n\n转发这条抽三个88一周后开 https://t.co/WXqbrMd1n8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079142740844285952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqZTplbEAAEH8J.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1566,
+        "media_key": "3_2079142740848418816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqZTpmaIAAuZ21.jpg",
+        "width": 1038
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079142740844285952",
+            "3_2079142740848418816"
+          ]
+        },
+        "author_id": "1185727813715935232",
+        "conversation_id": "2079142753502658878",
+        "created_at": "2026-07-20T09:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079142753502658878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXqbrMd1n8",
+              "end": 42,
+              "expanded_url": "https://x.com/ubakzblogf50/status/2079142753502658878/photo/1",
+              "media_key": "3_2079142740844285952",
+              "start": 19,
+              "url": "https://t.co/WXqbrMd1n8"
+            },
+            {
+              "display_url": "pic.x.com/WXqbrMd1n8",
+              "end": 42,
+              "expanded_url": "https://x.com/ubakzblogf50/status/2079142753502658878/photo/1",
+              "media_key": "3_2079142740848418816",
+              "start": 19,
+              "url": "https://t.co/WXqbrMd1n8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079142753502658878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "置顶🔝\n\n转发这条抽三个88一周后开 https://t.co/WXqbrMd1n8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079142740844285952",
+            "3_2079142740848418816"
+          ],
+          "media_source_tweet_id": [
+            "2079142753502658878",
+            "2079142753502658878"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2079169995964342540",
+        "created_at": "2026-07-20T11:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079169995964342540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1185727813715935232",
+              "start": 3,
+              "username": "ubakzblogf50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WXqbrMd1n8",
+              "end": 60,
+              "expanded_url": "https://x.com/ubakzblogf50/status/2079142753502658878/photo/1",
+              "media_key": "3_2079142740844285952",
+              "start": 37,
+              "url": "https://t.co/WXqbrMd1n8"
+            },
+            {
+              "display_url": "pic.x.com/WXqbrMd1n8",
+              "end": 60,
+              "expanded_url": "https://x.com/ubakzblogf50/status/2079142753502658878/photo/1",
+              "media_key": "3_2079142740848418816",
+              "start": 37,
+              "url": "https://t.co/WXqbrMd1n8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169995964342540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079142753502658878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ubakzblogf50: 置顶🔝\n\n转发这条抽三个88一周后开 https://t.co/WXqbrMd1n8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "username": "lyxz738"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2079169407079919754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 270,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-20T01:22:08.000Z",
+        "description": "166/45kg 私信只回复门槛口令 坐标问题均20 想入的可以私信我要价格表~ 女宝跟我互转互fo好不",
+        "id": "1185727813715935232",
+        "location": "🚪88 188 288 520 888 1314",
+        "name": "ubakzblog",
+        "pinned_tweet_id": "2079142753502658878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079156376237199360/wSDcgXsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "ubakzblogf50",
+        "verified": false
+      }
+    ]
+  }
+}

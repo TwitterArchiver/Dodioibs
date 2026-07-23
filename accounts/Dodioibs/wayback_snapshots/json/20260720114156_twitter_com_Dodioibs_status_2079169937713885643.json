@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078314293616160768",
+        "3_2078314293356056576",
+        "3_2078314293624541184",
+        "3_2078314293351858176"
+      ],
+      "media_source_tweet_id": [
+        "2078314301182603619",
+        "2078314301182603619",
+        "2078314301182603619",
+        "2078314301182603619"
+      ]
+    },
+    "author_id": "2045598149704818688",
+    "conversation_id": "2079169937713885643",
+    "created_at": "2026-07-20T11:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079169937713885643"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "广州"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 68,
+          "start": 65,
+          "tag": "女大"
+        },
+        {
+          "end": 72,
+          "start": 69,
+          "tag": "线下"
+        },
+        {
+          "end": 76,
+          "start": 73,
+          "tag": "深圳"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2077211458006573056",
+          "start": 3,
+          "username": "Juc5a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qkDbyTk7pb",
+          "end": 100,
+          "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+          "media_key": "3_2078314293616160768",
+          "start": 77,
+          "url": "https://t.co/qkDbyTk7pb"
+        },
+        {
+          "display_url": "pic.x.com/qkDbyTk7pb",
+          "end": 100,
+          "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+          "media_key": "3_2078314293356056576",
+          "start": 77,
+          "url": "https://t.co/qkDbyTk7pb"
+        },
+        {
+          "display_url": "pic.x.com/qkDbyTk7pb",
+          "end": 100,
+          "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+          "media_key": "3_2078314293624541184",
+          "start": 77,
+          "url": "https://t.co/qkDbyTk7pb"
+        },
+        {
+          "display_url": "pic.x.com/qkDbyTk7pb",
+          "end": 100,
+          "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+          "media_key": "3_2078314293351858176",
+          "start": 77,
+          "url": "https://t.co/qkDbyTk7pb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079169937713885643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078314301182603619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Juc5a: 更新一下置顶吧🔝 缺钱喵～哥哥喜欢可以入🚪～保证情绪价值拉满！关注➕转发置顶抽五个小🧧哦 #广州 #门槛妹 #女大 #线下 #深圳 https://t.co/qkDbyTk7pb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_2078314293616160768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNen1rKbsAAyPO9.jpg",
+        "width": 887
+      },
+      {
+        "height": 1764,
+        "media_key": "3_2078314293356056576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNen1qMa0AAdvHn.jpg",
+        "width": 1124
+      },
+      {
+        "height": 996,
+        "media_key": "3_2078314293624541184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNen1rMbkAAkvPk.jpg",
+        "width": 1052
+      },
+      {
+        "height": 1162,
+        "media_key": "3_2078314293351858176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNen1qLawAAUidD.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078314293616160768",
+            "3_2078314293356056576",
+            "3_2078314293624541184",
+            "3_2078314293351858176"
+          ]
+        },
+        "author_id": "2077211458006573056",
+        "conversation_id": "2078314301182603619",
+        "created_at": "2026-07-18T03:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078314301182603619"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "广州"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "女大"
+            },
+            {
+              "end": 61,
+              "start": 58,
+              "tag": "线下"
+            },
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "深圳"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qkDbyTk7pb",
+              "end": 89,
+              "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+              "media_key": "3_2078314293616160768",
+              "start": 66,
+              "url": "https://t.co/qkDbyTk7pb"
+            },
+            {
+              "display_url": "pic.x.com/qkDbyTk7pb",
+              "end": 89,
+              "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+              "media_key": "3_2078314293356056576",
+              "start": 66,
+              "url": "https://t.co/qkDbyTk7pb"
+            },
+            {
+              "display_url": "pic.x.com/qkDbyTk7pb",
+              "end": 89,
+              "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+              "media_key": "3_2078314293624541184",
+              "start": 66,
+              "url": "https://t.co/qkDbyTk7pb"
+            },
+            {
+              "display_url": "pic.x.com/qkDbyTk7pb",
+              "end": 89,
+              "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+              "media_key": "3_2078314293351858176",
+              "start": 66,
+              "url": "https://t.co/qkDbyTk7pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078314301182603619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 399,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "更新一下置顶吧🔝 缺钱喵～哥哥喜欢可以入🚪～保证情绪价值拉满！关注➕转发置顶抽五个小🧧哦 #广州 #门槛妹 #女大 #线下 #深圳 https://t.co/qkDbyTk7pb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078314293616160768",
+            "3_2078314293356056576",
+            "3_2078314293624541184",
+            "3_2078314293351858176"
+          ],
+          "media_source_tweet_id": [
+            "2078314301182603619",
+            "2078314301182603619",
+            "2078314301182603619",
+            "2078314301182603619"
+          ]
+        },
+        "author_id": "2045598149704818688",
+        "conversation_id": "2079169937713885643",
+        "created_at": "2026-07-20T11:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079169937713885643"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "广州"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "女大"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "线下"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "深圳"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2077211458006573056",
+              "start": 3,
+              "username": "Juc5a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qkDbyTk7pb",
+              "end": 100,
+              "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+              "media_key": "3_2078314293616160768",
+              "start": 77,
+              "url": "https://t.co/qkDbyTk7pb"
+            },
+            {
+              "display_url": "pic.x.com/qkDbyTk7pb",
+              "end": 100,
+              "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+              "media_key": "3_2078314293356056576",
+              "start": 77,
+              "url": "https://t.co/qkDbyTk7pb"
+            },
+            {
+              "display_url": "pic.x.com/qkDbyTk7pb",
+              "end": 100,
+              "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+              "media_key": "3_2078314293624541184",
+              "start": 77,
+              "url": "https://t.co/qkDbyTk7pb"
+            },
+            {
+              "display_url": "pic.x.com/qkDbyTk7pb",
+              "end": 100,
+              "expanded_url": "https://x.com/Juc5a/status/2078314301182603619/photo/1",
+              "media_key": "3_2078314293351858176",
+              "start": 77,
+              "url": "https://t.co/qkDbyTk7pb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079169937713885643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078314301182603619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Juc5a: 更新一下置顶吧🔝 缺钱喵～哥哥喜欢可以入🚪～保证情绪价值拉满！关注➕转发置顶抽五个小🧧哦 #广州 #门槛妹 #女大 #线下 #深圳 https://t.co/qkDbyTk7pb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "username": "lyxz738"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2079169407079919754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 270,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T02:03:04.000Z",
+        "description": "这里是小Y 坐标广州 全国可✈️喜欢我请过门ww 支持口令和赞赏码。请多多爱我吧 我超会提供情绪价值哒",
+        "id": "2077211458006573056",
+        "name": "小Y",
+        "pinned_tweet_id": "2078314301182603619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078296420558548992/28ic6UIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Juc5a",
+        "verified": false
+      }
+    ]
+  }
+}

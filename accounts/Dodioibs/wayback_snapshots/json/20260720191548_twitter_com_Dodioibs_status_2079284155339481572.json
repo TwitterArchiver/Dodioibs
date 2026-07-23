@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2045598149704818688",
+    "conversation_id": "2079084839807115458",
+    "created_at": "2026-07-20T19:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079284155339481572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061323838349340672",
+          "start": 0,
+          "username": "misakinae8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079284155339481572",
+    "in_reply_to_user_id": "2061323838349340672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079084839807115458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakinae8964 金毛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1211,
+        "media_key": "3_2079084828289601536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpkosgbEAAiHdt.jpg",
+        "width": 943
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079084828323127296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpkosoaoAAhQ5I.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045598149704818688",
+        "conversation_id": "2079084839807115458",
+        "created_at": "2026-07-20T19:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079284155339481572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079284155339481572",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079084839807115458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 金毛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079084828289601536",
+            "3_2079084828323127296"
+          ]
+        },
+        "author_id": "2061323838349340672",
+        "conversation_id": "2079084839807115458",
+        "created_at": "2026-07-20T06:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079084839807115458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AMSL81NmsR",
+              "end": 34,
+              "expanded_url": "https://x.com/misakinae8964/status/2079084839807115458/photo/1",
+              "media_key": "3_2079084828289601536",
+              "start": 11,
+              "url": "https://t.co/AMSL81NmsR"
+            },
+            {
+              "display_url": "pic.x.com/AMSL81NmsR",
+              "end": 34,
+              "expanded_url": "https://x.com/misakinae8964/status/2079084839807115458/photo/1",
+              "media_key": "3_2079084828323127296",
+              "start": 11,
+              "url": "https://t.co/AMSL81NmsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079084839807115458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1737,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "金毛好看还是黑毛好看 https://t.co/AMSL81NmsR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-18T20:21:35.000Z",
+        "description": "中式地雷餐券女 自傷 od bpd｜\n没回和定制伤口私信我 不怎么上线\n防炸@dooaisuan\n爱人@c10n3_f\n老婆3.0 @lyxz738",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "dooaisuan"
+              },
+              {
+                "end": 59,
+                "start": 51,
+                "username": "c10n3_f"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "username": "lyxz738"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bhxj1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bhxj1",
+                "start": 0,
+                "url": "https://t.co/7MZYvhdtK5"
+              }
+            ]
+          }
+        },
+        "id": "2045598149704818688",
+        "location": "13.14🚪纯绿",
+        "name": "小酸2.0（寻回推友中）",
+        "pinned_tweet_id": "2079171730413933020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079186633807785984/EszLATHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 277,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/7MZYvhdtK5",
+        "username": "Dodioibs",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 308,
+          "like_count": 3189,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 630
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      }
+    ]
+  }
+}
